@@ -1,5 +1,5 @@
 {
- "version": 2,
+ "version": 3,
  "sections": [
   {
    "id": "grammar",
@@ -225,6 +225,402 @@
     }
    ],
    "title_roman": "luğat"
+  },
+  {
+   "id": "names",
+   "emoji": "📛",
+   "title_ur": "پشتو نام",
+   "title_ps": "پښتو نومونه",
+   "items": [
+    {
+     "id": "n1",
+     "title_ps": "زلمی",
+     "title_ur": "نوجوان",
+     "title_roman": "zalmay",
+     "body_ps": "جنس: نارينه\nمانا: نوجوان",
+     "body_roman": "jins: nārīna\nmānā: naujawān",
+     "body_ur": "جنس: نارينه (مذکر)\nمعنی: نوجوان"
+    },
+    {
+     "id": "n2",
+     "title_ps": "توريالی",
+     "title_ur": "بہادر، تلوار باز",
+     "title_roman": "toryālay",
+     "body_ps": "جنس: نارينه\nمانا: بہادر، تلوار باز",
+     "body_roman": "jins: nārīna\nmānā: bahādur, talwār bāz",
+     "body_ur": "جنس: نارينه (مذکر)\nمعنی: بہادر، تلوار باز"
+    },
+    {
+     "id": "n3",
+     "title_ps": "خوشال",
+     "title_ur": "خوش، مسرور",
+     "title_roman": "xušāl",
+     "body_ps": "جنس: نارينه\nمانا: خوش، مسرور",
+     "body_roman": "jins: nārīna\nmānā: xuš, masrūr",
+     "body_ur": "جنس: نارينه (مذکر)\nمعنی: خوش، مسرور"
+    },
+    {
+     "id": "n4",
+     "title_ps": "سمسور",
+     "title_ur": "سرسبز و شاداب",
+     "title_roman": "samsor",
+     "body_ps": "جنس: نارينه\nمانا: سرسبز و شاداب",
+     "body_roman": "jins: nārīna\nmānā: sarsabz o šādāb",
+     "body_ur": "جنس: نارينه (مذکر)\nمعنی: سرسبز و شاداب"
+    },
+    {
+     "id": "n5",
+     "title_ps": "بريالی",
+     "title_ur": "کامیاب",
+     "title_roman": "baryālay",
+     "body_ps": "جنس: نارينه\nمانا: کامیاب",
+     "body_roman": "jins: nārīna\nmānā: kāmyāb",
+     "body_ur": "جنس: نارينه (مذکر)\nمعنی: کامیاب"
+    },
+    {
+     "id": "n6",
+     "title_ps": "ننګيالی",
+     "title_ur": "غیرت مند، بہادر",
+     "title_roman": "nangyālay",
+     "body_ps": "جنس: نارينه\nمانا: غیرت مند، بہادر",
+     "body_roman": "jins: nārīna\nmānā: ğayrat mand, bahādur",
+     "body_ur": "جنس: نارينه (مذکر)\nمعنی: غیرت مند، بہادر"
+    },
+    {
+     "id": "n7",
+     "title_ps": "اتل",
+     "title_ur": "بہادر، ہیرو",
+     "title_roman": "atal",
+     "body_ps": "جنس: نارينه\nمانا: بہادر، ہیرو",
+     "body_roman": "jins: nārīna\nmānā: bahādur, hīro",
+     "body_ur": "جنس: نارينه (مذکر)\nمعنی: بہادر، ہیرو"
+    },
+    {
+     "id": "n8",
+     "title_ps": "ځلاند",
+     "title_ur": "چمکتا ہوا، روشن",
+     "title_roman": "ǰalānd",
+     "body_ps": "جنس: نارينه\nمانا: چمکتا ہوا، روشن",
+     "body_roman": "jins: nārīna\nmānā: čamaktā huwā, rošan",
+     "body_ur": "جنس: نارينه (مذکر)\nمعنی: چمکتا ہوا، روشن"
+    },
+    {
+     "id": "n9",
+     "title_ps": "ګلاب",
+     "title_ur": "گلاب کا پھول",
+     "title_roman": "gulāb",
+     "body_ps": "جنس: نارينه\nمانا: گلاب کا پھول",
+     "body_roman": "jins: nārīna\nmānā: gulāb kā phūl",
+     "body_ur": "جنس: نارينه (مذکر)\nمعنی: گلاب کا پھول"
+    },
+    {
+     "id": "n10",
+     "title_ps": "ملنګ",
+     "title_ur": "درویش، فقیر",
+     "title_roman": "malang",
+     "body_ps": "جنس: نارينه\nمانا: درویش، فقیر",
+     "body_roman": "jins: nārīna\nmānā: darweš, faqīr",
+     "body_ur": "جنس: نارينه (مذکر)\nمعنی: درویش، فقیر"
+    },
+    {
+     "id": "n11",
+     "title_ps": "روښان",
+     "title_ur": "روشن، چمکدار",
+     "title_roman": "roṣān",
+     "body_ps": "جنس: نارينه\nمانا: روشن، چمکدار",
+     "body_roman": "jins: nārīna\nmānā: rošan, čamakdār",
+     "body_ur": "جنس: نارينه (مذکر)\nمعنی: روشن، چمکدار"
+    },
+    {
+     "id": "n12",
+     "title_ps": "سپېڅلی",
+     "title_ur": "پاک، مقدس",
+     "title_roman": "specalay",
+     "body_ps": "جنس: نارينه\nمانا: پاک، مقدس",
+     "body_roman": "jins: nārīna\nmānā: pāk, muqaddas",
+     "body_ur": "جنس: نارينه (مذکر)\nمعنی: پاک، مقدس"
+    },
+    {
+     "id": "n13",
+     "title_ps": "وياړ",
+     "title_ur": "فخر، شان",
+     "title_roman": "wyāṛ",
+     "body_ps": "جنس: نارينه\nمانا: فخر، شان",
+     "body_roman": "jins: nārīna\nmānā: faxr, šān",
+     "body_ur": "جنس: نارينه (مذکر)\nمعنی: فخر، شان"
+    },
+    {
+     "id": "n14",
+     "title_ps": "خپلواک",
+     "title_ur": "آزاد، خود مختار",
+     "title_roman": "xpalwāk",
+     "body_ps": "جنس: نارينه\nمانا: آزاد، خود مختار",
+     "body_roman": "jins: nārīna\nmānā: āzād, xud muxtār",
+     "body_ur": "جنس: نارينه (مذکر)\nمعنی: آزاد، خود مختار"
+    },
+    {
+     "id": "n15",
+     "title_ps": "پامیر",
+     "title_ur": "مشہور بلند پہاڑی سلسلہ",
+     "title_roman": "pāmīr",
+     "body_ps": "جنس: نارينه\nمانا: مشہور بلند پہاڑی سلسلہ",
+     "body_roman": "jins: nārīna\nmānā: mašhūr buland pahāṛī silsila",
+     "body_ur": "جنس: نارينه (مذکر)\nمعنی: مشہور بلند پہاڑی سلسلہ"
+    },
+    {
+     "id": "n16",
+     "title_ps": "ودان",
+     "title_ur": "آباد، پررونق",
+     "title_roman": "wadān",
+     "body_ps": "جنس: نارينه\nمانا: آباد، پررونق",
+     "body_roman": "jins: nārīna\nmānā: ābād, purraunaq",
+     "body_ur": "جنس: نارينه (مذکر)\nمعنی: آباد، پررونق"
+    },
+    {
+     "id": "n17",
+     "title_ps": "هېواد",
+     "title_ur": "وطن، ملک",
+     "title_roman": "hewād",
+     "body_ps": "جنس: نارينه\nمانا: وطن، ملک",
+     "body_roman": "jins: nārīna\nmānā: watan, mulk",
+     "body_ur": "جنس: نارينه (مذکر)\nمعنی: وطن، ملک"
+    },
+    {
+     "id": "n18",
+     "title_ps": "ببرک",
+     "title_ur": "ننھا شیر",
+     "title_roman": "babrak",
+     "body_ps": "جنس: نارينه\nمانا: ننھا شیر",
+     "body_roman": "jins: nārīna\nmānā: nanhā šer",
+     "body_ur": "جنس: نارينه (مذکر)\nمعنی: ننھا شیر"
+    },
+    {
+     "id": "n19",
+     "title_ps": "څرګند",
+     "title_ur": "روشن، ظاہر",
+     "title_roman": "cargand",
+     "body_ps": "جنس: نارينه\nمانا: روشن، ظاہر",
+     "body_roman": "jins: nārīna\nmānā: rošan, zāhir",
+     "body_ur": "جنس: نارينه (مذکر)\nمعنی: روشن، ظاہر"
+    },
+    {
+     "id": "n20",
+     "title_ps": "ګلزار",
+     "title_ur": "گلشن، باغ",
+     "title_roman": "gulzār",
+     "body_ps": "جنس: نارينه\nمانا: گلشن، باغ",
+     "body_roman": "jins: nārīna\nmānā: gulšan, bāğ",
+     "body_ur": "جنس: نارينه (مذکر)\nمعنی: گلشن، باغ"
+    },
+    {
+     "id": "n21",
+     "title_ps": "ارمان",
+     "title_ur": "آرزو، تمنا",
+     "title_roman": "armān",
+     "body_ps": "جنس: نارينه\nمانا: آرزو، تمنا",
+     "body_roman": "jins: nārīna\nmānā: ārzū, tamannā",
+     "body_ur": "جنس: نارينه (مذکر)\nمعنی: آرزو، تمنا"
+    },
+    {
+     "id": "n22",
+     "title_ps": "ملاله",
+     "title_ur": "افسردہ، غمگین",
+     "title_roman": "malāla",
+     "body_ps": "جنس: ښځينه\nمانا: افسردہ، غمگین",
+     "body_roman": "jins: ṣaǰīna\nmānā: afsurda, ğamgīn",
+     "body_ur": "جنس: ښځينه (مؤنث)\nمعنی: افسردہ، غمگین"
+    },
+    {
+     "id": "n23",
+     "title_ps": "نازو",
+     "title_ur": "ناز والی، نازک",
+     "title_roman": "nāzo",
+     "body_ps": "جنس: ښځينه\nمانا: ناز والی، نازک",
+     "body_roman": "jins: ṣaǰīna\nmānā: nāz wālī, nāzuk",
+     "body_ur": "جنس: ښځينه (مؤنث)\nمعنی: ناز والی، نازک"
+    },
+    {
+     "id": "n24",
+     "title_ps": "زرغونه",
+     "title_ur": "سرسبز، شاداب",
+     "title_roman": "zarğūna",
+     "body_ps": "جنس: ښځينه\nمانا: سرسبز، شاداب",
+     "body_roman": "jins: ṣaǰīna\nmānā: sarsabz, šādāb",
+     "body_ur": "جنس: ښځينه (مؤنث)\nمعنی: سرسبز، شاداب"
+    },
+    {
+     "id": "n25",
+     "title_ps": "ګل مکۍ",
+     "title_ur": "پھول جیسی",
+     "title_roman": "gul makay",
+     "body_ps": "جنس: ښځينه\nمانا: پھول جیسی",
+     "body_roman": "jins: ṣaǰīna\nmānā: phūl jaisī",
+     "body_ur": "جنس: ښځينه (مؤنث)\nمعنی: پھول جیسی"
+    },
+    {
+     "id": "n26",
+     "title_ps": "سپوږمۍ",
+     "title_ur": "چاند",
+     "title_roman": "spoẓmay",
+     "body_ps": "جنس: ښځينه\nمانا: چاند",
+     "body_roman": "jins: ṣaǰīna\nmānā: čānd",
+     "body_ur": "جنس: ښځينه (مؤنث)\nمعنی: چاند"
+    },
+    {
+     "id": "n27",
+     "title_ps": "ستورۍ",
+     "title_ur": "ستارے",
+     "title_roman": "storay",
+     "body_ps": "جنس: ښځينه\nمانا: ستارے",
+     "body_roman": "jins: ṣaǰīna\nmānā: sitāre",
+     "body_ur": "جنس: ښځينه (مؤنث)\nمعنی: ستارے"
+    },
+    {
+     "id": "n28",
+     "title_ps": "رڼا",
+     "title_ur": "روشنی",
+     "title_roman": "raṇā",
+     "body_ps": "جنس: ښځينه\nمانا: روشنی",
+     "body_roman": "jins: ṣaǰīna\nmānā: rošanī",
+     "body_ur": "جنس: ښځينه (مؤنث)\nمعنی: روشنی"
+    },
+    {
+     "id": "n29",
+     "title_ps": "هيله",
+     "title_ur": "امید",
+     "title_roman": "hīla",
+     "body_ps": "جنس: ښځينه\nمانا: امید",
+     "body_roman": "jins: ṣaǰīna\nmānā: umīd",
+     "body_ur": "جنس: ښځينه (مؤنث)\nمعنی: امید"
+    },
+    {
+     "id": "n30",
+     "title_ps": "مینه",
+     "title_ur": "محبت",
+     "title_roman": "mīna",
+     "body_ps": "جنس: ښځينه\nمانا: محبت",
+     "body_roman": "jins: ṣaǰīna\nmānā: muhabbat",
+     "body_ur": "جنس: ښځينه (مؤنث)\nمعنی: محبت"
+    },
+    {
+     "id": "n31",
+     "title_ps": "زرلښته",
+     "title_ur": "سنہری شاخ",
+     "title_roman": "zarlaṣṭa",
+     "body_ps": "جنس: ښځينه\nمانا: سنہری شاخ",
+     "body_roman": "jins: ṣaǰīna\nmānā: sunahrī šāx",
+     "body_ur": "جنس: ښځينه (مؤنث)\nمعنی: سنہری شاخ"
+    },
+    {
+     "id": "n32",
+     "title_ps": "زرينه",
+     "title_ur": "سنہری",
+     "title_roman": "zarīna",
+     "body_ps": "جنس: ښځينه\nمانا: سنہری",
+     "body_roman": "jins: ṣaǰīna\nmānā: sunahrī",
+     "body_ur": "جنس: ښځينه (مؤنث)\nمعنی: سنہری"
+    },
+    {
+     "id": "n33",
+     "title_ps": "ګلالۍ",
+     "title_ur": "پھول جیسی",
+     "title_roman": "gulālay",
+     "body_ps": "جنس: ښځينه\nمانا: پھول جیسی",
+     "body_roman": "jins: ṣaǰīna\nmānā: phūl jaisī",
+     "body_ur": "جنس: ښځينه (مؤنث)\nمعنی: پھول جیسی"
+    },
+    {
+     "id": "n34",
+     "title_ps": "ملغلره",
+     "title_ur": "موتی",
+     "title_roman": "malğalara",
+     "body_ps": "جنس: ښځينه\nمانا: موتی",
+     "body_roman": "jins: ṣaǰīna\nmānā: motī",
+     "body_ur": "جنس: ښځينه (مؤنث)\nمعنی: موتی"
+    },
+    {
+     "id": "n35",
+     "title_ps": "ښاپېرۍ",
+     "title_ur": "پری",
+     "title_roman": "ṣāperay",
+     "body_ps": "جنس: ښځينه\nمانا: پری",
+     "body_roman": "jins: ṣaǰīna\nmānā: parī",
+     "body_ur": "جنس: ښځينه (مؤنث)\nمعنی: پری"
+    },
+    {
+     "id": "n36",
+     "title_ps": "زرمينه",
+     "title_ur": "سنہری",
+     "title_roman": "zarmīna",
+     "body_ps": "جنس: ښځينه\nمانا: سنہری",
+     "body_roman": "jins: ṣaǰīna\nmānā: sunahrī",
+     "body_ur": "جنس: ښځينه (مؤنث)\nمعنی: سنہری"
+    },
+    {
+     "id": "n37",
+     "title_ps": "غوټۍ",
+     "title_ur": "پھول کی کلی",
+     "title_roman": "ğoṭay",
+     "body_ps": "جنس: ښځينه\nمانا: پھول کی کلی",
+     "body_roman": "jins: ṣaǰīna\nmānā: phūl kī kalī",
+     "body_ur": "جنس: ښځينه (مؤنث)\nمعنی: پھول کی کلی"
+    },
+    {
+     "id": "n38",
+     "title_ps": "پښتنه",
+     "title_ur": "پشتون لڑکی",
+     "title_roman": "paṣtana",
+     "body_ps": "جنس: ښځينه\nمانا: پشتون لڑکی",
+     "body_roman": "jins: ṣaǰīna\nmānā: paxtūn laṛkī",
+     "body_ur": "جنس: ښځينه (مؤنث)\nمعنی: پشتون لڑکی"
+    },
+    {
+     "id": "n39",
+     "title_ps": "خوږه",
+     "title_ur": "میٹھی",
+     "title_roman": "xwaẓa",
+     "body_ps": "جنس: ښځينه\nمانا: میٹھی",
+     "body_roman": "jins: ṣaǰīna\nmānā: mīṭhī",
+     "body_ur": "جنس: ښځينه (مؤنث)\nمعنی: میٹھی"
+    },
+    {
+     "id": "n40",
+     "title_ps": "نرګس",
+     "title_ur": "نرگس کا پھول",
+     "title_roman": "nargas",
+     "body_ps": "جنس: ښځينه\nمانا: نرگس کا پھول",
+     "body_roman": "jins: ṣaǰīna\nmānā: nargas kā phūl",
+     "body_ur": "جنس: ښځينه (مؤنث)\nمعنی: نرگس کا پھول"
+    },
+    {
+     "id": "n41",
+     "title_ps": "ځلا",
+     "title_ur": "چمک، روشنی",
+     "title_roman": "ǰalā",
+     "body_ps": "جنس: ښځينه\nمانا: چمک، روشنی",
+     "body_roman": "jins: ṣaǰīna\nmānā: čamak, rošanī",
+     "body_ur": "جنس: ښځينه (مؤنث)\nمعنی: چمک، روشنی"
+    },
+    {
+     "id": "n42",
+     "title_ps": "برېښنا",
+     "title_ur": "بجلی",
+     "title_roman": "breṣṇā",
+     "body_ps": "جنس: ښځينه\nمانا: بجلی",
+     "body_roman": "jins: ṣaǰīna\nmānā: bijlī",
+     "body_ur": "جنس: ښځينه (مؤنث)\nمعنی: بجلی"
+    },
+    {
+     "id": "n43",
+     "title_ps": "وږمه",
+     "title_ur": "خوشبو",
+     "title_roman": "waẓma",
+     "body_ps": "جنس: ښځينه\nمانا: خوشبو",
+     "body_roman": "jins: ṣaǰīna\nmānā: xušbū",
+     "body_ur": "جنس: ښځينه (مؤنث)\nمعنی: خوشبو"
+    }
+   ],
+   "title_roman": "pəṣto nūmūna"
   }
  ]
 }
