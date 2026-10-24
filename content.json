@@ -1,5 +1,5 @@
 {
- "version": 17,
+ "version": 18,
  "sections": [
   {
    "id": "grammar",
@@ -1251,7 +1251,7 @@
     }
    ],
    "title_roman": "luğat",
-   "page_size": 20
+   "page_size": 0
   },
   {
    "id": "names",
