@@ -1,5 +1,5 @@
 {
- "version": 10,
+ "version": 11,
  "sections": [
   {
    "id": "grammar",
@@ -149,21 +149,32 @@
   {
    "id": "poetry",
    "emoji": "🎶",
-   "title_ur": "شاعری",
-   "title_ps": "شاعري",
+   "title_ur": "رحمان بابا کا دیوان",
+   "title_ps": "د رحمان بابا دېوان",
    "items": [
     {
      "id": "p2",
-     "title_ps": "رحمان بابا",
-     "title_ur": "رحمان بابا",
-     "title_roman": "Rahmān Bābā",
+     "title_ps": "حمد",
+     "title_ur": "حمد",
+     "title_roman": "ḥamd",
      "body_ps": "ګوره هسې کردګار دی رب زما\nچې صاحب د کل اختیار دی رب زما\nهمګي بزرګواران چې څوک یې وايي\nتر همه و بزرګوار دی رب زما\nنه یې هېڅ حاجت په چا باندې موقوف دی\nنه د هېچا منت بار دی رب زما\nله نېستۍ یې د هستۍ صورت پیدا کړ\nهسې رنګ پروردګار دی رب زما\nهم صانع دی د همه و مصنوعاتو\nهم سامع د هر ګفتار دی رب زما\nچې یې هېچېرې نه مثل نه مثال شته\nد هغو عطرو عطار دی رب زما\nهر تعمیر چې د دنیا او د عقبا دی\nد همه واړو معمار دی رب زما\nخواننده د نا نوېسو صحیفو دی\nداننده د هر اسرار دی رب زما\nکه ظاهر دي که باطن دي که مابین دي\nله همه و خبردار دی رب زما\nکه پیدا که پوشیده دي که اوسط دي\nپه همه و وقوفدار دی رب زما\nشریک نه لري په خپلې پادشاهۍ کې\nبې شریکه شهریار دی رب زما\nهسې نه چې واحدي ده له عجزه\nپه واحد وجود بیسیار دی رب زما\nحاجت نه لري د هېچا و یاري ته\nله هغو سره چې یار دی رب زما\nڅه حاجت دی چې یې بل خوا ته وغواړم\nپه خپل کور کې همکنار دی رب زما\nهېڅ تغیر و تبدیل نه لري رحمانه\nتل تر تله برقرار دی رب زما",
      "body_roman": "gora hase kurdgār day rab zmā\nče ṣāḥib da kul ixtiyār day rab zmā\nhamgī buzurgwārān če cok ye wāyī\ntar hamaw buzurgwār day rab zmā\nna ye hec ḥājat pa čā bānde mawqūf day\nna da hečā minnat bār day rab zmā\nla nestī ye da hastī ṣūrat paydā kṛ\nhase rang parwardgār day rab zmā\nham ṣāniʿ day da hamaw maṣnūʿāto\nham sāmiʿ da har guftār day rab zmā\nče ye hečere na misl na misāl šta\nda hagho ʿiṭro ʿaṭṭār day rab zmā\nhar taʿmīr če da dunyā aw da ʿuqbā day\nda hama wāṛo miʿmār day rab zmā\nxwānanda da nā naweso ṣaḥīfo day\ndānanda da har asrār day rab zmā\nka ẓāhir dī ka bāṭin dī ka mābayn dī\nla hamaw xabardār day rab zmā\nka paydā ka pošīda dī ka awsaṭ dī\npa hamaw wuqūfdār day rab zmā\nšarīk na larī pa xpəle pādšāhī ke\nbe šarīka šahryār day rab zmā\nhase na če wāḥidī da la ʿajza\npa wāḥid wujūd bisyār day rab zmā\nḥājat na larī da hečaw yārī ta\nla hagho sara če yār day rab zmā\nca ḥājat day če ye bal xwā ta wağāṛəm\npa xpəl kor ke hamkinār day rab zmā\nhec tağayyuraw tabdīl na larī Raḥmāna\ntal tar tala barqarār day rab zmā",
      "body_ur": "دیکھو، ایسا خالق ہے میرا رب\nجو سب اختیار کا مالک ہے، میرا رب\nسب بزرگ جن کا بھی کوئی ذکر کرے\nان سب سے بزرگ تر ہے، میرا رب\nاس کی کوئی حاجت کسی پر موقوف نہیں\nکسی کا احسان مند نہیں ہے، میرا رب\nنیستی سے اس نے ہستی کی صورت پیدا کی\nایسا ہی پروردگار ہے، میرا رب\nوہی سب مصنوعات کا صانع ہے\nاور ہر گفتار کا سامع ہے، میرا رب\nجس کا کہیں کوئی مثل و مثال نہیں\nان عطروں کا عطار ہے، میرا رب\nدنیا و عقبیٰ کی ہر تعمیر کا\nسب کا معمار ہے، میرا رب\nنالکھے صحیفوں کا خوانندہ ہے\nہر اسرار کا دانندہ ہے، میرا رب\nظاہر ہو یا باطن یا مابین\nسب سے خبردار ہے، میرا رب\nپیدا ہو یا پوشیدہ یا اوسط\nسب پر وقوف رکھتا ہے، میرا رب\nاپنی پادشاہی میں کوئی شریک نہیں رکھتا\nبے شریک شہریار ہے، میرا رب\nایسا نہیں کہ اس کی وحدت عجز سے ہے\nواحد وجود میں بسیار ہے، میرا رب\nکسی کی یاری کا محتاج نہیں\nجن سے وہ یار ہے، میرا رب\nکیا حاجت ہے کہ میں کسی اور طرف پکاروں\nاپنے ہی گھر میں وہ ہمکنار ہے، میرا رب\nاے رحمان! اس میں کوئی تغیر و تبدیل نہیں\nہمیشہ ہمیشہ برقرار ہے، میرا رب",
      "body_en": "Behold — such a Creator is my Lord\nWho holds all authority, my Lord\nAll the great ones, whomever one may name\nGreater than them all is my Lord\nNo need of His depends on anyone\nNor is He beholden to anyone, my Lord\nFrom nothingness He gave being its form\nSuch a Sustainer is my Lord\nHe is the Maker of all that is made\nAnd the Hearer of every word, my Lord\nWho has, anywhere, no like and no likeness\nHe is the Perfumer of those perfumes, my Lord\nEvery edifice of this world and the next\nOf them all He is the Architect, my Lord\nHe is the Reader of unwritten pages\nAnd the Knower of every secret, my Lord\nWhether manifest or hidden or between\nOf all He is aware, my Lord\nWhether visible or concealed or in between\nOf all He has full knowledge, my Lord\nHe keeps no partner in His kingdom\nPartnerless, He is the King, my Lord\nNot that His Oneness comes from weakness\nIn His single Being He is manifold, my Lord\nHe needs no one's friendship or help\nYet to those He is a friend, my Lord\nWhat need is there to call on any other side?\nIn my own home He is beside me, my Lord\nNo change or alteration touches Him, O Rahman\nForever and ever He endures, my Lord"
+    },
+    {
+     "id": "p3",
+     "title_ps": "نعت",
+     "title_ur": "نعت",
+     "title_roman": "naʿt",
+     "body_ps": "که صورت د محمد ﷺ نه وی پیدا\nپیدا کړې به خدای نه وه دا دنیا\nکل جهان د محمد ﷺ په روی پیدا شه\nمحمد ﷺ دی د تمام جهان آبا\nنبوت په محمد ﷺ باندې تمام شه\nنشته پس له محمده ﷺ انبیاء\nنور هاله د محمد ﷺ و په جهان کې\nچې بوی نه و د آدم او د حوا\nپه صورت که آخرین دی پیدا شوی\nپه مانا کې اولین دی له هر چا\nخدای یې مه ګڼه بې شکه چې بنده دی\nنور یې کل واړه صفات دي په رښتیا\nکه نبي دی که ولي دی که عاصي دی\nمحمد ﷺ دی د همه واړو پېشوا\nچې يې دین د محمد ﷺ دی قبول کړی\nجنتي دی که فاسق دی که پارسا\nمحمد ﷺ د ګمراهانو رهنما دی\nمحمد ﷺ دی د ړندو د لاس عصا\nکه رڼا ده پېروي د محمد ﷺ ده\nګڼه نشته په جهان بله رڼا\nمحمد ﷺ د بې چاره و چاره ګر دی\nمحمد ﷺ دی هر دردمند لره دوا\nزه رحمان د محمد ﷺ د در خاکروب یم\nکه مې خدای نه کا له دې دره جدا",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "",
+     "grammar": ""
     }
    ],
-   "title_roman": "šāʿirī"
+   "title_roman": "da Rahmān Bābā dewān"
   },
   {
    "id": "proverbs",
