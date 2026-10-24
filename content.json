@@ -1,5 +1,5 @@
 {
- "version": 16,
+ "version": 17,
  "sections": [
   {
    "id": "grammar",
@@ -1250,7 +1250,8 @@
      "grammar": "قید"
     }
    ],
-   "title_roman": "luğat"
+   "title_roman": "luğat",
+   "page_size": 20
   },
   {
    "id": "names",
@@ -3151,7 +3152,8 @@
      "grammar": ""
     }
    ],
-   "title_roman": "Oxford English-Pashto-Urdu Dictionary"
+   "title_roman": "Oxford English-Pashto-Urdu Dictionary",
+   "page_size": 0
   }
  ]
 }
