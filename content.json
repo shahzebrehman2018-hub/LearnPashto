@@ -1,5 +1,5 @@
 {
- "version": 8,
+ "version": 9,
  "sections": [
   {
    "id": "grammar",
@@ -1139,6 +1139,26 @@
     }
    ],
    "title_roman": "pəṣto nūmūna"
+  },
+  {
+   "id": "oxford",
+   "emoji": "📕",
+   "title_ur": "آکسفورڈ انگریزی پشتو اردو لغت",
+   "title_ps": "اکسفورډ انګرېزي پښتو اُردو لغت",
+   "items": [
+    {
+     "id": "ox1",
+     "title_ps": "اکسفورډ انګرېزي پښتو اُردو لغت",
+     "title_ur": "آکسفورڈ انگریزی پشتو اردو لغت",
+     "title_roman": "Oxford English-Pashto-Urdu Dictionary",
+     "body_ps": "دلته به ژر انګرېزي، پښتو او اردو وييونه اضافه شي.",
+     "body_roman": "Words will be added here soon.",
+     "body_ur": "یہاں جلد انگریزی، پشتو اور اردو الفاظ شامل کیے جائیں گے۔",
+     "body_en": "This section is being prepared — English, Pashto and Urdu words will be added here soon.",
+     "grammar": ""
+    }
+   ],
+   "title_roman": "Oxford English-Pashto-Urdu Dictionary"
   }
  ]
 }
