@@ -1,5 +1,5 @@
 {
- "version": 22,
+ "version": 23,
  "sections": [
   {
    "id": "grammar",
@@ -17758,9 +17758,9 @@
      "title_ps": "د رحمان بابا دېوان",
      "title_ur": "رحمان بابا کا دیوان",
      "title_roman": "da Rahmān Bābā dewān",
-     "body_ps": "حمد\nنعت",
+     "body_ps": "حمد\nنعت\nدوباره دې راتله نشته په دنیا",
      "body_roman": "ḥamd\nnaʿt",
-     "body_ur": "حمد\nنعت",
+     "body_ur": "حمد\nنعت\nدوباره دې راتله نشته په دنیا",
      "body_en": "",
      "grammar": "",
      "children": [
@@ -17783,6 +17783,17 @@
        "body_roman": "ka sūrat da Muhammad ﷺ na wī paydā\npaydā kṛe ba Xudāy na wa dā dunyā\nkal jahān da Muhammad ﷺ pa roy paydā ša\nMuhammad ﷺ day da tamām jahān ābā\nnubūwat pa Muhammad ﷺ bānde tamām ša\nništa pas la Muhammada ﷺ anbiyā\nnūr hāla da Muhammad ﷺ wo pa jahān ke\nče boy na wo da Ādam aw da Ḥawā\npa sūrat ka āxrīn day paydā šaway\npa mānā ke awwalīn day la har čā\nXudāy ye ma gaṇa be šaka če banda day\nnūr ye kal wāṛa sifāt dī pa ṛaṣtyā\nka nabī day ka walī day ka ʿāsī day\nMuhammad ﷺ day da hama wāṛo pešwā\nče ye dīn da Muhammad ﷺ day qabūl kṛay\njannatī day ka fāsiq day ka pārsā\nMuhammad ﷺ da gumrāhāno rahnamā day\nMuhammad ﷺ day da ṛundo da lās ʿasā\nka ṛaṇā da perawī da Muhammad ﷺ da\ngaṇa ništa pa jahān bala ṛaṇā\nMuhammad ﷺ da be čāra wo čāra gar day\nMuhammad ﷺ day har dardmand lara dawā\nza Rahmān da Muhammad ﷺ da dar xākrob yam\nka me Xudāy na kā la de dara judā",
        "body_ur": "اگر محمد ﷺ کی صورت پیدا نہ ہوتی\nخدا اس دنیا کو پیدا نہ کرتا\nسارا جہان محمد ﷺ کے صدقے پیدا ہوا\nمحمد ﷺ سارے جہان کے باپ ہیں\nنبوت محمد ﷺ پر ختم ہوئی\nمحمد ﷺ کے بعد کوئی نبی نہیں\nمحمد ﷺ کا نور جہان میں پہلے سے تھا\nجب آدم و حوا کا نام و نشان تک نہ تھا\nصورت کے اعتبار سے اگرچہ سب سے آخر میں پیدا ہوئے\nمعنی کے لحاظ سے سب سے اول ہیں\nانہیں خدا نہ سمجھو، بے شک وہ بندے ہیں\nباقی ان کی تمام صفتیں برحق ہیں\nچاہے نبی ہو، ولی ہو یا گناہگار ہو\nمحمد ﷺ سب کے پیشوا ہیں\nجس نے محمد ﷺ کا دین قبول کیا ہے\nوہ جنتی ہے، چاہے فاسق ہو یا پارسا\nمحمد ﷺ گمراہوں کو سیدھا راستہ دکھانے والے ہیں\nمحمد ﷺ اندھوں کے ہاتھ کی لاٹھی ہیں\nاگر روشنی ہے تو محمد ﷺ کی پیروی ہے\nدنیا میں اس کے علاوہ کوئی روشنی نہ سمجھو\nمحمد ﷺ بے چاروں کے چارہ گر ہیں\nمحمد ﷺ ہر دردمند کے لیے دوا ہیں\nمیں رحمان محمد ﷺ کے در کا خاکروب ہوں\nخدا مجھے اس در سے جدا نہ کرے",
        "body_en": "Had the form of Muhammad ﷺ not been created,\nGod would not have created this world.\nThe whole world came into being for the sake of Muhammad's ﷺ countenance;\nMuhammad ﷺ is the forefather of the entire world.\nProphethood ended with Muhammad ﷺ;\nthere is no prophet after Muhammad ﷺ.\nAt that time, only the light of Muhammad ﷺ existed in the world,\nwhen there was not even a trace of Adam and Eve.\nIn form, though he was created last of all,\nin meaning, he is the first of all.\nDo not take him for God — undoubtedly, he is a servant;\nall his other attributes are truly so.\nWhether prophet, saint, or sinner —\nMuhammad ﷺ is the leader of them all.\nWhoever has accepted the faith of Muhammad ﷺ\nis bound for Paradise, whether transgressor or pious.\nMuhammad ﷺ is the guide who shows the misguided the straight path;\nMuhammad ﷺ is the staff in the hand of the blind.\nIf there is light, it is the following of Muhammad ﷺ;\nthere is no other light in the world.\nMuhammad ﷺ is the helper of the helpless;\nMuhammad ﷺ is the cure for every afflicted one.\nI, Rahman, am the sweeper of Muhammad's ﷺ court;\nmay God never separate me from this court.",
+       "grammar": ""
+      },
+      {
+       "id": "p4",
+       "title_ps": "دوباره دې راتله نشته په دنیا",
+       "title_ur": "دوباره دې راتله نشته په دنیا",
+       "title_roman": "",
+       "body_ps": "دوباره دې راتله نشته په دنیا\nنن دې وار دی که دروغ کړې که رښتیا\nهره چار چې تر وقت تېره شي عنقا شي\nعنقا نه دی په دام نښتی د هېچا\nتر ورخ تېرې اوبه بېرته نه جار وځي\nنه جار وځي تېر ساعت په بېرته بيا\nتېر ساعت په مثال مړی د لحد دی\nمړ چا نه دی ژوندی کړی په ژړا\nکه مقصود لرې تلوار کړه وخت کوتاه دی\nغره مه شه د دې عمر په بقا\nهره نښه چې صحیح ګڼې په زړه کې\nپه غرور به هغه نښه کړې خطا\nپه امېد امېد يې خلک نا امېد کړه\nد ایام له مکره مه شه بې پروا\nچې د مرګ په تماچه دې شي خوله ماته\nترو په ماته خوله به څه کوې ثنا\nویر ژړلي ارتیدنې چې وینا وايي\nتا ته وايي که پوهېږې په وینا\nهلک بې ته چې زور دي څوک تعلیم کا\nهم عاقل یې هم بالغ يې هم دانا\nپه عمل د نېکو بدو فهم وکړه\nچې په دا کې دې بهبود دی که په دا\nسر دننه په ګرېوان کړه سترګې روڼې\nډېر په پورته پورته مه ځه سر هوا\nسرهوا سرهوا مه ځه و آسمان ته\nته په اصل کې له ځمکې يې پیدا\nد عمل په ځای به دا پوښتنه نه وي\nچې د زوی یې یا لمسی د فلانا\nپه خپل ځان ښېګړه وکړه غره مه شه\nپه ښېګړه د ادې او د بابا\nهغه ناوې چې په خپله ښایسته وي\nڅوک يې څه کوي ښایست د مور و نیا\nدا خبره زه و ځان ته کړم اې یاره\nدلګیر مه شه که مې نوم واخیست د تا\nنوم داستا او د بل اخلم ځان ته وایم\nنه مې کار نه مې غرض شته په بل چا\nکه مې ځای د دې غمونو وي په زړه کې\nما به څه لره کوله دا انشاء\nچې د مرګ سختۍ خوارۍ دا ستا په خوا دي\nاې رحمانه ولې نه مرې لا پخوا",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "",
        "grammar": ""
       }
      ]
