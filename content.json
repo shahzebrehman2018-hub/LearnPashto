@@ -1,5 +1,5 @@
 {
- "version": 20,
+ "version": 21,
  "sections": [
   {
    "id": "grammar",
@@ -21291,6 +21291,140 @@
        "title_ur": "منع",
        "title_roman": "",
        "body_ps": "مه يې ورستوه (مت سڑاؤ — don't rot it!)\nمه يې ورستوئ (مت سڑائیں / مت سڑائیے — don't rot it! (pl./formal))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Prohibitive",
+       "grammar": ""
+      }
+     ]
+    },
+    {
+     "id": "ms27",
+     "title_ps": "اغوستل",
+     "title_ur": "پہننا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to wear, to put on (clothes)",
+     "grammar": "فعل، متعدی",
+     "children": [
+      {
+       "id": "ms27-1",
+       "title_ps": "حال",
+       "title_ur": "پہنتا ہوں",
+       "title_roman": "",
+       "body_ps": "زه یې اغوندم (میں پہنتا / پہنتی ہوں — I wear it)\nته یې اغوندې (تم پہنتے / پہنتی ہو — you wear it)\nهغه یې اغوندي (وہ پہنتا / پہنتی ہے — he/she wears it)\nموږ یې اغوندو (ہم پہنتے / پہنتی ہیں — we wear it)\nتاسو یې اغوندئ (آپ پہنتے / پہنتی ہیں — you wear it)\nهغوی یې اغوندي (وہ پہنتے / پہنتی ہیں — they wear it)\nدوی یې اغوندي (وہ پہنتے / پہنتی ہیں — they wear it)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Present",
+       "grammar": ""
+      },
+      {
+       "id": "ms27-2",
+       "title_ps": "ماضی مطلق",
+       "title_ur": "پہنا",
+       "title_roman": "",
+       "body_ps": "ما واغوست (میں نے پہنا — I wore it (m.))\nما واغوسته (میں نے پہنی — I wore it (f.))\nتا واغوست (تم نے پہنا — you wore it (m.))\nتا واغوسته (تم نے پہنی — you wore it (f.))\nهغه واغوست (اس نے پہنا — he wore it (m.))\nهغې واغوسته (اس نے پہنی — she wore it (f.))\nموږ واغوستل (ہم نے پہنے — we wore them (m.))\nموږ واغوستلې (ہم نے پہنیں — we wore them (f.))\nتاسو واغوستل (آپ نے پہنے — you wore them (m.))\nتاسو واغوستلې (آپ نے پہنیں — you wore them (f.))\nهغوی واغوستل (انہوں نے پہنے — they wore them (m.))\nهغوی واغوستلې (انہوں نے پہنیں — they wore them (f.))\nدوی واغوستل (انہوں نے پہنے — they wore them (m.))\nدوی واغوستلې (انہوں نے پہنیں — they wore them (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Simple past",
+       "grammar": ""
+      },
+      {
+       "id": "ms27-3",
+       "title_ps": "ماضی استمراری",
+       "title_ur": "پہنتا تھا",
+       "title_roman": "",
+       "body_ps": "ما اغوستلو (میں پہنتا تھا — I was wearing it (m.))\nما اغوستله (میں پہنتی تھی — I was wearing it (f.))\nتا اغوستلو (تم پہنتے تھے — you were wearing it (m.))\nتا اغوستله (تم پہنتی تھیں — you were wearing it (f.))\nهغه اغوستلو (وہ پہنتا تھا — he was wearing it)\nهغې اغوستله (وہ پہنتی تھی — she was wearing it)\nموږ اغوستل (ہم پہنتے تھے — we were wearing it (m.))\nموږ اغوستلې (ہم پہنتی تھیں — we were wearing it (f.))\nتاسو اغوستل (آپ پہنتے تھے — you were wearing it (m.))\nتاسو اغوستلې (آپ پہنتی تھیں — you were wearing it (f.))\nهغوی اغوستل (وہ پہنتے تھے — they were wearing it (m.))\nهغوی اغوستلې (وہ پہنتی تھیں — they were wearing it (f.))\nدوی اغوستل (وہ پہنتے تھے — they were wearing it (m.))\nدوی اغوستلې (وہ پہنتی تھیں — they were wearing it (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Past continuous",
+       "grammar": ""
+      },
+      {
+       "id": "ms27-4",
+       "title_ps": "حال مکمل / ماضی قریب",
+       "title_ur": "پہنا ہے",
+       "title_roman": "",
+       "body_ps": "ما اغوستی دی (میں نے پہنا ہے — I have worn it (m.))\nما اغوستې ده (میں نے پہنی ہے — I have worn it (f.))\nتا اغوستی دی (تم نے پہنا ہے — you have worn it (m.))\nتا اغوستې ده (تم نے پہنی ہے — you have worn it (f.))\nهغه اغوستی دی (اس نے پہنا ہے — he has worn it (m.))\nهغې اغوستې ده (اس نے پہنی ہے — she has worn it (f.))\nموږ اغوستي دي (ہم نے پہنے ہیں — we have worn them (m.))\nموږ اغوستې دي (ہم نے پہنی ہیں — we have worn them (f.))\nتاسو اغوستي دي (آپ نے پہنے ہیں — you have worn them (m.))\nتاسو اغوستې دي (آپ نے پہنی ہیں — you have worn them (f.))\nهغوی اغوستي دي (انہوں نے پہنے ہیں — they have worn them (m.))\nهغوی اغوستې دي (انہوں نے پہنی ہیں — they have worn them (f.))\nدوی اغوستي دي (انہوں نے پہنے ہیں — they have worn them (m.))\nدوی اغوستې دي (انہوں نے پہنی ہیں — they have worn them (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Present perfect",
+       "grammar": ""
+      },
+      {
+       "id": "ms27-5",
+       "title_ps": "ماضی بعيد",
+       "title_ur": "پہنا تھا",
+       "title_roman": "",
+       "body_ps": "ما اغوستی و (میں نے پہنا تھا — I had worn it (m.))\nما اغوستې وه (میں نے پہنی تھی — I had worn it (f.))\nتا اغوستی و (تم نے پہنا تھا — you had worn it (m.))\nتا اغوستې وه (تم نے پہنی تھی — you had worn it (f.))\nهغه اغوستی و (اس نے پہنا تھا — he had worn it (m.))\nهغې اغوستې وه (اس نے پہنی تھی — she had worn it (f.))\nموږ اغوستي وو (ہم نے پہنے تھے — we had worn them (m.))\nموږ اغوستې وې (ہم نے پہنی تھیں — we had worn them (f.))\nتاسو اغوستي وو (آپ نے پہنے تھے — you had worn them (m.))\nتاسو اغوستې وې (آپ نے پہنی تھیں — you had worn them (f.))\nهغوی اغوستي وو (انہوں نے پہنے تھے — they had worn them (m.))\nهغوی اغوستې وې (انہوں نے پہنی تھیں — they had worn them (f.))\nدوی اغوستي وو (انہوں نے پہنے تھے — they had worn them (m.))\nدوی اغوستې وې (انہوں نے پہنی تھیں — they had worn them (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Past perfect",
+       "grammar": ""
+      },
+      {
+       "id": "ms27-6",
+       "title_ps": "ماضی احتمالی",
+       "title_ur": "پہنا ہوگا",
+       "title_roman": "",
+       "body_ps": "ما به اغوستی و (میں نے پہنا ہو گا — I must have worn it (m.))\nما به اغوستې وه (میں نے پہنی ہو گی — I must have worn it (f.))\nتا به اغوستی و (تم نے پہنا ہو گا — you must have worn it (m.))\nتا به اغوستې وه (تم نے پہنی ہو گی — you must have worn it (f.))\nهغه به اغوستی و (اس نے پہنا ہو گا — he must have worn it (m.))\nهغې به اغوستې وه (اس نے پہنی ہو گی — she must have worn it (f.))\nموږ به اغوستي وو (ہم نے پہنے ہوں گے — we must have worn them (m.))\nموږ به اغوستې وې (ہم نے پہنی ہوں گی — we must have worn them (f.))\nتاسو به اغوستي وو (آپ نے پہنے ہوں گے — you must have worn them (m.))\nتاسو به اغوستې وې (آپ نے پہنی ہوں گی — you must have worn them (f.))\nهغوی به اغوستي وو (انہوں نے پہنے ہوں گے — they must have worn them (m.))\nهغوی به اغوستې وې (انہوں نے پہنی ہوں گی — they must have worn them (f.))\nدوی به اغوستي وو (انہوں نے پہنے ہوں گے — they must have worn them (m.))\nدوی به اغوستې وې (انہوں نے پہنی ہوں گی — they must have worn them (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Presumptive past",
+       "grammar": ""
+      },
+      {
+       "id": "ms27-7",
+       "title_ps": "مستقبل سادہ",
+       "title_ur": "پہنوں گا",
+       "title_roman": "",
+       "body_ps": "زه به یې اغوندم (میں پہنوں گا / پہنوں گی — I will wear it)\nته به یې اغوندې (تم پہنو گے / پہنو گی — you will wear it)\nهغه به یې اغوندي (وہ پہنے گا / پہنے گی — he/she will wear it)\nموږ به یې اغوندو (ہم پہنیں گے / پہنیں گی — we will wear it)\nتاسو به یې اغوندئ (آپ پہنیں گے / پہنیں گی — you will wear it)\nهغوی به یې اغوندي (وہ پہنیں گے / پہنیں گی — they will wear it)\nدوی به یې اغوندي (وہ پہنیں گے / پہنیں گی — they will wear it)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Simple future",
+       "grammar": ""
+      },
+      {
+       "id": "ms27-8",
+       "title_ps": "ارادی مستقبل",
+       "title_ur": "پہن لوں گا",
+       "title_roman": "",
+       "body_ps": "زه به یې واغوندم (میں پہن لوں گا / پہن لوں گی — I will wear it)\nته به یې واغوندې (تم پہن لو گے / پہن لو گی — you will wear it)\nهغه به یې واغوندي (وہ پہن لے گا / پہن لے گی — he/she will wear it)\nموږ به یې واغوندو (ہم پہن لیں گے / پہن لیں گی — we will wear it)\nتاسو به یې واغوندئ (آپ پہن لیں گے / پہن لیں گی — you will wear it)\nهغوی به یې واغوندي (وہ پہن لیں گے / پہن لیں گی — they will wear it)\nدوی به یې واغوندي (وہ پہن لیں گے / پہن لیں گی — they will wear it)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Resolutive future",
+       "grammar": ""
+      },
+      {
+       "id": "ms27-9",
+       "title_ps": "مضارع",
+       "title_ur": "پہن لوں",
+       "title_roman": "",
+       "body_ps": "زه یې واغوندم (میں پہن لوں — that I wear it)\nته یې واغوندې (تم پہن لو — that you wear it)\nهغه یې واغوندي (وہ پہن لے — that he/she wear it)\nموږ یې واغوندو (ہم پہن لیں — that we wear it)\nتاسو یې واغوندئ (آپ پہن لیں — that you wear it)\nهغوی یې واغوندي (وہ پہن لیں — that they wear it)\nدوی یې واغوندي (وہ پہن لیں — that they wear it)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Subjunctive",
+       "grammar": ""
+      },
+      {
+       "id": "ms27-10",
+       "title_ps": "امر",
+       "title_ur": "حکم",
+       "title_roman": "",
+       "body_ps": "وا يې غوندہ (پہنو — wear it!)\nوا يې غوندئ (پہنیں / پہنیے — wear it! (pl./formal))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Imperative",
+       "grammar": ""
+      },
+      {
+       "id": "ms27-11",
+       "title_ps": "نہی",
+       "title_ur": "منع",
+       "title_roman": "",
+       "body_ps": "مه یې اغوندہ (مت پہنو — don't wear it!)\nمه یې اغوندئ (مت پہنیں / مت پہنیے — don't wear it! (pl./formal))",
        "body_roman": "",
        "body_ur": "",
        "body_en": "Prohibitive",
