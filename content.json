@@ -1,5 +1,5 @@
 {
- "version": 21,
+ "version": 22,
  "sections": [
   {
    "id": "grammar",
@@ -21425,6 +21425,140 @@
        "title_ur": "منع",
        "title_roman": "",
        "body_ps": "مه یې اغوندہ (مت پہنو — don't wear it!)\nمه یې اغوندئ (مت پہنیں / مت پہنیے — don't wear it! (pl./formal))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Prohibitive",
+       "grammar": ""
+      }
+     ]
+    },
+    {
+     "id": "ms28",
+     "title_ps": "وهل",
+     "title_ur": "مارنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to hit, to strike",
+     "grammar": "فعل، متعدی",
+     "children": [
+      {
+       "id": "ms28-1",
+       "title_ps": "حال",
+       "title_ur": "مارتا ہوں",
+       "title_roman": "",
+       "body_ps": "زه یې وهم (میں مارتا / مارتی ہوں — I hit it)\nته یې وهې (تم مارتے / مارتی ہو — you hit it)\nهغه یې وهي (وہ مارتا / مارتی ہے — he/she hits it)\nموږ یې وهو (ہم مارتے / مارتی ہیں — we hit it)\nتاسو یې وهئ (آپ مارتے / مارتی ہیں — you hit it)\nهغوی یې وهي (وہ مارتے / مارتی ہیں — they hit it)\nدوی یې وهي (وہ مارتے / مارتی ہیں — they hit it)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Present",
+       "grammar": ""
+      },
+      {
+       "id": "ms28-2",
+       "title_ps": "ماضی مطلق",
+       "title_ur": "مارا",
+       "title_roman": "",
+       "body_ps": "ما ووهه (میں نے مارا — I hit it (m.))\nما ووهله (میں نے ماری — I hit it (f.))\nتا ووهه (تم نے مارا — you hit it (m.))\nتا ووهله (تم نے ماری — you hit it (f.))\nهغه ووهه (اس نے مارا — he hit it (m.))\nهغې ووهله (اس نے ماری — she hit it (f.))\nموږ ووهل (ہم نے مارے — we hit them (m.))\nموږ ووهلې (ہم نے ماریں — we hit them (f.))\nتاسو ووهل (آپ نے مارے — you hit them (m.))\nتاسو ووهلې (آپ نے ماریں — you hit them (f.))\nهغوی ووهل (انہوں نے مارے — they hit them (m.))\nهغوی ووهلې (انہوں نے ماریں — they hit them (f.))\nدوی ووهل (انہوں نے مارے — they hit them (m.))\nدوی ووهلې (انہوں نے ماریں — they hit them (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Simple past",
+       "grammar": ""
+      },
+      {
+       "id": "ms28-3",
+       "title_ps": "ماضی استمراری",
+       "title_ur": "مارتا تھا",
+       "title_roman": "",
+       "body_ps": "ما وهلو (میں مارتا تھا — I was hitting it (m.))\nما وهله (میں مارتی تھی — I was hitting it (f.))\nتا وهلو (تم مارتے تھے — you were hitting it (m.))\nتا وهله (تم مارتی تھیں — you were hitting it (f.))\nهغه وهلو (وہ مارتا تھا — he was hitting it)\nهغې وهله (وہ مارتی تھی — she was hitting it)\nموږ وهل (ہم مارتے تھے — we were hitting it (m.))\nموږ وهلې (ہم مارتی تھیں — we were hitting it (f.))\nتاسو وهل (آپ مارتے تھے — you were hitting it (m.))\nتاسو وهلې (آپ مارتی تھیں — you were hitting it (f.))\nهغوی وهل (وہ مارتے تھے — they were hitting it (m.))\nهغوی وهلې (وہ مارتی تھیں — they were hitting it (f.))\nدوی وهل (وہ مارتے تھے — they were hitting it (m.))\nدوی وهلې (وہ مارتی تھیں — they were hitting it (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Past continuous",
+       "grammar": ""
+      },
+      {
+       "id": "ms28-4",
+       "title_ps": "حال مکمل / ماضی قریب",
+       "title_ur": "مارا ہے",
+       "title_roman": "",
+       "body_ps": "ما وهلی دی (میں نے مارا ہے — I have hit it (m.))\nما وهلې ده (میں نے ماری ہے — I have hit it (f.))\nتا وهلی دی (تم نے مارا ہے — you have hit it (m.))\nتا وهلې ده (تم نے ماری ہے — you have hit it (f.))\nهغه وهلی دی (اس نے مارا ہے — he has hit it (m.))\nهغې وهلې ده (اس نے ماری ہے — she has hit it (f.))\nموږ وهلي دي (ہم نے مارے ہیں — we have hit them (m.))\nموږ وهلې دي (ہم نے ماری ہیں — we have hit them (f.))\nتاسو وهلي دي (آپ نے مارے ہیں — you have hit them (m.))\nتاسو وهلې دي (آپ نے ماری ہیں — you have hit them (f.))\nهغوی وهلي دي (انہوں نے مارے ہیں — they have hit them (m.))\nهغوی وهلې دي (انہوں نے ماری ہیں — they have hit them (f.))\nدوی وهلي دي (انہوں نے مارے ہیں — they have hit them (m.))\nدوی وهلې دي (انہوں نے ماری ہیں — they have hit them (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Present perfect",
+       "grammar": ""
+      },
+      {
+       "id": "ms28-5",
+       "title_ps": "ماضی بعيد",
+       "title_ur": "مارا تھا",
+       "title_roman": "",
+       "body_ps": "ما وهلی و (میں نے مارا تھا — I had hit it (m.))\nما وهلې وه (میں نے ماری تھی — I had hit it (f.))\nتا وهلی و (تم نے مارا تھا — you had hit it (m.))\nتا وهلې وه (تم نے ماری تھی — you had hit it (f.))\nهغه وهلی و (اس نے مارا تھا — he had hit it (m.))\nهغې وهلې وه (اس نے ماری تھی — she had hit it (f.))\nموږ وهلي وو (ہم نے مارے تھے — we had hit them (m.))\nموږ وهلې وې (ہم نے ماری تھیں — we had hit them (f.))\nتاسو وهلي وو (آپ نے مارے تھے — you had hit them (m.))\nتاسو وهلې وې (آپ نے ماری تھیں — you had hit them (f.))\nهغوی وهلي وو (انہوں نے مارے تھے — they had hit them (m.))\nهغوی وهلې وې (انہوں نے ماری تھیں — they had hit them (f.))\nدوی وهلي وو (انہوں نے مارے تھے — they had hit them (m.))\nدوی وهلې وې (انہوں نے ماری تھیں — they had hit them (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Past perfect",
+       "grammar": ""
+      },
+      {
+       "id": "ms28-6",
+       "title_ps": "ماضی احتمالی",
+       "title_ur": "مارا ہوگا",
+       "title_roman": "",
+       "body_ps": "ما به وهلی و (میں نے مارا ہو گا — I must have hit it (m.))\nما به وهلې وه (میں نے ماری ہو گی — I must have hit it (f.))\nتا به وهلی و (تم نے مارا ہو گا — you must have hit it (m.))\nتا به وهلې وه (تم نے ماری ہو گی — you must have hit it (f.))\nهغه به وهلی و (اس نے مارا ہو گا — he must have hit it (m.))\nهغې به وهلې وه (اس نے ماری ہو گی — she must have hit it (f.))\nموږ به وهلي وو (ہم نے مارے ہوں گے — we must have hit them (m.))\nموږ به وهلې وې (ہم نے ماری ہوں گی — we must have hit them (f.))\nتاسو به وهلي وو (آپ نے مارے ہوں گے — you must have hit them (m.))\nتاسو به وهلې وې (آپ نے ماری ہوں گی — you must have hit them (f.))\nهغوی به وهلي وو (انہوں نے مارے ہوں گے — they must have hit them (m.))\nهغوی به وهلې وې (انہوں نے ماری ہوں گی — they must have hit them (f.))\nدوی به وهلي وو (انہوں نے مارے ہوں گے — they must have hit them (m.))\nدوی به وهلې وې (انہوں نے ماری ہوں گی — they must have hit them (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Presumptive past",
+       "grammar": ""
+      },
+      {
+       "id": "ms28-7",
+       "title_ps": "مستقبل سادہ",
+       "title_ur": "ماروں گا",
+       "title_roman": "",
+       "body_ps": "زه به یې وهم (میں ماروں گا / ماروں گی — I will hit it)\nته به یې وهې (تم مارو گے / مارو گی — you will hit it)\nهغه به یې وهي (وہ مارے گا / مارے گی — he/she will hit it)\nموږ به یې وهو (ہم ماریں گے / ماریں گی — we will hit it)\nتاسو به یې وهئ (آپ ماریں گے / ماریں گی — you will hit it)\nهغوی به یې وهي (وہ ماریں گے / ماریں گی — they will hit it)\nدوی به یې وهي (وہ ماریں گے / ماریں گی — they will hit it)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Simple future",
+       "grammar": ""
+      },
+      {
+       "id": "ms28-8",
+       "title_ps": "ارادی مستقبل",
+       "title_ur": "مار دوں گا",
+       "title_roman": "",
+       "body_ps": "زه به یې ووهم (میں مار دوں گا / مار دوں گی — I will hit it)\nته به یې ووهې (تم مار دو گے / مار دو گی — you will hit it)\nهغه به یې ووهي (وہ مار دے گا / مار دے گی — he/she will hit it)\nموږ به یې ووهو (ہم مار دیں گے / مار دیں گی — we will hit it)\nتاسو به یې ووهئ (آپ مار دیں گے / مار دیں گی — you will hit it)\nهغوی به یې ووهي (وہ مار دیں گے / مار دیں گی — they will hit it)\nدوی به یې ووهي (وہ مار دیں گے / مار دیں گی — they will hit it)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Resolutive future",
+       "grammar": ""
+      },
+      {
+       "id": "ms28-9",
+       "title_ps": "مضارع",
+       "title_ur": "ماروں",
+       "title_roman": "",
+       "body_ps": "زه یې ووهم (میں ماروں — that I hit it)\nته یې ووهې (تم مارو — that you hit it)\nهغه یې ووهي (وہ مارے — that he/she hit it)\nموږ یې ووهو (ہم ماریں — that we hit it)\nتاسو یې ووهئ (آپ ماریں — that you hit it)\nهغوی یې ووهي (وہ ماریں — that they hit it)\nدوی یې ووهي (وہ ماریں — that they hit it)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Subjunctive",
+       "grammar": ""
+      },
+      {
+       "id": "ms28-10",
+       "title_ps": "امر",
+       "title_ur": "حکم",
+       "title_roman": "",
+       "body_ps": "ويې وهه (مارو — hit it!)\nو يې وهئ (ماریں / مارئیے — hit it! (pl./formal))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Imperative",
+       "grammar": ""
+      },
+      {
+       "id": "ms28-11",
+       "title_ps": "نہی",
+       "title_ur": "منع",
+       "title_roman": "",
+       "body_ps": "مه یې وهه (مت مارو — don't hit it!)\nمه یې وهئ (مت ماریں / مت مارئیے — don't hit it! (pl./formal))",
        "body_roman": "",
        "body_ur": "",
        "body_en": "Prohibitive",
