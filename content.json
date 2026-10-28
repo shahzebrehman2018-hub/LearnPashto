@@ -1,5 +1,5 @@
 {
- "version": 33,
+ "version": 34,
  "sections": [
   {
    "id": "grammar",
@@ -39,10 +39,10 @@
      "title_ps": "د پښتو لومړی کتاب",
      "title_ur": "پشتو کی پہلی کتاب",
      "title_roman": "da paṣto lomṛay kitāb",
-     "body_ps": "د پښتو ژبې توري",
-     "body_roman": "da paṣto žəbe tori",
-     "body_ur": "پشتو زبان کے حروف تہجی",
-     "body_en": "Pashto alphabet",
+     "body_ps": "د پښتو ژبې توري\nا، ب، پ",
+     "body_roman": "da paṣto žəbe tori\na, ba, pa",
+     "body_ur": "پشتو زبان کے حروف تہجی\nالف، بے، پے",
+     "body_en": "Pashto alphabet\nAlif, Be, Pe",
      "children": [
       {
        "id": "book1-l1",
@@ -53,6 +53,16 @@
        "body_roman": "pa paṣto ke ṭol calweṣt tori di.\na ba pa ta ṭa sa ja cha tsa dza ha xa da ḍa za ra ṛa za zha gha sa sha kha sa za ta za a gha fa ka qa ga la ma na ṇa wa ha ya ya e ay ay\n\n1. ūba cṣa.\n2. boṭay wulgəwəy.\n3. plār rāğay.",
        "body_ur": "پشتو میں کل چوالیس حروف تہجی ہیں ۔\nا ب پ ت ټ ث ج چ څ ځ ح خ د ډ ذ ر ړ ز ژ ږ س ش ښ ص ض ط ظ ع غ ف ک ق ګ ل م ن ڼ و ه ی ي ې ۍ ئ\n\n1. اوبه څښه۔ — پانی پیو۔\n2. بوټی ولګوئ۔ — پودا لگائیں۔\n3. پلار راغی۔ — والد آئے۔",
        "body_en": "There are 44 letters in Pashto in total.\nا ب پ ت ټ ث ج چ څ ځ ح خ د ډ ذ ر ړ ز ژ ږ س ش ښ ص ض ط ظ ع غ ف ک ق ګ ل م ن ڼ و ه ی ي ې ۍ ئ\n\n1. Drink water.\n2. Plant a plant.\n3. Father came."
+      },
+      {
+       "id": "book1-l2",
+       "title_ps": "ا، ب، پ",
+       "title_ur": "الف، بے، پے",
+       "title_roman": "a, ba, pa",
+       "body_ps": "ا - الف\nالله\nاوبه\n\nب - بې\nبوټی\nبيزه\n\nپ - پې\nپيشو\nپلار\n\nجملې\nالله يو دی.\nاوبه سړې دي.\nبوټي ته اوبه ولګوئ.\nبيزه پاڼې خوري.\nپيشو پۍ څښي.\nپلار مې کور ته راغی.",
+       "body_roman": "a - alif\nAllāh\nūba\n\nb - be\nboṭay\nbeza\n\np - pe\npišo\nplār\n\njumle\nAllāh yaw day.\nūba saṛe di.\nboṭi ta ūba wulgəwəy.\nbeza pāṇe xori.\npišo pəy cṣi.\nplār me kor ta rāğay.",
+       "body_ur": "الف\nاللّٰہ\nپانی\n\nبے\nپودا\nبکری\n\nپے\nبلّی\nباپ، والد، ابو\n\nجملے\nاللّٰہ ایک ہے\nپانی ٹھنڈا ہے\nپودے کو پانی لگائیں ۔\nبکری پتے کھا رہی ہے، بکری پتے کھاتی ہے\nبلی دودھ پیتی ہے\nمیرے ابو گھر آگئے ۔",
+       "body_en": "Alif\nAllah\nWater\n\nBe\nPlant\nGoat\n\nPe\nCat\nFather\n\nSentences\nAllah is one.\nWater is cold.\nWater the plant.\nThe goat eats leaves.\nThe cat drinks milk.\nMy father came home."
       }
      ]
     },
