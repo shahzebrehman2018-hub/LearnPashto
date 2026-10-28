@@ -1,5 +1,5 @@
 {
- "version": 40,
+ "version": 41,
  "sections": [
   {
    "id": "grammar",
@@ -39,10 +39,10 @@
      "title_ps": "د پښتو لومړی کتاب",
      "title_ur": "پشتو کی پہلی کتاب",
      "title_roman": "",
-     "body_ps": "لومړی لوست",
+     "body_ps": "لومړی لوست\nدویم لوست\nدرېیم لوست",
      "body_roman": "",
-     "body_ur": "پہلا سبق",
-     "body_en": "First lesson",
+     "body_ur": "پہلا سبق\nدوسرا سبق\nتیسرا سبق",
+     "body_en": "First lesson\nSecond lesson\nThird lesson",
      "children": [
       {
        "id": "book1-l1",
@@ -53,6 +53,26 @@
        "body_roman": "",
        "body_ur": "پشتو زبان کے حروف تہجی\nپشتو میں کل چوالیس حروف تہجی ہیں ۔\nا ب پ ت ټ ث ج چ څ ځ ح خ د ډ ذ ر ړ ز ژ ږ س ش ښ ص ض ط ظ ع غ ف ک ق ګ ل م ن ڼ و ه ی ي ې ۍ ئ\n\nا - الف\nاللّٰہ\nپانی\nجہاز\nب - بے\nپودا\nبکری\nپ - پے\nدُودھ\nباپ، والد، ابو\nبلّی\n\nجملے\nپانی پیو۔\nپودا لگائیں۔\nوالد آئے۔\nاللّٰہ ایک ہے\nپانی ٹھنڈا ہے\nپودے کو پانی لگائیں ۔\nبکری پتے کھا رہی ہے، بکری پتے کھاتی ہے\nبلی دودھ پیتی ہے\nمیرے ابو گھر آگئے ۔",
        "body_en": "Pashto alphabet\nThere are 44 letters in Pashto in total.\nا ب پ ت ټ ث ج چ څ ځ ح خ د ډ ذ ر ړ ز ژ ږ س ش ښ ص ض ط ظ ع غ ف ک ق ګ ل م ن ڼ و ه ی ي ې ۍ ئ\n\nA - Alif\nAllah\nWater\nAirplane\nB - Be\nPlant\nGoat\nP - Pe\nMilk\nFather\nCat\n\nSentences\nDrink water.\nPlant a plant.\nFather came.\nAllah is one.\nWater is cold.\nWater the plant.\nThe goat eats leaves.\nThe cat drinks milk.\nMy father came home."
+      },
+      {
+       "id": "book1-l2",
+       "title_ps": "دویم لوست",
+       "title_ur": "دوسرا سبق",
+       "title_roman": "",
+       "body_ps": "ت - تې\nتخت\nتنده\nتودوخه\nټ - ټې\nټول\nټولګی\nټوپ\nث - ثې\nثمر\nثواب\n\nجملې\nتخت لوی دی.\nټول ماشومان ښوونځي ته ځي.\nثمر خوږ دی.\nتندی يم.\nپه ټولګي کې ماشومان زدګړه کوي.\nثواب ښه کار دی.",
+       "body_roman": "",
+       "body_ur": "ت - تے\nتخت\nپیاس\nگرمی\nټ - ټے\nسب\nکلاس\nچھلانگ\nث - ثے\nپھل\nثواب\n\nجملے\nتخت بڑا ہے۔\nسب بچے اسکول جاتے ہیں۔\nپھل میٹھا ہے۔\nمجھے پیاس لگی ہے۔\nکلاس میں بچے پڑھتے ہیں۔\nثواب اچھا کام ہے۔",
+       "body_en": "T - Te\nThrone\nThirst\nHeat\nṬ - Ṭe\nAll\nClass\nJump\nS - Se\nFruit\nReward\n\nSentences\nThe throne is big.\nAll children go to school.\nThe fruit is sweet.\nI am thirsty.\nChildren learn in the class.\nReward is a good deed."
+      },
+      {
+       "id": "book1-l3",
+       "title_ps": "درېیم لوست",
+       "title_ur": "تیسرا سبق",
+       "title_roman": "",
+       "body_ps": "ج - جې\nجومات\nجیب\nجلال\nچ - چې\nچای\nچرګ\nچمن\nڅ - څې\nڅاه\nڅاروی\nڅلور\n\nجملې\nجومات لوی دی.\nچرګ غنم خوري.\nڅاه ژور دی.\nڅلور ماشومان لوبې کوي.\nپه چمن کې ګلان دي.\nپه جېب کې پيسې دي.",
+       "body_roman": "",
+       "body_ur": "ج - جے\nمسجد\nجیب\nشان\nچ - چے\nچائے\nمرغ\nباغ\nڅ - څے\nکنواں\nجانور\nچار\n\nجملے\nمسجد بڑی ہے۔\nمرغا گندم کھاتا ہے۔\nکنواں گہرا ہے۔\nچار بچے کھیلتے ہیں۔\nباغ میں پھول ہیں۔\nجیب میں پیسے ہیں۔",
+       "body_en": "J - Je\nMosque\nPocket\nGlory\nČ - Če\nTea\nChicken\nGarden\nC - Ce\nWell\nAnimal\nFour\n\nSentences\nThe mosque is big.\nThe chicken eats wheat.\nThe well is deep.\nFour children play.\nThere are flowers in the garden.\nThere is money in the pocket."
       }
      ]
     }
