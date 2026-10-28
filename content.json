@@ -1,5 +1,5 @@
 {
- "version": 30,
+ "version": 31,
  "sections": [
   {
    "id": "grammar",
@@ -50,7 +50,7 @@
        "title_ur": "پشتو کے حروف تہجی اور جملے",
        "title_roman": "da paṣto tori aw jomle",
        "body_ps": "په پښتو کې ټول څلور څلوېښت توري دي.\nا ب پ ت ټ ث ج چ څ ځ ح خ د ډ ذ ر ړ ز ژ ږ س ش ښ ص ض ط ظ ع غ ف ک ق ګ ل م ن ڼ و ه ی ي ې ۍ ئ\n\n1. دا مور ده.\n2. دا پلار دی.\n3. اوبه څښه.\n4. کتاب واخله.\n5. زه ښه یم.",
-       "body_roman": "Pa Pashto ke tol salwekht tori di.\n\n1. Da mor da.\n2. Da plar day.\n3. Oba tsakha.\n4. Kitab wakhla.\n5. Za kha yam.",
+       "body_roman": "Pa Pashto ke tol salwekht tori di.\nA Ba Pa Ta Tta Sa Ja Cha Tsa Dza Ha Kha Da Dda Za Ra Rra Za Zha Gha Sa Sha Kha Sa Za Ta Za A Gha Fa Ka Qa Ga La Ma Na Nna Wa Ha Ya Ya E Ay Ay\n\n1. Da mor da.\n2. Da plar day.\n3. Oba tsakha.\n4. Kitab wakhla.\n5. Za kha yam.",
        "body_ur": "پشتو میں کل چوالیس (44) حروفِ تہجی ہیں\nا ب پ ت ټ ث ج چ څ ځ ح خ د ډ ذ ر ړ ز ژ ږ س ش ښ ص ض ط ظ ع غ ف ک ق ګ ل م ن ڼ و ه ی ي ې ۍ ئ\n\n1. دا مور ده۔ — یہ ماں ہے۔\n2. دا پلار دی۔ — یہ والد ہیں۔\n3. اوبه څښه۔ — پانی پیو۔\n4. کتاب واخله۔ — کتاب لو۔\n5. زه ښه یم۔ — میں ٹھیک ہوں۔",
        "body_en": "There are 44 letters in Pashto in total.\nا ب پ ت ټ ث ج چ څ ځ ح خ د ډ ذ ر ړ ز ژ ږ س ش ښ ص ض ط ظ ع غ ف ک ق ګ ل م ن ڼ و ه ی ي ې ۍ ئ\n\n1. This is mother.\n2. This is father.\n3. Drink water.\n4. Take the book.\n5. I am fine."
       }
