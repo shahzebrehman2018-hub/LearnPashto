@@ -1,5 +1,5 @@
 {
- "version": 42,
+ "version": 43,
  "sections": [
   {
    "id": "grammar",
@@ -71,7 +71,7 @@
        "title_roman": "",
        "body_ps": "ج - جې\nجومات\nجیب\nجلال\nچ - چې\nچای\nچرګ\nچمن\nڅ - څې\nڅاه\nڅاروی\nڅلور\n\nجملې\nجومات لوی دی.\nچرګ غنم خوري.\nڅاه ژور دی.\nڅلور ماشومان لوبې کوي.\nپه چمن کې ګلان دي.\nپه جېب کې پيسې دي.",
        "body_roman": "",
-       "body_ur": "ج - جے\nمسجد\nجیب\nشان\nچ - چے\nچائے\nمرغ\nباغ\nڅ - څے\nکنواں\nجانور\nچار\n\nجملے\nمسجد بڑی ہے۔\nمرغا گندم کھاتا ہے۔\nکنواں گہرا ہے۔\nچار بچے کھیلتے ہیں۔\nباغ میں پھول ہیں۔\nجیب میں پیسے ہیں۔",
+       "body_ur": "ج - جے\nمسجد\nجیب\nشان\nچ - چے\nچائے\nمرغ\nباغ\nس - سے\nکنواں\nجانور\nچار\n\nجملے\nمسجد بڑی ہے۔\nمرغا گندم کھاتا ہے۔\nکنواں گہرا ہے۔\nچار بچے کھیلتے ہیں۔\nباغ میں پھول ہیں۔\nجیب میں پیسے ہیں۔",
        "body_en": "J - Je\nMosque\nPocket\nGlory\nČ - Če\nTea\nChicken\nGarden\nC - Ce\nWell\nAnimal\nFour\n\nSentences\nThe mosque is big.\nThe chicken eats wheat.\nThe well is deep.\nFour children play.\nThere are flowers in the garden.\nThere is money in the pocket."
       }
      ]
