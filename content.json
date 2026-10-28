@@ -1,5 +1,5 @@
 {
- "version": 32,
+ "version": 33,
  "sections": [
   {
    "id": "grammar",
@@ -39,20 +39,20 @@
      "title_ps": "د پښتو لومړی کتاب",
      "title_ur": "پشتو کی پہلی کتاب",
      "title_roman": "da paṣto lomṛay kitāb",
-     "body_ps": "د پښتو توري او جملې",
-     "body_roman": "da paṣto tori aw jomle",
-     "body_ur": "پشتو کے حروف تہجی اور جملے",
-     "body_en": "Pashto alphabet and sentences",
+     "body_ps": "د پښتو ژبې توري",
+     "body_roman": "da paṣto žəbe tori",
+     "body_ur": "پشتو زبان کے حروف تہجی",
+     "body_en": "Pashto alphabet",
      "children": [
       {
        "id": "book1-l1",
-       "title_ps": "د پښتو توري او جملې",
-       "title_ur": "پشتو کے حروف تہجی اور جملے",
-       "title_roman": "da paṣto tori aw jomle",
-       "body_ps": "په پښتو کې ټول څلور څلوېښت توري دي.\nا ب پ ت ټ ث ج چ څ ځ ح خ د ډ ذ ر ړ ز ژ ږ س ش ښ ص ض ط ظ ع غ ف ک ق ګ ل م ن ڼ و ه ی ي ې ۍ ئ\n\n1. دا مور ده.\n2. دا پلار دی.\n3. اوبه څښه.\n4. کتاب واخله.\n5. زه ښه یم.",
-       "body_roman": "pa paṣto ke ṭol calweṣt tori di.\na ba pa ta ṭa sa ja cha tsa dza ha xa da ḍa za ra ṛa za zha gha sa sha kha sa za ta za a gha fa ka qa ga la ma na ṇa wa ha ya ya e ay ay\n\n1. dā mor da.\n2. dā plār day.\n3. ūba cṣa.\n4. kitāb wāxla.\n5. za ṣa yam.",
-       "body_ur": "پشتو میں کل چوالیس (44) حروفِ تہجی ہیں\nا ب پ ت ټ ث ج چ څ ځ ح خ د ډ ذ ر ړ ز ژ ږ س ش ښ ص ض ط ظ ع غ ف ک ق ګ ل م ن ڼ و ه ی ي ې ۍ ئ\n\n1. دا مور ده۔ — یہ ماں ہے۔\n2. دا پلار دی۔ — یہ والد ہیں۔\n3. اوبه څښه۔ — پانی پیو۔\n4. کتاب واخله۔ — کتاب لو۔\n5. زه ښه یم۔ — میں ٹھیک ہوں۔",
-       "body_en": "There are 44 letters in Pashto in total.\nا ب پ ت ټ ث ج چ څ ځ ح خ د ډ ذ ر ړ ز ژ ږ س ش ښ ص ض ط ظ ع غ ف ک ق ګ ل م ن ڼ و ه ی ي ې ۍ ئ\n\n1. This is mother.\n2. This is father.\n3. Drink water.\n4. Take the book.\n5. I am fine."
+       "title_ps": "د پښتو ژبې توري",
+       "title_ur": "پشتو زبان کے حروف تہجی",
+       "title_roman": "da paṣto žəbe tori",
+       "body_ps": "په پښتو کې ټول څلور څلوېښت توري دي.\nا ب پ ت ټ ث ج چ څ ځ ح خ د ډ ذ ر ړ ز ژ ږ س ش ښ ص ض ط ظ ع غ ف ک ق ګ ل م ن ڼ و ه ی ي ې ۍ ئ\n\n1. اوبه څښه.\n2. بوټی ولګوئ.\n3. پلار راغی.",
+       "body_roman": "pa paṣto ke ṭol calweṣt tori di.\na ba pa ta ṭa sa ja cha tsa dza ha xa da ḍa za ra ṛa za zha gha sa sha kha sa za ta za a gha fa ka qa ga la ma na ṇa wa ha ya ya e ay ay\n\n1. ūba cṣa.\n2. boṭay wulgəwəy.\n3. plār rāğay.",
+       "body_ur": "پشتو میں کل چوالیس حروف تہجی ہیں ۔\nا ب پ ت ټ ث ج چ څ ځ ح خ د ډ ذ ر ړ ز ژ ږ س ش ښ ص ض ط ظ ع غ ف ک ق ګ ل م ن ڼ و ه ی ي ې ۍ ئ\n\n1. اوبه څښه۔ — پانی پیو۔\n2. بوټی ولګوئ۔ — پودا لگائیں۔\n3. پلار راغی۔ — والد آئے۔",
+       "body_en": "There are 44 letters in Pashto in total.\nا ب پ ت ټ ث ج چ څ ځ ح خ د ډ ذ ر ړ ز ژ ږ س ش ښ ص ض ط ظ ع غ ف ک ق ګ ل م ن ڼ و ه ی ي ې ۍ ئ\n\n1. Drink water.\n2. Plant a plant.\n3. Father came."
       }
      ]
     },
@@ -61,10 +61,10 @@
      "title_ps": "لومړی لوست: ا، ب، پ",
      "title_ur": "پہلا سبق: ا، ب، پ",
      "title_roman": "lomṛay lawst: a, ba, pa",
-     "body_ps": "راځئ چې پښتو زده کړو!\n\nا — اوبه\nاوبه څښه.\n\nب — بوټی\nبوټی ولګوئ.\n\nپ — پلار\nپلار راغی.",
-     "body_roman": "rāẓəy čə paṣto zda kṛu!\n\na — ūba\nūba cṣa.\n\nba — boṭay\nboṭay wulgəwəy.\n\npa — plār\nplār rāğay.",
-     "body_ur": "آؤ پشتو سیکھیں!\n\nا — اوبه (پانی)\nپانی پیو۔\n\nب — بوټی (پودا)\nپودا لگائیں۔\n\nپ — پلار (والد)\nوالد آئے۔",
-     "body_en": "Let's learn Pashto!\n\na — ūba (water)\nDrink water.\n\nba — boṭay (plant)\nPlant a plant.\n\npa — plār (father)\nFather came."
+     "body_ps": "ا — اوبه\nاوبه څښه.\n\nب — بوټی\nبوټی ولګوئ.\n\nپ — پلار\nپلار راغی.",
+     "body_roman": "a — ūba\nūba cṣa.\n\nba — boṭay\nboṭay wulgəwəy.\n\npa — plār\nplār rāğay.",
+     "body_ur": "ا — اوبه (پانی)\nپانی پیو۔\n\nب — بوټی (پودا)\nپودا لگائیں۔\n\nپ — پلار (والد)\nوالد آئے۔",
+     "body_en": "a — ūba (water)\nDrink water.\n\nba — boṭay (plant)\nPlant a plant.\n\npa — plār (father)\nFather came."
     }
    ],
    "title_roman": "lwastūna"
