@@ -1,5 +1,5 @@
 {
- "version": 36,
+ "version": 37,
  "sections": [
   {
    "id": "grammar",
@@ -49,22 +49,12 @@
        "title_ps": "لومړی لوست",
        "title_ur": "پہلا سبق",
        "title_roman": "",
-       "body_ps": "د پښتو ژبې توري\nپه پښتو کې ټول څلور څلوېښت توري دي.\nا ب پ ت ټ ث ج چ څ ځ ح خ د ډ ذ ر ړ ز ژ ږ س ش ښ ص ض ط ظ ع غ ف ک ق ګ ل م ن ڼ و ه ی ي ې ۍ ئ\n\nا - الف\nالله\nاوبه\n\nب - بې\nبوټی\nبيزه\n\nپ - پې\nپيشو\nپلار\n\nجملې\nاوبه څښه.\nبوټی ولګوئ.\nپلار راغی.\nالله يو دی.\nاوبه سړې دي.\nبوټي ته اوبه ولګوئ.\nبيزه پاڼې خوري.\nپيشو پۍ څښي.\nپلار مې کور ته راغی.",
+       "body_ps": "د پښتو ژبې توري\nپه پښتو کې ټول څلور څلوېښت توري دي.\nا ب پ ت ټ ث ج چ څ ځ ح خ د ډ ذ ر ړ ز ژ ږ س ش ښ ص ض ط ظ ع غ ف ک ق ګ ل م ن ڼ و ه ی ي ې ۍ ئ\n\nجملې\nاوبه څښه.\nبوټی ولګوئ.\nپلار راغی.\nالله يو دی.\nاوبه سړې دي.\nبوټي ته اوبه ولګوئ.\nبيزه پاڼې خوري.\nپيشو پۍ څښي.\nپلار مې کور ته راغی.",
        "body_roman": "",
-       "body_ur": "پشتو زبان کے حروف تہجی\nپشتو میں کل چوالیس حروف تہجی ہیں ۔\nا ب پ ت ټ ث ج چ څ ځ ح خ د ډ ذ ر ړ ز ژ ږ س ش ښ ص ض ط ظ ع غ ف ک ق ګ ل م ن ڼ و ه ی ي ې ۍ ئ\n\nالف\nاللّٰہ\nپانی\n\nبے\nپودا\nبکری\n\nپے\nبلّی\nباپ، والد، ابو\n\nجملے\nپانی پیو۔\nپودا لگائیں۔\nوالد آئے۔\nاللّٰہ ایک ہے\nپانی ٹھنڈا ہے\nپودے کو پانی لگائیں ۔\nبکری پتے کھا رہی ہے، بکری پتے کھاتی ہے\nبلی دودھ پیتی ہے\nمیرے ابو گھر آگئے ۔",
-       "body_en": "Pashto alphabet\nThere are 44 letters in Pashto in total.\nا ب پ ت ټ ث ج چ څ ځ ح خ د ډ ذ ر ړ ز ژ ږ س ش ښ ص ض ط ظ ع غ ف ک ق ګ ل م ن ڼ و ه ی ي ې ۍ ئ\n\nAlif\nAllah\nWater\n\nBe\nPlant\nGoat\n\nPe\nCat\nFather\n\nSentences\nDrink water.\nPlant a plant.\nFather came.\nAllah is one.\nWater is cold.\nWater the plant.\nThe goat eats leaves.\nThe cat drinks milk.\nMy father came home."
+       "body_ur": "پشتو زبان کے حروف تہجی\nپشتو میں کل چوالیس حروف تہجی ہیں ۔\nا ب پ ت ټ ث ج چ څ ځ ح خ د ډ ذ ر ړ ز ژ ږ س ش ښ ص ض ط ظ ع غ ف ک ق ګ ل م ن ڼ و ه ی ي ې ۍ ئ\n\nجملے\nپانی پیو۔\nپودا لگائیں۔\nوالد آئے۔\nاللّٰہ ایک ہے\nپانی ٹھنڈا ہے\nپودے کو پانی لگائیں ۔\nبکری پتے کھا رہی ہے، بکری پتے کھاتی ہے\nبلی دودھ پیتی ہے\nمیرے ابو گھر آگئے ۔",
+       "body_en": "Pashto alphabet\nThere are 44 letters in Pashto in total.\nا ب پ ت ټ ث ج چ څ ځ ح خ د ډ ذ ر ړ ز ژ ږ س ش ښ ص ض ط ظ ع غ ف ک ق ګ ل م ن ڼ و ه ی ي ې ۍ ئ\n\nSentences\nDrink water.\nPlant a plant.\nFather came.\nAllah is one.\nWater is cold.\nWater the plant.\nThe goat eats leaves.\nThe cat drinks milk.\nMy father came home."
       }
      ]
-    },
-    {
-     "id": "l1",
-     "title_ps": "لومړی لوست: ا، ب، پ",
-     "title_ur": "پہلا سبق: ا، ب، پ",
-     "title_roman": "",
-     "body_ps": "ا — اوبه\nاوبه څښه.\n\nب — بوټی\nبوټی ولګوئ.\n\nپ — پلار\nپلار راغی.",
-     "body_roman": "",
-     "body_ur": "ا — اوبه (پانی)\nپانی پیو۔\n\nب — بوټی (پودا)\nپودا لگائیں۔\n\nپ — پلار (والد)\nوالد آئے۔",
-     "body_en": "a — ūba (water)\nDrink water.\n\nba — boṭay (plant)\nPlant a plant.\n\npa — plār (father)\nFather came."
     }
    ],
    "title_roman": "lwastūna"
