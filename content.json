@@ -1,5 +1,5 @@
 {
- "version": 41,
+ "version": 42,
  "sections": [
   {
    "id": "grammar",
@@ -61,7 +61,7 @@
        "title_roman": "",
        "body_ps": "ت - تې\nتخت\nتنده\nتودوخه\nټ - ټې\nټول\nټولګی\nټوپ\nث - ثې\nثمر\nثواب\n\nجملې\nتخت لوی دی.\nټول ماشومان ښوونځي ته ځي.\nثمر خوږ دی.\nتندی يم.\nپه ټولګي کې ماشومان زدګړه کوي.\nثواب ښه کار دی.",
        "body_roman": "",
-       "body_ur": "ت - تے\nتخت\nپیاس\nگرمی\nټ - ټے\nسب\nکلاس\nچھلانگ\nث - ثے\nپھل\nثواب\n\nجملے\nتخت بڑا ہے۔\nسب بچے اسکول جاتے ہیں۔\nپھل میٹھا ہے۔\nمجھے پیاس لگی ہے۔\nکلاس میں بچے پڑھتے ہیں۔\nثواب اچھا کام ہے۔",
+       "body_ur": "ت - تے\nتخت\nپیاس\nگرمی\nٹ - ٹے\nسب\nکلاس\nچھلانگ\nث - ثے\nپھل\nثواب\n\nجملے\nتخت بڑا ہے۔\nسب بچے اسکول جاتے ہیں۔\nپھل میٹھا ہے۔\nمجھے پیاس لگی ہے۔\nکلاس میں بچے پڑھتے ہیں۔\nثواب اچھا کام ہے۔",
        "body_en": "T - Te\nThrone\nThirst\nHeat\nṬ - Ṭe\nAll\nClass\nJump\nS - Se\nFruit\nReward\n\nSentences\nThe throne is big.\nAll children go to school.\nThe fruit is sweet.\nI am thirsty.\nChildren learn in the class.\nReward is a good deed."
       },
       {
