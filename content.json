@@ -1,5 +1,5 @@
 {
- "version": 24,
+ "version": 25,
  "sections": [
   {
    "id": "grammar",
@@ -33,7 +33,18 @@
    "emoji": "📚",
    "title_ur": "اسباق",
    "title_ps": "لوستونه",
-   "items": [],
+   "items": [
+    {
+     "id": "l1",
+     "title_ps": "لومړی لوست: ا، ب، پ",
+     "title_ur": "پہلا سبق: ا، ب، پ",
+     "title_roman": "lomṛay lawst: a, ba, pa",
+     "body_ps": "راځئ چې پښتو زده کړو!\n\nا — اوبه\nاوبه څښه.\n\nب — بوټی\nبوټی ولګوئ.\n\nپ — پلار\nپلار راغی.",
+     "body_roman": "rāẓəy čə paṣto zda kṛu!\n\na — ūba\nūba cṣa.\n\nba — boṭay\nboṭay wulgəwəy.\n\npa — plār\nplār rāğay.",
+     "body_ur": "آؤ پشتو سیکھیں!\n\nا — اوبه (پانی)\nپانی پیو۔\n\nب — بوټی (پودا)\nپودا لگائیں۔\n\nپ — پلار (والد)\nوالد آئے۔",
+     "body_en": "Let's learn Pashto!\n\na — ūba (water)\nDrink water.\n\nba — boṭay (plant)\nPlant a plant.\n\npa — plār (father)\nFather came."
+    }
+   ],
    "title_roman": "lwastūna"
   },
   {
