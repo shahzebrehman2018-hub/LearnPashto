@@ -1,5 +1,5 @@
 {
- "version": 46,
+ "version": 47,
  "sections": [
   {
    "id": "grammar",
@@ -39,10 +39,10 @@
      "title_ps": "د پښتو لومړی کتاب",
      "title_ur": "پشتو کی پہلی کتاب",
      "title_roman": "",
-     "body_ps": "لومړی لوست\nدویم لوست\nدرېیم لوست",
+     "body_ps": "لومړی لوست\nدویم لوست\nدرېیم لوست\nڅلورم لوست\nپنځم لوست",
      "body_roman": "",
-     "body_ur": "پہلا سبق\nدوسرا سبق\nتیسرا سبق",
-     "body_en": "First lesson\nSecond lesson\nThird lesson",
+     "body_ur": "پہلا سبق\nدوسرا سبق\nتیسرا سبق\nچوتھا سبق\nپانچواں سبق",
+     "body_en": "First lesson\nSecond lesson\nThird lesson\nFourth lesson\nFifth lesson",
      "children": [
       {
        "id": "book1-l1",
@@ -73,6 +73,26 @@
        "body_roman": "",
        "body_ur": "ج - جے\nمسجد\nجیب\nشان\nچ - چے\nچائے\nمرغ\nباغ\nس - سے\nکنواں\nجانور\nچار\n\nجملے\nمسجد بڑی ہے۔\nمرغا گندم کھاتا ہے۔\nکنواں گہرا ہے۔\nچار بچے کھیلتے ہیں۔\nباغ میں پھول ہیں۔\nجیب میں پیسے ہیں۔",
        "body_en": "J - Je\nMosque\nPocket\nGlory\nČ - Če\nTea\nChicken\nGarden\nC - Ce\nWell\nAnimal\nFour\n\nSentences\nThe mosque is big.\nThe chicken eats wheat.\nThe well is deep.\nFour children play.\nThere are flowers in the garden.\nThere is money in the pocket."
+      },
+      {
+       "id": "book1-l4",
+       "title_ps": "څلورم لوست",
+       "title_ur": "چوتھا سبق",
+       "title_roman": "",
+       "body_ps": "ځ - ځې\nځمکه\nځنګل\nځای\nح - حې\nحجره\nحلوا\nحوض\nخ - خې\nخبر\nخندا\nخوب\n\nجملې\nځنګل کې ونې دي۔\nحوض کې اوبه دي۔\nخندا ښه ده۔\nخوب ښکلی دی۔\nزما ځای پاک دی۔\nماشوم حلوا خوري۔",
+       "body_roman": "",
+       "body_ur": "ز - زے\nزمین\nجنگل\nجگہ\nح - حے\nمہمان خانہ\nحلوہ\nحوض\nخ - خے\nخبر\nمسکراہٹ\nخواب\n\nجملے\nجنگل میں درخت ہیں۔\nحوض میں پانی ہے۔\nمسکراہٹ اچھی ہے۔\nخواب خوبصورت ہے۔\nمیری جگہ صاف ہے۔\nبچہ حلوہ کھاتا ہے۔",
+       "body_en": "Ź - Źe\nLand\nForest\nPlace\nH - He\nGuest room\nHalwa\nPond\nKh - Khe\nNews\nSmile\nDream\n\nSentences\nThere are trees in the forest.\nThere is water in the pond.\nA smile is good.\nThe dream is beautiful.\nMy place is clean.\nThe child eats halwa."
+      },
+      {
+       "id": "book1-l5",
+       "title_ps": "پنځم لوست",
+       "title_ur": "پانچواں سبق",
+       "title_roman": "",
+       "body_ps": "د - دې\nدروازه\nدکان\nدوست\nډ - ډې\nډوډۍ\nډبره\nډول\nذ - ذې\nذهن\nذکر\nذائقه\n\nجملې\nدروازه بنده ده۔\nډوډۍ ګرمه ده۔\nدوست مې ښه دی۔\nډبره درنه ده۔\nذکر ښه دی۔\nذهن پاک ساته۔",
+       "body_roman": "",
+       "body_ur": "د - دے\nدروازہ\nدکان\nدوست\nڈ - ڈے\nروٹی\nپتھر\nڈھول\nذ - ذے\nذہن\nذکر\nذائقہ\n\nجملے\nدروازہ بند ہے۔\nروٹی گرم ہے۔\nمیرا دوست اچھا ہے۔\nپتھر بھاری ہے۔\nذکر اچھا ہے۔\nذہن صاف رکھو۔",
+       "body_en": "D - De\nDoor\nShop\nFriend\nḌ - Ḍe\nBread\nStone\nDrum\nŻ - Że\nMind\nRemembrance\nTaste\n\nSentences\nThe door is closed.\nThe bread is hot.\nMy friend is good.\nThe stone is heavy.\nRemembrance is good.\nKeep the mind clean."
       }
      ]
     }
