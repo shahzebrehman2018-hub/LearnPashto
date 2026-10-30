@@ -1,5 +1,5 @@
 {
- "version": 50,
+ "version": 51,
  "sections": [
   {
    "id": "grammar",
@@ -93,6 +93,26 @@
        "body_roman": "",
        "body_ur": "د - دے\nدروازہ\nدکان\nدوست\nڈ - ڈے\nروٹی\nپتھر\nڈھول\nذ - ذے\nذہن\nذکر\nذائقہ\n\nجملے\nدروازہ بند ہے۔\nروٹی گرم ہے۔\nمیرا دوست اچھا ہے۔\nپتھر بھاری ہے۔\nذکر اچھا ہے۔\nذہن صاف رکھو۔",
        "body_en": "D - De\nDoor\nShop\nFriend\nḌ - Ḍe\nBread\nStone\nDrum\nŻ - Że\nMind\nRemembrance\nTaste\n\nSentences\nThe door is closed.\nThe bread is hot.\nMy friend is good.\nThe stone is heavy.\nRemembrance is good.\nKeep the mind clean."
+      },
+      {
+       "id": "book1-l6",
+       "title_ps": "شپږم لوست",
+       "title_ur": "چھٹا سبق",
+       "title_roman": "",
+       "body_ps": "ر - رې\nرڼا\nرور\nرنګ\nړ - ړې\nړومبی\nړنګ\nړوند\nز - زې\nزمری\nزوی\nزړه\n\nجملې\nرڼا ښه ده۔\nرور مې ښه دی۔\nزمری لوی دی۔\nزړۀ مې خوښ دی۔\nماشوم وړومبی راغی۔\nدا لار ړنګه ده۔",
+       "body_roman": "",
+       "body_ur": "ر - رے\nروشنی\nبھائی\nرنگ\nڑ - ړے\nپہلا\nمِٹا ہُوا\nاندھا\nز - زے\nشیر\nبیٹا\nدل\n\nجملے\nروشنی اچھی ہے۔\nمیرا بھائی اچھا ہے۔\nشیر بڑا ہے۔\nمیرا دل خوش ہے۔\nبچہ پہلے آیا۔\nیہ راستہ مٹا ہے۔",
+       "body_en": "R - Re\nLight\nBrother\nColour\nṚ - Ṛe\nFirst\nDestroyed\nBlind\nZ - Ze\nLion\nSon\nHeart\n\nSentences\nThe light is good.\nMy brother is good.\nThe lion is big.\nMy heart is happy.\nThe child came first.\nThis road is destroyed."
+      },
+      {
+       "id": "book1-l7",
+       "title_ps": "اووم لوست",
+       "title_ur": "ساتواں سبق",
+       "title_roman": "",
+       "body_ps": "ژ - ژې\nژبه\nژمی\nژوند\nږ - ږې\nږیره\nږغ\nږمنځ\nس - سې\nستوری\nسپی\nسهار\n\nجملې\nژبه مې پښتو ده۔\nژمی کې واوره ورېږي۔\nژوند ښکلی دی۔\nما ږغ واورېد۔\nستوری ځلېږي۔\nسپی وفادار دی۔",
+       "body_roman": "",
+       "body_ur": "ژ - ژے\nزبان\nموسم سرما\nزندگی\nگ - گے\nداڑھی\nآواز\nگنگھی\nس - سے\nستارہ\nکتا\nصبح\n\nجملے\nمیری زبان پشتو ہے۔\nموسم سرما میں برف پڑتی ہے۔\nزندگی خوبصورت ہے۔\nمیں نے آواز سنی۔\nستارہ چمکتا ہے۔\nکتا وفادار ہے۔",
+       "body_en": "Ž - Že\nLanguage\nWinter\nLife\nǦ - Ǧe\nBeard\nSound\nComb\nS - Se\nStar\nDog\nMorning\n\nSentences\nMy language is Pashto.\nIn winter, snow falls.\nLife is beautiful.\nI heard a sound.\nThe star shines.\nThe dog is loyal."
       }
      ]
     }
