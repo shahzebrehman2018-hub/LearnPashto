@@ -1,5 +1,5 @@
 {
- "version": 47,
+ "version": 48,
  "sections": [
   {
    "id": "grammar",
@@ -21644,6 +21644,140 @@
        "title_ur": "منع",
        "title_roman": "",
        "body_ps": "مه یې وهه (مت مارو — don't hit it!)\nمه یې وهئ (مت ماریں / مت مارئیے — don't hit it! (pl./formal))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Prohibitive",
+       "grammar": ""
+      }
+     ]
+    },
+    {
+     "id": "ms29",
+     "title_ps": "رسېدل",
+     "title_ur": "پہنچنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to arrive, to reach",
+     "grammar": "فعل، لازم",
+     "children": [
+      {
+       "id": "ms29-1",
+       "title_ps": "حال",
+       "title_ur": "پہنچتا ہوں",
+       "title_roman": "",
+       "body_ps": "زه رسېږم (میں پہنچتا / پہنچتی ہوں — I arrive)\nته رسېږې (تم پہنچتے / پہنچتی ہو — you arrive)\nهغه رسېږي (وہ پہنچتا / پہنچتی ہے — he/she arrives)\nموږ رسېږو (ہم پہنچتے / پہنچتی ہیں — we arrive)\nتاسو رسېږئ (آپ پہنچتے / پہنچتی ہیں — you arrive)\nهغوی رسېږي (وہ پہنچتے / پہنچتی ہیں — they arrive)\nدوی رسېږي (وہ پہنچتے / پہنچتی ہیں — they arrive)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Present",
+       "grammar": ""
+      },
+      {
+       "id": "ms29-2",
+       "title_ps": "ماضی مطلق",
+       "title_ur": "پہنچا",
+       "title_roman": "",
+       "body_ps": "زه ورسېدم (میں پہنچا — I arrived)\nته ورسېدې (تم پہنچے — you arrived)\nهغه ورسېد (وہ پہنچا — he arrived)\nهغه ورسېده (وہ پہنچی — she arrived)\nموږ ورسېدو (ہم پہنچے — we arrived)\nتاسو ورسېدئ (آپ پہنچے / پہنچیں — you arrived)\nهغوی ورسېدل (وہ پہنچے — they arrived (m.))\nهغوی ورسېدې (وہ پہنچیں — they arrived (f.))\nدوی ورسېدل (وہ پہنچے — they arrived (m.))\nدوی ورسېدې (وہ پہنچیں — they arrived (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Simple past",
+       "grammar": ""
+      },
+      {
+       "id": "ms29-3",
+       "title_ps": "ماضی استمراری",
+       "title_ur": "پہنچتا تھا",
+       "title_roman": "",
+       "body_ps": "زه رسېدم / رسېدلم (میں پہنچتا تھا — I was arriving)\nته رسېدې / رسېدلې (تم پہنچتے تھے / پہنچتی تھی — you were arriving)\nهغه رسېد / رسېدلو (وہ پہنچتا تها — he was arriving)\nهغه رسېده / رسېدله (وہ پہنچتی تھی — she was arriving)\nموږ رسېدو / رسېدلو (ہم پہنچتے تھے — we were arriving)\nتاسو رسېدئ / رسېدلئ (آپ پہنچتے تھے / پہنچتی تھیں — you were arriving)\nهغوی رسېدل (وہ پہنچتے تھے — they were arriving (m.))\nهغوی رسېدلې (وہ پہنچتی تھیں — they were arriving (f.))\nدوی رسېدل (وہ پہنچتے تھے — they were arriving (m.))\nدوی رسېدلې (وہ پہنچتی تھیں — they were arriving (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Past continuous",
+       "grammar": ""
+      },
+      {
+       "id": "ms29-4",
+       "title_ps": "حال مکمل / ماضی قریب",
+       "title_ur": "پہنچا ہے",
+       "title_roman": "",
+       "body_ps": "زه رسېدلی یم (میں پہنچا ہوں — I have arrived (m.))\nزه رسېدلې یم (میں پہنچی ہوں — I have arrived (f.))\nته رسېدلی یې (تم پہنچے ہو — you have arrived (m.))\nته رسېدلې یې (تم پہنچی ہو — you have arrived (f.))\nهغه رسېدلی دی (وہ پہنچا ہے — he has arrived)\nهغه رسېدلې ده (وہ پہنچی ہے — she has arrived)\nموږ رسېدلي یو (ہم پہنچے ہیں — we have arrived (m.))\nموږ رسېدلې یو (ہم پہنچی ہیں — we have arrived (f.))\nتاسو رسېدلي / يئ یاست (آپ پہنچے ہیں — you have arrived (m.))\nتاسو رسېدلې / يئ یاست (آپ پہنچی ہیں — you have arrived (f.))\nهغوی رسېدلي دي (وہ پہنچے ہیں — they have arrived (m.))\nهغوی رسېدلې دي (وہ پہنچی ہیں — they have arrived (f.))\nدوی رسېدلي دي (وہ پہنچے ہیں — they have arrived (m.))\nدوی رسېدلې دي (وہ پہنچی ہیں — they have arrived (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Present perfect",
+       "grammar": ""
+      },
+      {
+       "id": "ms29-5",
+       "title_ps": "ماضی بعيد",
+       "title_ur": "پہنچا تھا",
+       "title_roman": "",
+       "body_ps": "زه رسېدلی وم (میں پہنچا تھا — I had arrived (m.))\nزه رسېدلې وم (میں پہنچی تھی — I had arrived (f.))\nته رسېدلی وې (تم پہنچے تھے — you had arrived (m.))\nته رسېدلې وې (تم پہنچی تھیں — you had arrived (f.))\nهغه رسېدلی و (وہ پہنچا تھا — he had arrived)\nهغه رسېدلې وه (وہ پہنچی تھی — she had arrived)\nموږ رسېدلي وو (ہم پہنچے تھے — we had arrived (m.))\nموږ رسېدلې وو (ہم پہنچی تھیں — we had arrived (f.))\nتاسو رسېدلي وئ (آپ پہنچے تھے — you had arrived (m.))\nتاسو رسېدلې وئ (آپ پہنچی تھیں — you had arrived (f.))\nهغوی رسېدلي وو (وہ پہنچے تھے — they had arrived (m.))\nهغوی رسېدلې وې (وہ پہنچی تھیں — they had arrived (f.))\nدوی رسېدلي وو (وہ پہنچے تھے — they had arrived (m.))\nدوی رسېدلې وې (وہ پہنچی تھیں — they had arrived (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Past perfect",
+       "grammar": ""
+      },
+      {
+       "id": "ms29-6",
+       "title_ps": "ماضی احتمالی",
+       "title_ur": "پہنچا ہوگا",
+       "title_roman": "",
+       "body_ps": "زه به رسېدلی وم (میں پہنچا ہوں گا — I must have arrived (m.))\nزه به رسېدلې وم (میں پہنچی ہوں گی — I must have arrived (f.))\nته به رسېدلی وې (تم پہنچے ہو گے — you must have arrived (m.))\nته به رسېدلې وې (تم پہنچی ہو گی — you must have arrived (f.))\nهغه به رسېدلی و (وہ پہنچا ہو گا — he must have arrived)\nهغه به رسېدلې وه (وہ پہنچی ہو گی — she must have arrived)\nموږ به رسېدلي وو (ہم پہنچے ہوں گے — we must have arrived (m.))\nموږ به رسېدلې وو (ہم پہنچی ہوں گی — we must have arrived (f.))\nتاسو به رسېدلي وئ (آپ پہنچے ہوں گے — you must have arrived (m.))\nتاسو به رسېدلې وئ (آپ پہنچی ہوں گی — you must have arrived (f.))\nهغوی به رسېدلي وو (وہ پہنچے ہوں گے — they must have arrived (m.))\nهغوی به رسېدلې وې (وہ پہنچی ہوں گی — they must have arrived (f.))\nدوی به رسېدلي وو (وہ پہنچے ہوں گے — they must have arrived (m.))\nدوی به رسېدلې وې (وہ پہنچی ہوں گی — they must have arrived (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Presumptive past",
+       "grammar": ""
+      },
+      {
+       "id": "ms29-7",
+       "title_ps": "مستقبل سادہ",
+       "title_ur": "پہنچوں گا",
+       "title_roman": "",
+       "body_ps": "زه به رسېږم (میں پہنچوں گا / پہنچوں گی — I will arrive)\nته به رسېږې (تم پہنچو گے / پہنچو گی — you will arrive)\nهغه به رسېږي (وہ پہنچے گا / پہنچے گی — he/she will arrive)\nموږ به رسېږو (ہم پہنچیں گے / پہنچیں گی — we will arrive)\nتاسو به رسېږئ (آپ پہنچیں گے / پہنچیں گی — you will arrive)\nهغوی به رسېږي (وہ پہنچیں گے / پہنچیں گی — they will arrive)\nدوی به رسېږي (وہ پہنچیں گے / پہنچیں گی — they will arrive)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Simple future",
+       "grammar": ""
+      },
+      {
+       "id": "ms29-8",
+       "title_ps": "ارادی مستقبل",
+       "title_ur": "پہنچ جاؤں گا",
+       "title_roman": "",
+       "body_ps": "زه به ورسېږم (میں پہنچ جاؤں گا / پہنچ جاؤں گی — I will arrive for good)\nته به ورسېږې (تم پہنچ جاؤ گے / پہنچ جاؤ گی — you will arrive for good)\nهغه به ورسېږي (وہ پہنچ جائے گا / پہنچ جائے گی — he/she will arrive for good)\nموږ به ورسېږو (ہم پہنچ جائیں گے / پہنچ جائیں گی — we will arrive for good)\nتاسو به ورسېږئ (آپ پہنچ جائیں گے / پہنچ جائیں گی — you will arrive for good)\nهغوی به ورسېږي (وہ پہنچ جائیں گے / پہنچ جائیں گی — they will arrive for good)\nدوی به ورسېږي (وہ پہنچ جائیں گے / پہنچ جائیں گی — they will arrive for good)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Resolutive future",
+       "grammar": ""
+      },
+      {
+       "id": "ms29-9",
+       "title_ps": "مضارع",
+       "title_ur": "پہنچوں",
+       "title_roman": "",
+       "body_ps": "زه ورسېږم (میں پہنچوں — that I arrive)\nته ورسېږې (تم پہنچو — that you arrive)\nهغه ورسېږي (وہ پہنچے — that he/she arrive)\nموږ ورسېږو (ہم پہنچیں — that we arrive)\nتاسو ورسېږئ (آپ پہنچیں — that you arrive)\nهغوی ورسېږي (وہ پہنچیں — that they arrive)\nدوی ورسېږي (وہ پہنچیں — that they arrive)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Subjunctive",
+       "grammar": ""
+      },
+      {
+       "id": "ms29-10",
+       "title_ps": "امر",
+       "title_ur": "حکم",
+       "title_roman": "",
+       "body_ps": "ورسېږه (پہنچو — arrive!)\nورسېږئ (پہنچیں / پہنچیے — arrive! (pl./formal))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Imperative",
+       "grammar": ""
+      },
+      {
+       "id": "ms29-11",
+       "title_ps": "نہی",
+       "title_ur": "منع",
+       "title_roman": "",
+       "body_ps": "مه رسېږه (مت پہنچو — don't arrive!)\nمه رسېږئ (مت پہنچیں / مت پہنچیے — don't arrive! (pl./formal))",
        "body_roman": "",
        "body_ur": "",
        "body_en": "Prohibitive",
