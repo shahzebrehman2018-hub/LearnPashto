@@ -1,5 +1,5 @@
 {
- "version": 48,
+ "version": 49,
  "sections": [
   {
    "id": "grammar",
@@ -21778,6 +21778,140 @@
        "title_ur": "منع",
        "title_roman": "",
        "body_ps": "مه رسېږه (مت پہنچو — don't arrive!)\nمه رسېږئ (مت پہنچیں / مت پہنچیے — don't arrive! (pl./formal))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Prohibitive",
+       "grammar": ""
+      }
+     ]
+    },
+    {
+     "id": "ms30",
+     "title_ps": "پاڅېدل",
+     "title_ur": "اُٹھنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to get up, to rise",
+     "grammar": "فعل، لازم",
+     "children": [
+      {
+       "id": "ms30-1",
+       "title_ps": "حال",
+       "title_ur": "اُٹھتا ہوں",
+       "title_roman": "",
+       "body_ps": "زه پاڅېږم (میں اُٹھتا / اُٹھتی ہوں — I get up)\nته پاڅېږې (تم اُٹھتے / اُٹھتی ہو — you get up)\nهغه پاڅېږي (وہ اُٹھتا / اُٹھتی ہے — he/she gets up)\nموږ پاڅېږو (ہم اُٹھتے / اُٹھتی ہیں — we get up)\nتاسو پاڅېږئ (آپ اُٹھتے / اُٹھتی ہیں — you get up)\nهغوی پاڅېږي (وہ اُٹھتے / اُٹھتی ہیں — they get up)\nدوی پاڅېږي (وہ اُٹھتے / اُٹھتی ہیں — they get up)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Present",
+       "grammar": ""
+      },
+      {
+       "id": "ms30-2",
+       "title_ps": "ماضی مطلق",
+       "title_ur": "اُٹھا",
+       "title_roman": "",
+       "body_ps": "زه پاڅېدم (میں اُٹھا — I got up)\nته پاڅېدې (تم اُٹھے — you got up)\nهغه پاڅېد (وہ اُٹھا — he got up)\nهغه پاڅېده (وہ اُٹھی — she got up)\nموږ پاڅېدو (ہم اُٹھے — we got up)\nتاسو پاڅېدئ (آپ اُٹھے / اُٹھیں — you got up)\nهغوی پاڅېدل (وہ اُٹھے — they got up (m.))\nهغوی پاڅېدې (وہ اُٹھیں — they got up (f.))\nدوی پاڅېدل (وہ اُٹھے — they got up (m.))\nدوی پاڅېدې (وہ اُٹھیں — they got up (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Simple past",
+       "grammar": ""
+      },
+      {
+       "id": "ms30-3",
+       "title_ps": "ماضی استمراری",
+       "title_ur": "اُٹھتا تھا",
+       "title_roman": "",
+       "body_ps": "زه پاڅېدم/ پاڅېدلم (میں اُٹھتا تھا — I was getting up)\nته پاڅېدې/ پاڅېدلې (تم اُٹھتے تھے / اُٹھتی تھیں — you were getting up)\nهغه پاڅېدلو (وہ اُٹھتا تھا — he was getting up)\nهغه پاڅېدله (وہ اُٹھتی تھی — she was getting up)\nموږ پاڅېدلو (ہم اُٹھتے تھے — we were getting up)\nتاسو پاڅېدلئ (آپ اُٹھتے تھے / اُٹھتی تھیں — you were getting up)\nهغوی پاڅېدل (وہ اُٹھتے تھے — they were getting up (m.))\nهغوی پاڅېدلې (وہ اُٹھتی تھیں — they were getting up (f.))\nدوی پاڅېدل (وہ اُٹھتے تھے — they were getting up (m.))\nدوی پاڅېدلې (وہ اُٹھتی تھیں — they were getting up (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Past continuous",
+       "grammar": ""
+      },
+      {
+       "id": "ms30-4",
+       "title_ps": "حال مکمل / ماضی قریب",
+       "title_ur": "اُٹھا ہے",
+       "title_roman": "",
+       "body_ps": "زه پاڅېدلی یم (میں اُٹھا ہوں — I have got up (m.))\nزه پاڅېدلې یم (میں اُٹھی ہوں — I have got up (f.))\nته پاڅېدلی یې (تم اُٹھے ہو — you have got up (m.))\nته پاڅېدلې یې (تم اُٹھی ہو — you have got up (f.))\nهغه پاڅېدلی دی (وہ اُٹھا ہے — he has got up)\nهغه پاڅېدلې ده (وہ اُٹھی ہے — she has got up)\nموږ پاڅېدلي یو (ہم اُٹھے ہیں — we have got up (m.))\nموږ پاڅېدلې یو (ہم اُٹھی ہیں — we have got up (f.))\nتاسو پاڅېدلي یئ (آپ اُٹھے ہیں — you have got up (m.))\nتاسو پاڅېدلې یئ (آپ اُٹھی ہیں — you have got up (f.))\nهغوی پاڅېدلي دي (وہ اُٹھے ہیں — they have got up (m.))\nهغوی پاڅېدلې دي (وہ اُٹھی ہیں — they have got up (f.))\nدوی پاڅېدلي دي (وہ اُٹھے ہیں — they have got up (m.))\nدوی پاڅېدلې دي (وہ اُٹھی ہیں — they have got up (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Present perfect",
+       "grammar": ""
+      },
+      {
+       "id": "ms30-5",
+       "title_ps": "ماضی بعيد",
+       "title_ur": "اُٹھا تھا",
+       "title_roman": "",
+       "body_ps": "زه پاڅېدلی وم (میں اُٹھا تھا — I had got up (m.))\nزه پاڅېدلې وم (میں اُٹھی تھی — I had got up (f.))\nته پاڅېدلی وې (تم اُٹھے تھے — you had got up (m.))\nته پاڅېدلې وې (تم اُٹھی تھیں — you had got up (f.))\nهغه پاڅېدلی و (وہ اُٹھا تھا — he had got up)\nهغه پاڅېدلې وه (وہ اُٹھی تھی — she had got up)\nموږ پاڅېدلي وو (ہم اُٹھے تھے — we had got up (m.))\nموږ پاڅېدلې وو (ہم اُٹھی تھیں — we had got up (f.))\nتاسو پاڅېدلي وئ (آپ اُٹھے تھے — you had got up (m.))\nتاسو پاڅېدلې وئ (آپ اُٹھی تھیں — you had got up (f.))\nهغوی پاڅېدلي وو (وہ اُٹھے تھے — they had got up (m.))\nهغوی پاڅېدلې وې (وہ اُٹھی تھیں — they had got up (f.))\nدوی پاڅېدلي وو (وہ اُٹھے تھے — they had got up (m.))\nدوی پاڅېدلې وې (وہ اُٹھی تھیں — they had got up (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Past perfect",
+       "grammar": ""
+      },
+      {
+       "id": "ms30-6",
+       "title_ps": "ماضی احتمالی",
+       "title_ur": "اُٹھا ہوں گا",
+       "title_roman": "",
+       "body_ps": "زه به پاڅېدلی وم (میں اُٹھا ہوں گا — I must have got up (m.))\nزه به پاڅېدلې وم (میں اُٹھی ہوں گی — I must have got up (f.))\nته به پاڅېدلی وې (تم اُٹھے ہو گے — you must have got up (m.))\nته به پاڅېدلې وې (تم اُٹھی ہو گی — you must have got up (f.))\nهغه به پاڅېدلی و (وہ اُٹھا ہو گا — he must have got up)\nهغه به پاڅېدلې وه (وہ اُٹھی ہو گی — she must have got up)\nموږ به پاڅېدلي وو (ہم اُٹھے ہوں گے — we must have got up (m.))\nموږ به پاڅېدلې وو (ہم اُٹھی ہوں گی — we must have got up (f.))\nتاسو به پاڅېدلي وئ (آپ اُٹھے ہوں گے — you must have got up (m.))\nتاسو به پاڅېدلې وئ (آپ اُٹھی ہوں گی — you must have got up (f.))\nهغوی به پاڅېدلي وو (وہ اُٹھے ہوں گے — they must have got up (m.))\nهغوی به پاڅېدلې وې (وہ اُٹھی ہوں گی — they must have got up (f.))\nدوی به پاڅېدلي وو (وہ اُٹھے ہوں گے — they must have got up (m.))\nدوی به پاڅېدلې وې (وہ اُٹھی ہوں گی — they must have got up (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Presumptive past",
+       "grammar": ""
+      },
+      {
+       "id": "ms30-7",
+       "title_ps": "مستقبل سادہ",
+       "title_ur": "اُٹھوں گا",
+       "title_roman": "",
+       "body_ps": "زه به پاڅېږم (میں اُٹھوں گا / اُٹھوں گی — I will get up)\nته به پاڅېږې (تم اُٹھو گے / اُٹھو گی — you will get up)\nهغه به پاڅېږي (وہ اُٹھے گا / اُٹھے گی — he/she will get up)\nموږ به پاڅېږو (ہم اُٹھیں گے / اُٹھیں گی — we will get up)\nتاسو به پاڅېږئ (آپ اُٹھیں گے / اُٹھیں گی — you will get up)\nهغوی به پاڅېږي (وہ اُٹھیں گے / اُٹھیں گی — they will get up)\nدوی به پاڅېږي (وہ اُٹھیں گے / اُٹھیں گی — they will get up)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Simple future",
+       "grammar": ""
+      },
+      {
+       "id": "ms30-8",
+       "title_ps": "ارادی مستقبل",
+       "title_ur": "اُٹھ جاؤں گا",
+       "title_roman": "",
+       "body_ps": "زه به وپاڅېږم (میں اُٹھ جاؤں گا / اُٹھ جاؤں گی — I will get up for good)\nته به وپاڅېږې (تم اُٹھ  جاؤ گے / اُٹھ جاؤ گی — you will get up for good)\nهغه به وپاڅېږي (وہ اُٹھ جائے گا / اُٹھ جائے گی — he/she will get up for good)\nموږ به وپاڅېږو (ہم اُٹھ جائیں گے / اُٹھ جائیں گی — we will get up for good)\nتاسو به وپاڅېږئ (آپ اُٹھ جائیں گے / اُٹھ جائیں گی — you will get up for good)\nهغوی به وپاڅېږي (وہ اُٹھ جائیں گے / اُٹھ جائیں گی — they will get up for good)\nدوی به و پاڅېږي (وہ اُٹھ جائیں گے / اُٹھ جائیں گی — they will get up for good)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Resolutive future",
+       "grammar": ""
+      },
+      {
+       "id": "ms30-9",
+       "title_ps": "مضارع",
+       "title_ur": "اُٹھوں",
+       "title_roman": "",
+       "body_ps": "زه وپاڅم (میں اُٹھوں — that I get up)\nته وپاڅې (تم اُٹھو — that you get up)\nهغه وپاڅي (وہ اُٹھے — that he/she get up)\nموږ وپاڅو (ہم اُٹھیں — that we get up)\nتاسو وپاڅئ (آپ اُٹھیں — that you get up)\nهغوی وپاڅي (وہ اُٹھیں — that they get up)\nدوی وپاڅي (وہ اُٹھیں — that they get up)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Subjunctive",
+       "grammar": ""
+      },
+      {
+       "id": "ms30-10",
+       "title_ps": "امر",
+       "title_ur": "حکم",
+       "title_roman": "",
+       "body_ps": "پاڅه (اُٹھو — get up!)\nپاڅئ (اُٹھیں / اُٹھیے — get up! (pl./formal))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Imperative",
+       "grammar": ""
+      },
+      {
+       "id": "ms30-11",
+       "title_ps": "نہی",
+       "title_ur": "منع",
+       "title_roman": "",
+       "body_ps": "مه پاڅېږه (مت اُٹھو — don't get up!)\nمه پاڅېږئ (مت اُٹھیں / مت اُٹھیے — don't get up! (pl./formal))",
        "body_roman": "",
        "body_ur": "",
        "body_en": "Prohibitive",
