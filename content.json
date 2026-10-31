@@ -1,5 +1,5 @@
 {
- "version": 52,
+ "version": 53,
  "sections": [
   {
    "id": "grammar",
@@ -381355,7 +381355,7 @@
      "title_ps": "abbess /ˈæbɪs/",
      "title_ur": "",
      "title_roman": "",
-     "body_ps": "د راهبانو د ټولنې مشره.",
+     "body_ps": "د راهبېو د ټولنې مشره.",
      "body_roman": "",
      "body_ur": "راہباؤں کی جماعت کی سربراہ۔",
      "body_en": "Head of a community of nuns.",
@@ -381366,7 +381366,7 @@
      "title_ps": "abbey /ˈæbi/",
      "title_ur": "",
      "title_roman": "",
-     "body_ps": "۱. د راهبانو یا راهبانو د ټولنې ودانۍ. ۲. خپله مذهبي ټولنه. ۳. پخوانۍ خانقا.",
+     "body_ps": "۱. د راهبانو یا راهبېو د ټولنې ودانۍ. ۲. خپله مذهبي ټولنه. ۳. پخوانۍ خانقا.",
      "body_roman": "",
      "body_ur": "۱. راہبوں یا راہباؤں کی خانقاہ۔ ۲. خود مذہبی جماعت۔ ۳. سابقہ خانقاہ کی عمارت۔",
      "body_en": "1. Building(s) of a community of monks or nuns. 2. The community itself. 3. Building that was once an abbey.",
