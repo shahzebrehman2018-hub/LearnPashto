@@ -1,5 +1,5 @@
 {
- "version": 55,
+ "version": 56,
  "sections": [
   {
    "id": "grammar",
@@ -113,6 +113,26 @@
        "body_roman": "",
        "body_ur": "ژ - ژے\nزبان\nموسم سرما\nزندگی\nگ - گے\nداڑھی\nآواز\nگنگھی\nس - سے\nستارہ\nکتا\nصبح\n\nجملے\nمیری زبان پشتو ہے۔\nموسم سرما میں برف پڑتی ہے۔\nزندگی خوبصورت ہے۔\nمیں نے آواز سنی۔\nستارہ چمکتا ہے۔\nکتا وفادار ہے۔",
        "body_en": "Ž - Že\nLanguage\nWinter\nLife\nǦ - Ǧe\nBeard\nSound\nComb\nS - Se\nStar\nDog\nMorning\n\nSentences\nMy language is Pashto.\nIn winter, snow falls.\nLife is beautiful.\nI heard a sound.\nThe star shines.\nThe dog is loyal."
+      },
+      {
+       "id": "book1-l8",
+       "title_ps": "اتم لوست",
+       "title_ur": "آٹھواں سبق",
+       "title_roman": "",
+       "body_ps": "ش - شې\nشپه\nشین\nشپون\nښ - ښې\nښه\nښوونځی\nښکلی\nص - صې\nصبر\nصاف\nصحت\n\nجملې\nشپه تیاره ده۔\nشین بوټی ښکلی دی۔\nښه ماشوم ښوونځي ته ځي۔\nصبر ښه دی۔\nزما جامې صفه دي۔\nشپون پسونه ساتي۔",
+       "body_roman": "",
+       "body_ur": "ش - شے\nرات\nسبز\nچرواہا\nخ - خے\nاچھا\nاسکول\nخوبصورت\nص - صے\nصبر\nصاف\nصحت\n\nجملے\nرات اندھیری ہے۔\nسبز پودا خوبصورت ہے۔\nاچھا بچہ اسکول جاتا ہے۔\nصبر اچھا ہے۔\nمیرے کپڑے صاف ہیں۔\nچرواہا بھیڑیں چراتا ہے۔",
+       "body_en": "Sh - She\nNight\nGreen\nShepherd\nX̌ - X̌e\nGood\nSchool\nBeautiful\nṢ - Ṣe\nPatience\nClean\nHealth\n\nSentences\nThe night is dark.\nThe green plant is beautiful.\nThe good child goes to school.\nPatience is good.\nMy clothes are clean.\nThe shepherd looks after the sheep."
+      },
+      {
+       "id": "book1-l9",
+       "title_ps": "نهم لوست",
+       "title_ur": "نواں سبق",
+       "title_roman": "",
+       "body_ps": "ض - ضې\nضرورت\nضايعه\nضمیر\nضلعه\nط - طې\nطوطي\nطاقت\nطالب\nظ - ظې\nظلم\nظاہر\nظہر\n\nجملې\nطوطي شين دی۔\nظلم بد دی۔\nطالب ښوونځي ته ځي۔\nدا خبره ظاہره ده۔\nزما ضلعه ښکلې ده۔\nپه طاقت کار کېږي۔",
+       "body_roman": "",
+       "body_ur": "ض - ضے\nضرورت\nضائع\nضمیر\nضلع\nط - طے\nطوطا\nطاقت\nطالب علم\nظ - ظے\nظلم\nظاہر\nظہر\n\nجملے\nطوطا سبز ہے۔\nظلم برا ہے۔\nطالب علم اسکول جاتا ہے۔\nیہ بات ظاہر ہے۔\nمیرا ضلع خوبصورت ہے۔\nطاقت سے کام ہوتا ہے۔",
+       "body_en": "Ḍ - Ḍe\nNeed\nWaste\nConscience\nDistrict\nṬ - Ṭe\nParrot\nStrength\nStudent\nẒ - Ẓe\nOppression\nClear\nZuhr (midday prayer)\n\nSentences\nThe parrot is green.\nOppression is bad.\nThe student goes to school.\nThis matter is clear.\nMy district is beautiful.\nWork is done with strength."
       }
      ]
     }
