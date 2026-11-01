@@ -1,5 +1,5 @@
 {
- "version": 60,
+ "version": 61,
  "sections": [
   {
    "id": "grammar",
@@ -379196,15 +379196,6 @@
    ],
    "title_roman": "luğat",
    "page_size": 100
-  },
-  {
-   "id": "enpsur",
-   "emoji": "📗",
-   "title_ur": "انگریزی پشتو اردو لغت",
-   "title_ps": "انګرېزي پښتو اردو لغت",
-   "title_roman": "",
-   "page_size": 100,
-   "items": []
   },
   {
    "id": "names",
