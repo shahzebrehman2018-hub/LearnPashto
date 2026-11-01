@@ -1,5 +1,5 @@
 {
- "version": 61,
+ "version": 62,
  "sections": [
   {
    "id": "grammar",
@@ -133,6 +133,26 @@
        "body_roman": "",
        "body_ur": "ض - ضے\nضرورت\nضائع\nضمیر\nضلع\nط - طے\nطوطا\nطاقت\nطالب علم\nظ - ظے\nظلم\nظاہر\nظہر\n\nجملے\nطوطا سبز ہے۔\nظلم برا ہے۔\nطالب علم اسکول جاتا ہے۔\nیہ بات ظاہر ہے۔\nمیرا ضلع خوبصورت ہے۔\nطاقت سے کام ہوتا ہے۔",
        "body_en": "Ḍ - Ḍe\nNeed\nWaste\nConscience\nDistrict\nṬ - Ṭe\nParrot\nStrength\nStudent\nẒ - Ẓe\nOppression\nClear\nZuhr (midday prayer)\n\nSentences\nThe parrot is green.\nOppression is bad.\nThe student goes to school.\nThis matter is clear.\nMy district is beautiful.\nWork is done with strength."
+      },
+      {
+       "id": "book1-l10",
+       "title_ps": "لسم لوست",
+       "title_ur": "دسواں سبق",
+       "title_roman": "",
+       "body_ps": "ع - عین\nعلم\nعزت\nعمر\nغ - غین\nغر\nغوږ\nغنم\nف - فې\nفصل\nفیل\nفکر\n\nجملې\nعلم ښه دی۔\nغر لوړ دی۔\nفیل لوی دی۔\nغنم په پټي کې دي۔\nزما دوه غوږونه دي۔\nکروندګر فصل کري۔",
+       "body_roman": "",
+       "body_ur": "ع - عین\nعلم\nعزت\nعمر\nغ - غین\nپہاڑ\nکان\nگندم\nف - فے\nفصل\nہاتھی\nفکر\n\nجملے\nعلم اچھا ہے۔\nپہاڑ اونچا ہے۔\nہاتھی بڑا ہے۔\nگندم کھیت میں ہے۔\nمیرے دو کان ہیں۔\nکسان فصل بوتا ہے۔",
+       "body_en": "ʿ - ʿe\nKnowledge\nRespect\nAge\nGh - Ghe\nMountain\nEar\nWheat\nF - Fe\nCrop\nElephant\nThought\n\nSentences\nKnowledge is good.\nThe mountain is high.\nThe elephant is big.\nThe wheat is in the field.\nI have two ears.\nThe farmer sows the crop."
+      },
+      {
+       "id": "book1-l11",
+       "title_ps": "یوولسم لوست",
+       "title_ur": "گیارہواں سبق",
+       "title_roman": "",
+       "body_ps": "ک - کاپ\nکتاب\nکور\nکوتره\nق - قاف\nقلم\nکيسه\nقلعه\nګ - ګاپ\nګل\nګرم\nګاډی\n\nجملې\nکتاب ښه دی۔\nکور مې ښکلی دی۔\nکوتره الوځي۔\nقلم مې نوی دی۔\nګل سور دی۔\nګاډی په سړک ځي۔",
+       "body_roman": "",
+       "body_ur": "ک - کاف\nکتاب\nگھر\nکبوتر\nق - قاف\nقلم\nکہانی\nقلعہ\nگ - گاف\nپھول\nگرم\nگاڑی\n\nجملے\nکتاب اچھی ہے۔\nمیرا گھر خوبصورت ہے۔\nکبوتر اڑتا ہے۔\nمیرا قلم نیا ہے۔\nپھول سرخ ہے۔\nگاڑی سڑک پر جاتی ہے۔",
+       "body_en": "K - Ke\nBook\nHome\nPigeon\nQ - Qe\nPen\nStory\nFort\nG - Ge\nFlower\nWarm\nVehicle\n\nSentences\nThe book is good.\nMy home is beautiful.\nThe pigeon flies.\nMy pen is new.\nThe flower is red.\nThe vehicle goes on the road."
       }
      ]
     }
