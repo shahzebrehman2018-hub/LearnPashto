@@ -1,5 +1,5 @@
 {
- "version": 73,
+ "version": 74,
  "sections": [
   {
    "id": "grammar",
@@ -155261,6 +155261,116 @@
      "body_roman": "",
      "body_ur": "میں صبح سے شام تک یونیورسٹی میں ہوں۔",
      "body_en": "I am at the university from morning to evening.",
+     "grammar": ""
+    },
+    {
+     "id": "s14106",
+     "title_ps": "زما کورنۍ د اونۍ په پای کې د تفریح لپاره یو ښه پروګرام جوړوي۔",
+     "title_ur": "میرا خاندان ہفتے کے آخر میں تفریح کے لیے ایک اچھا پروگرام بناتا ہے۔",
+     "title_roman": "",
+     "body_ps": "زما کورنۍ د اونۍ په پای کې د تفریح لپاره یو ښه پروګرام جوړوي۔",
+     "body_roman": "",
+     "body_ur": "میرا خاندان ہفتے کے آخر میں تفریح کے لیے ایک اچھا پروگرام بناتا ہے۔",
+     "body_en": "My family makes a nice plan for recreation at the weekend.",
+     "grammar": ""
+    },
+    {
+     "id": "s14107",
+     "title_ps": "ماشومان په انګړ کې لوبې کوي او خپلې خوښې سندرې وايي۔",
+     "title_ur": "بچے صحن میں کھیلتے ہیں اور اپنے پسندیدہ گانے گاتے ہیں۔",
+     "title_roman": "",
+     "body_ps": "ماشومان په انګړ کې لوبې کوي او خپلې خوښې سندرې وايي۔",
+     "body_roman": "",
+     "body_ur": "بچے صحن میں کھیلتے ہیں اور اپنے پسندیدہ گانے گاتے ہیں۔",
+     "body_en": "The children play in the courtyard and sing their favourite songs.",
+     "grammar": ""
+    },
+    {
+     "id": "s14108",
+     "title_ps": "موږ له خپل ګاونډيانو سره په ګډه ناسته کوو۔",
+     "title_ur": "ہم اپنے پڑوسیوں کے ساتھ مل کر بیٹھتے ہیں۔",
+     "title_roman": "",
+     "body_ps": "موږ له خپل ګاونډيانو سره په ګډه ناسته کوو۔",
+     "body_roman": "",
+     "body_ur": "ہم اپنے پڑوسیوں کے ساتھ مل کر بیٹھتے ہیں۔",
+     "body_en": "We sit together with our neighbours.",
+     "grammar": ""
+    },
+    {
+     "id": "s14109",
+     "title_ps": "زما ورور کیسې وايي او ټوله کورنۍ یې په خوشحالۍ اوري۔",
+     "title_ur": "میرا بھائی کہانیاں سناتا ہے اور سارا خاندان انہیں خوشی سے سنتا ہے۔",
+     "title_roman": "",
+     "body_ps": "زما ورور کیسې وايي او ټوله کورنۍ یې په خوشحالۍ اوري۔",
+     "body_roman": "",
+     "body_ur": "میرا بھائی کہانیاں سناتا ہے اور سارا خاندان انہیں خوشی سے سنتا ہے۔",
+     "body_en": "My brother tells stories, and the whole family listens to them happily.",
+     "grammar": ""
+    },
+    {
+     "id": "s14110",
+     "title_ps": "مور مې خواږه پخوي او موږ یې د تفریح په وخت کې خورو۔",
+     "title_ur": "میری امی مٹھائیاں پکاتی ہیں اور ہم انہیں تفریح کے وقت کھاتے ہیں۔",
+     "title_roman": "",
+     "body_ps": "مور مې خواږه پخوي او موږ یې د تفریح په وخت کې خورو۔",
+     "body_roman": "",
+     "body_ur": "میری امی مٹھائیاں پکاتی ہیں اور ہم انہیں تفریح کے وقت کھاتے ہیں۔",
+     "body_en": "My mother cooks sweets, and we eat them during our recreation time.",
+     "grammar": ""
+    },
+    {
+     "id": "s14111",
+     "title_ps": "پلار مې د زړو ورځو خاطرې بیانوي او ماشومان ترې ډېر څه زده کوي۔",
+     "title_ur": "میرے ابو پرانے دنوں کی یادیں بیان کرتے ہیں اور بچے ان سے بہت کچھ سیکھتے ہیں۔",
+     "title_roman": "",
+     "body_ps": "پلار مې د زړو ورځو خاطرې بیانوي او ماشومان ترې ډېر څه زده کوي۔",
+     "body_roman": "",
+     "body_ur": "میرے ابو پرانے دنوں کی یادیں بیان کرتے ہیں اور بچے ان سے بہت کچھ سیکھتے ہیں۔",
+     "body_en": "My father shares memories of old days, and the children learn a lot from them.",
+     "grammar": ""
+    },
+    {
+     "id": "s14112",
+     "title_ps": "د تفریح دا وخت زموږ کورنۍ نوره هم نژدې کوي۔",
+     "title_ur": "تفریح کا یہ وقت ہمارے خاندان کو اور بھی قریب کر دیتا ہے۔",
+     "title_roman": "",
+     "body_ps": "د تفریح دا وخت زموږ کورنۍ نوره هم نژدې کوي۔",
+     "body_roman": "",
+     "body_ur": "تفریح کا یہ وقت ہمارے خاندان کو اور بھی قریب کر دیتا ہے۔",
+     "body_en": "This recreation time brings our family even closer together.",
+     "grammar": ""
+    },
+    {
+     "id": "s14113",
+     "title_ps": "سبا به موږ بیا د تفریح لپاره یو نوی پروګرام جوړوو۔",
+     "title_ur": "کل ہم پھر تفریح کے لیے ایک نیا پروگرام بنائیں گے۔",
+     "title_roman": "",
+     "body_ps": "سبا به موږ بیا د تفریح لپاره یو نوی پروګرام جوړوو۔",
+     "body_roman": "",
+     "body_ur": "کل ہم پھر تفریح کے لیے ایک نیا پروگرام بنائیں گے۔",
+     "body_en": "Tomorrow we will make a new plan for recreation again.",
+     "grammar": ""
+    },
+    {
+     "id": "s14114",
+     "title_ps": "سبا به ماشومان نوې لوبې زده کړي او زما ورور به نوې کیسې ووايي۔",
+     "title_ur": "کل بچے نئے کھیل سیکھیں گے اور میرا بھائی نئی کہانیاں سنائے گا۔",
+     "title_roman": "",
+     "body_ps": "سبا به ماشومان نوې لوبې زده کړي او زما ورور به نوې کیسې ووايي۔",
+     "body_roman": "",
+     "body_ur": "کل بچے نئے کھیل سیکھیں گے اور میرا بھائی نئی کہانیاں سنائے گا۔",
+     "body_en": "Tomorrow the children will learn new games, and my brother will tell new stories.",
+     "grammar": ""
+    },
+    {
+     "id": "s14115",
+     "title_ps": "په پای کې به موږ په ګډه سره ډوډۍ خورو او د تفریح ښې شېبې به یادوو۔",
+     "title_ur": "آخر میں ہم مل کر کھانا کھائیں گے اور تفریح کے اچھے لمحے یاد کریں گے۔",
+     "title_roman": "",
+     "body_ps": "په پای کې به موږ په ګډه سره ډوډۍ خورو او د تفریح ښې شېبې به یادوو۔",
+     "body_roman": "",
+     "body_ur": "آخر میں ہم مل کر کھانا کھائیں گے اور تفریح کے اچھے لمحے یاد کریں گے۔",
+     "body_en": "In the end, we will eat dinner together and will remember the good moments of recreation.",
      "grammar": ""
     }
    ],
