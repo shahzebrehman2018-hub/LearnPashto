@@ -1,5 +1,5 @@
 {
- "version": 71,
+ "version": 72,
  "sections": [
   {
    "id": "grammar",
@@ -153,6 +153,26 @@
        "body_roman": "",
        "body_ur": "ک - کاف\nکتاب\nگھر\nکبوتر\nق - قاف\nقلم\nکہانی\nقلعہ\nگ - گاف\nپھول\nگرم\nگاڑی\n\nجملے\nکتاب اچھی ہے۔\nمیرا گھر خوبصورت ہے۔\nکبوتر اڑتا ہے۔\nمیرا قلم نیا ہے۔\nپھول سرخ ہے۔\nگاڑی سڑک پر جاتی ہے۔",
        "body_en": "K - Ke\nBook\nHome\nPigeon\nQ - Qe\nPen\nStory\nFort\nG - Ge\nFlower\nWarm\nVehicle\n\nSentences\nThe book is good.\nMy home is beautiful.\nThe pigeon flies.\nMy pen is new.\nThe flower is red.\nThe vehicle goes on the road."
+      },
+      {
+       "id": "book1-l12",
+       "title_ps": "دوولسم لوست",
+       "title_ur": "بارہواں سبق",
+       "title_roman": "",
+       "body_ps": "ل - لام\nلمر\nلاس\nلار\nم - مېم\nمور\nمڼه\nمینه\nن - نون\nنوم\nنان\nنغمه\n\nجملې\nلمر ځلېږي۔\nزما لاس پاک دی۔\nمور مې مڼه راکړه۔\nماشوم خپل نوم ښايي۔\nنان ګرم دی۔\nنغمه ښکلې ده۔",
+       "body_roman": "",
+       "body_ur": "ل - لام\nسورج\nہاتھ\nراستہ\nم - میم\nماں\nسیب\nمحبت\nن - نون\nنام\nنان\nگیت\n\nجملے\nسورج چمکتا ہے۔\nمیرا ہاتھ صاف ہے۔\nمیری ماں نے مجھے سیب دیا۔\nبچہ اپنا نام دکھاتا ہے۔\nنان گرم ہے۔\nگیت خوبصورت ہے۔",
+       "body_en": "L - Le\nSun\nHand\nRoad\nM - Me\nMother\nApple\nLove\nN - Ne\nName\nBread\nSong\n\nSentences\nThe sun shines.\nMy hand is clean.\nMy mother gave me an apple.\nThe child shows his name.\nThe bread is warm.\nThe song is beautiful."
+      },
+      {
+       "id": "book1-l13",
+       "title_ps": "دېارلسم لوست",
+       "title_ur": "تیرہواں سبق",
+       "title_roman": "",
+       "body_ps": "ڼ - نوڼ\nپاڼه\nګڼ\nتڼۍ\nو - واو\nورځ\nونه\nواوره\nه - هې\nهګۍ\nهلک\nهوا\n\nجملې\nپاڼه شنه ده۔\nګڼ ماشومان لوبې کوي۔\nتڼۍ وړه ده۔\nورځ ښه ده۔\nونه لوړه ده۔\nهلک هګۍ خوري۔",
+       "body_roman": "",
+       "body_ur": "نوڑ\nپتا\nبہت سے\nبٹن\nو - واؤ\nدن\nدرخت\nبرف\nہ - ہے\nانڈا\nلڑکا\nہوا\n\nجملے\nپتا سبز ہے۔\nبہت سے بچے کھیلتے ہیں۔\nبٹن چھوٹا ہے۔\nدن اچھا ہے۔\nدرخت اونچا ہے۔\nلڑکا انڈا کھاتا ہے۔",
+       "body_en": "Ṇ - Ṇe\nLeaf\nMany\nButton\nW - We\nDay\nTree\nSnow\nH - He\nEgg\nBoy\nAir\n\nSentences\nThe leaf is green.\nMany children are playing.\nThe button is small.\nThe day is good.\nThe tree is tall.\nThe boy eats an egg."
       }
      ]
     }
