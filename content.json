@@ -1,5 +1,5 @@
 {
- "version": 72,
+ "version": 73,
  "sections": [
   {
    "id": "grammar",
@@ -161,8 +161,8 @@
        "title_roman": "",
        "body_ps": "ل - لام\nلمر\nلاس\nلار\nم - مېم\nمور\nمڼه\nمینه\nن - نون\nنوم\nنان\nنغمه\n\nجملې\nلمر ځلېږي۔\nزما لاس پاک دی۔\nمور مې مڼه راکړه۔\nماشوم خپل نوم ښايي۔\nنان ګرم دی۔\nنغمه ښکلې ده۔",
        "body_roman": "",
-       "body_ur": "ل - لام\nسورج\nہاتھ\nراستہ\nم - میم\nماں\nسیب\nمحبت\nن - نون\nنام\nنان\nگیت\n\nجملے\nسورج چمکتا ہے۔\nمیرا ہاتھ صاف ہے۔\nمیری ماں نے مجھے سیب دیا۔\nبچہ اپنا نام دکھاتا ہے۔\nنان گرم ہے۔\nگیت خوبصورت ہے۔",
-       "body_en": "L - Le\nSun\nHand\nRoad\nM - Me\nMother\nApple\nLove\nN - Ne\nName\nBread\nSong\n\nSentences\nThe sun shines.\nMy hand is clean.\nMy mother gave me an apple.\nThe child shows his name.\nThe bread is warm.\nThe song is beautiful."
+       "body_ur": "ل - لام\nسورج\nہاتھ\nراستہ\nم - میم\nماں\nسیب\nمحبت\nن - نون\nنام\nنان\nگیت\n\nجملے\nسورج چمکتا ہے۔\nمیرا ہاتھ صاف ہے۔\nمیری ماں نے مجھے سیب دیا۔\nبچہ اپنا نام بتاتا ہے۔\nنان گرم ہے۔\nگیت خوبصورت ہے۔",
+       "body_en": "L - Le\nSun\nHand\nRoad\nM - Me\nMother\nApple\nLove\nN - Ne\nName\nBread\nSong\n\nSentences\nThe sun shines.\nMy hand is clean.\nMy mother gave me an apple.\nThe child tells his name.\nThe bread is warm.\nThe song is beautiful."
       },
       {
        "id": "book1-l13",
