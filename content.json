@@ -1,5 +1,5 @@
 {
- "version": 65,
+ "version": 66,
  "sections": [
   {
    "id": "grammar",
@@ -149279,6 +149279,116 @@
      "body_roman": "",
      "body_ur": "بچہ اسکول میں خوش ہے۔",
      "body_en": "The child is happy at school.",
+     "grammar": ""
+    },
+    {
+     "id": "s13551",
+     "title_ps": "زما کورنۍ په اونۍ کې یو ځل د تفریح لپاره پارک ته ځي۔",
+     "title_ur": "میرا خاندان ہفتے میں ایک بار تفریح کے لیے پارک جاتا ہے۔",
+     "title_roman": "",
+     "body_ps": "زما کورنۍ په اونۍ کې یو ځل د تفریح لپاره پارک ته ځي۔",
+     "body_roman": "",
+     "body_ur": "میرا خاندان ہفتے میں ایک بار تفریح کے لیے پارک جاتا ہے۔",
+     "body_en": "My family goes to the park once a week for recreation.",
+     "grammar": ""
+    },
+    {
+     "id": "s13552",
+     "title_ps": "ماشومان په پارک کې په خوشحالۍ لوبې کوي او منډې وهي۔",
+     "title_ur": "بچے پارک میں خوشی سے کھیلتے ہیں اور دوڑتے ہیں۔",
+     "title_roman": "",
+     "body_ps": "ماشومان په پارک کې په خوشحالۍ لوبې کوي او منډې وهي۔",
+     "body_roman": "",
+     "body_ur": "بچے پارک میں خوشی سے کھیلتے ہیں اور دوڑتے ہیں۔",
+     "body_en": "Children play happily in the park and run around.",
+     "grammar": ""
+    },
+    {
+     "id": "s13553",
+     "title_ps": "موږ له ځان سره ډوډۍ او اوبه وړو او په شنه ځای کې کېنو۔",
+     "title_ur": "ہم اپنے ساتھ کھانا اور پانی لے جاتے ہیں اور سبز جگہ پر بیٹھتے ہیں۔",
+     "title_roman": "",
+     "body_ps": "موږ له ځان سره ډوډۍ او اوبه وړو او په شنه ځای کې کېنو۔",
+     "body_roman": "",
+     "body_ur": "ہم اپنے ساتھ کھانا اور پانی لے جاتے ہیں اور سبز جگہ پر بیٹھتے ہیں۔",
+     "body_en": "We take food and water with us and sit in a green place.",
+     "grammar": ""
+    },
+    {
+     "id": "s13554",
+     "title_ps": "پلار مې عکسونه اخلي او ماشومان یې په خوشحالۍ ګوري۔",
+     "title_ur": "میرے والد تصاویر لیتے ہیں اور بچے انہیں خوشی سے دیکھتے ہیں۔",
+     "title_roman": "",
+     "body_ps": "پلار مې عکسونه اخلي او ماشومان یې په خوشحالۍ ګوري۔",
+     "body_roman": "",
+     "body_ur": "میرے والد تصاویر لیتے ہیں اور بچے انہیں خوشی سے دیکھتے ہیں۔",
+     "body_en": "My father takes photos and the children look at them happily.",
+     "grammar": ""
+    },
+    {
+     "id": "s13555",
+     "title_ps": "مور مې ماشومانو ته ډوډۍ ورکوي او هغوی یې په مینه خوري۔",
+     "title_ur": "میری ماں بچوں کو کھانا دیتی ہے اور وہ اسے محبت سے کھاتے ہیں۔",
+     "title_roman": "",
+     "body_ps": "مور مې ماشومانو ته ډوډۍ ورکوي او هغوی یې په مینه خوري۔",
+     "body_roman": "",
+     "body_ur": "میری ماں بچوں کو کھانا دیتی ہے اور وہ اسے محبت سے کھاتے ہیں۔",
+     "body_en": "My mother gives food to the children and they eat it with love.",
+     "grammar": ""
+    },
+    {
+     "id": "s13556",
+     "title_ps": "موږ په پارک کې ګرځو او له خپلو ملګرو سره خبرې کوو۔",
+     "title_ur": "ہم پارک میں گھومتے ہیں اور اپنے دوستوں سے باتیں کرتے ہیں۔",
+     "title_roman": "",
+     "body_ps": "موږ په پارک کې ګرځو او له خپلو ملګرو سره خبرې کوو۔",
+     "body_roman": "",
+     "body_ur": "ہم پارک میں گھومتے ہیں اور اپنے دوستوں سے باتیں کرتے ہیں۔",
+     "body_en": "We walk in the park and talk with our friends.",
+     "grammar": ""
+    },
+    {
+     "id": "s13557",
+     "title_ps": "ماښام ته موږ ستړي کېږو، خو خوشحاله یو۔",
+     "title_ur": "شام کو ہم تھک جاتے ہیں لیکن خوش ہیں۔",
+     "title_roman": "",
+     "body_ps": "ماښام ته موږ ستړي کېږو، خو خوشحاله یو۔",
+     "body_roman": "",
+     "body_ur": "شام کو ہم تھک جاتے ہیں لیکن خوش ہیں۔",
+     "body_en": "By evening we get tired, but we are happy.",
+     "grammar": ""
+    },
+    {
+     "id": "s13558",
+     "title_ps": "سبا به موږ بیا د تفریح لپاره پارک ته ځو۔",
+     "title_ur": "کل ہم پھر تفریح کے لیے پارک جائیں گے۔",
+     "title_roman": "",
+     "body_ps": "سبا به موږ بیا د تفریح لپاره پارک ته ځو۔",
+     "body_roman": "",
+     "body_ur": "کل ہم پھر تفریح کے لیے پارک جائیں گے۔",
+     "body_en": "Tomorrow we will go to the park again for recreation.",
+     "grammar": ""
+    },
+    {
+     "id": "s13559",
+     "title_ps": "سبا به ماشومان په پارک کې لوبې وکړي او مور مې به هغوی ته ډوډۍ ورکړي۔",
+     "title_ur": "کل بچے پارک میں کھیل لیں گے اور میری امی اُن کو کھانا دے دیں گی۔",
+     "title_roman": "",
+     "body_ps": "سبا به ماشومان په پارک کې لوبې وکړي او مور مې به هغوی ته ډوډۍ ورکړي۔",
+     "body_roman": "",
+     "body_ur": "کل بچے پارک میں کھیل لیں گے اور میری امی اُن کو کھانا دے دیں گی۔",
+     "body_en": "Tomorrow the children will play in the park and my mother will give them food.",
+     "grammar": ""
+    },
+    {
+     "id": "s13560",
+     "title_ps": "په پای کې به موږ په ګډه سره کور ته راشو او د تفریح ښې ورځې به یادوو۔",
+     "title_ur": "آخر میں ہم مل کر گھر آجائیں گے اور تفریح کے اچھے دن یاد کریں گے۔",
+     "title_roman": "",
+     "body_ps": "په پای کې به موږ په ګډه سره کور ته راشو او د تفریح ښې ورځې به یادوو۔",
+     "body_roman": "",
+     "body_ur": "آخر میں ہم مل کر گھر آجائیں گے اور تفریح کے اچھے دن یاد کریں گے۔",
+     "body_en": "In the end we will return home together and remember the good days of recreation.",
      "grammar": ""
     }
    ],
