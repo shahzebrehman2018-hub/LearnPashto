@@ -166376,6 +166376,18 @@
      ]
     },
     {
+     "id": "md3366",
+     "title_ps": "اوبو لګول",
+     "title_ur": "پانی دینا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to irrigate",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md163",
      "title_ps": "اوبه کول",
      "title_ur": "آبپاشی کرنا، سینچنا",
@@ -218876,6 +218888,18 @@
      ]
     },
     {
+     "id": "md3365",
+     "title_ps": "خپه کېدل",
+     "title_ur": "اداس ہونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to become sad",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1317",
      "title_ps": "ختل",
      "title_ur": "چڑھنا، اٹھنا، اوپر جانا، اگنا، بڑا ہونا، گر پڑنا، گر جانا، غائب ہونا، نکلنا، سزا سنانا",
@@ -233668,6 +233692,18 @@
      ]
     },
     {
+     "id": "md3364",
+     "title_ps": "را لوېدل",
+     "title_ur": "گر جانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to fall down",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1598",
      "title_ps": "ربړول",
      "title_ur": "اذیت دینا، تکلیف دینا، وبا، تنگ کرنا",
@@ -240886,6 +240922,18 @@
      ]
     },
     {
+     "id": "md3363",
+     "title_ps": "زیارت کول",
+     "title_ur": "زیارت کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to visit (a shrine)",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1748",
      "title_ps": "زیانول",
      "title_ur": "نقصان پہنچانا، اسقاط کرنا، اسقاط ہونا، ہار ماننا",
@@ -241804,6 +241852,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3362",
+     "title_ps": "ژوند کول",
+     "title_ur": "زندگی گزارنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to live",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md1763",
@@ -243368,6 +243428,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3361",
+     "title_ps": "سپما کول",
+     "title_ur": "بچت کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to save",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md1993",
@@ -251154,6 +251226,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3360",
+     "title_ps": "شکر کول",
+     "title_ur": "شکر ادا کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to give thanks",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md2085",
