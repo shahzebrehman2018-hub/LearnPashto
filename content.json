@@ -1,5 +1,5 @@
 {
- "version": 80,
+ "version": 81,
  "sections": [
   {
    "id": "grammar",
@@ -160156,6 +160156,182 @@
      "body_roman": "",
      "body_ur": "زندگی میں محنت کبھی ضائع نہیں ہوتی۔",
      "body_en": "Hard work never goes to waste in life.",
+     "grammar": ""
+    },
+    {
+     "id": "s14551",
+     "title_ps": "زه هره ورځ یوه هګۍ خورم۔",
+     "title_ur": "میں ہر روز ایک انڈا کھاتا ہوں۔",
+     "title_roman": "",
+     "body_ps": "زه هره ورځ یوه هګۍ خورم۔",
+     "body_roman": "",
+     "body_ur": "میں ہر روز ایک انڈا کھاتا ہوں۔",
+     "body_en": "I eat an egg every day.",
+     "grammar": ""
+    },
+    {
+     "id": "s14552",
+     "title_ps": "دا مڼه ډېره خوږه ده۔",
+     "title_ur": "یہ سیب بہت میٹھا ہے۔",
+     "title_roman": "",
+     "body_ps": "دا مڼه ډېره خوږه ده۔",
+     "body_roman": "",
+     "body_ur": "یہ سیب بہت میٹھا ہے۔",
+     "body_en": "This apple is very sweet.",
+     "grammar": ""
+    },
+    {
+     "id": "s14553",
+     "title_ps": "ماشوم انګور خوري۔",
+     "title_ur": "بچہ انگور کھاتا ہے۔",
+     "title_roman": "",
+     "body_ps": "ماشوم انګور خوري۔",
+     "body_roman": "",
+     "body_ur": "بچہ انگور کھاتا ہے۔",
+     "body_en": "The child eats grapes.",
+     "grammar": ""
+    },
+    {
+     "id": "s14554",
+     "title_ps": "خوله دې پاکه ده۔",
+     "title_ur": "تمہارا منہ صاف ہے۔",
+     "title_roman": "",
+     "body_ps": "خوله دې پاکه ده۔",
+     "body_roman": "",
+     "body_ur": "تمہارا منہ صاف ہے۔",
+     "body_en": "Your mouth is clean.",
+     "grammar": ""
+    },
+    {
+     "id": "s14555",
+     "title_ps": "په ډوډۍ کې مالګه کمه ده۔",
+     "title_ur": "کھانے میں نمک کم ہے۔",
+     "title_roman": "",
+     "body_ps": "په ډوډۍ کې مالګه کمه ده۔",
+     "body_roman": "",
+     "body_ur": "کھانے میں نمک کم ہے۔",
+     "body_en": "There is little salt in the food.",
+     "grammar": ""
+    },
+    {
+     "id": "s14556",
+     "title_ps": "دا بوره سپینه ده۔",
+     "title_ur": "یہ چینی سفید ہے۔",
+     "title_roman": "",
+     "body_ps": "دا بوره سپینه ده۔",
+     "body_roman": "",
+     "body_ur": "یہ چینی سفید ہے۔",
+     "body_en": "This sugar is white.",
+     "grammar": ""
+    },
+    {
+     "id": "s14557",
+     "title_ps": "کړکۍ خلاصه ده۔",
+     "title_ur": "کھڑکی کھلی ہے۔",
+     "title_roman": "",
+     "body_ps": "کړکۍ خلاصه ده۔",
+     "body_roman": "",
+     "body_ur": "کھڑکی کھلی ہے۔",
+     "body_en": "The window is open.",
+     "grammar": ""
+    },
+    {
+     "id": "s14558",
+     "title_ps": "په بام باندې ماشوم لوبې کوي۔",
+     "title_ur": "چھت پر بچہ کھیلتا ہے۔",
+     "title_roman": "",
+     "body_ps": "په بام باندې ماشوم لوبې کوي۔",
+     "body_roman": "",
+     "body_ur": "چھت پر بچہ کھیلتا ہے۔",
+     "body_en": "The child is playing on the roof.",
+     "grammar": ""
+    },
+    {
+     "id": "s14559",
+     "title_ps": "زه به سبا کلي ته ځم۔",
+     "title_ur": "میں کل گاؤں جاؤں گا۔",
+     "title_roman": "",
+     "body_ps": "زه به سبا کلي ته ځم۔",
+     "body_roman": "",
+     "body_ur": "میں کل گاؤں جاؤں گا۔",
+     "body_en": "I will go to the village tomorrow.",
+     "grammar": ""
+    },
+    {
+     "id": "s14560",
+     "title_ps": "په دې کاغذ باندې ولیکه۔",
+     "title_ur": "اس کاغذ پر لکھو۔",
+     "title_roman": "",
+     "body_ps": "په دې کاغذ باندې ولیکه۔",
+     "body_roman": "",
+     "body_ur": "اس کاغذ پر لکھو۔",
+     "body_en": "Write on this paper.",
+     "grammar": ""
+    },
+    {
+     "id": "s14561",
+     "title_ps": "په څوکۍ باندې کښېنه۔",
+     "title_ur": "کرسی پر بیٹھو۔",
+     "title_roman": "",
+     "body_ps": "په څوکۍ باندې کښېنه۔",
+     "body_roman": "",
+     "body_ur": "کرسی پر بیٹھو۔",
+     "body_en": "Sit on the chair.",
+     "grammar": ""
+    },
+    {
+     "id": "s14562",
+     "title_ps": "کتاب پر مېز دی۔",
+     "title_ur": "کتاب میز پر ہے۔",
+     "title_roman": "",
+     "body_ps": "کتاب پر مېز دی۔",
+     "body_roman": "",
+     "body_ur": "کتاب میز پر ہے۔",
+     "body_en": "The book is on the table.",
+     "grammar": ""
+    },
+    {
+     "id": "s14563",
+     "title_ps": "څراغ روښانه دی۔",
+     "title_ur": "چراغ روشن ہے۔",
+     "title_roman": "",
+     "body_ps": "څراغ روښانه دی۔",
+     "body_roman": "",
+     "body_ur": "چراغ روشن ہے۔",
+     "body_en": "The lamp is shining.",
+     "grammar": ""
+    },
+    {
+     "id": "s14564",
+     "title_ps": "دا پکی نوی دی۔",
+     "title_ur": "یہ پنکھا نیا ہے۔",
+     "title_roman": "",
+     "body_ps": "دا پکی نوی دی۔",
+     "body_roman": "",
+     "body_ur": "یہ پنکھا نیا ہے۔",
+     "body_en": "This fan is new.",
+     "grammar": ""
+    },
+    {
+     "id": "s14565",
+     "title_ps": "سبا به موټر راشي۔",
+     "title_ur": "کل موٹر آجائے گا۔",
+     "title_roman": "",
+     "body_ps": "سبا به موټر راشي۔",
+     "body_roman": "",
+     "body_ur": "کل موٹر آجائے گا۔",
+     "body_en": "The car will come tomorrow.",
+     "grammar": ""
+    },
+    {
+     "id": "s14566",
+     "title_ps": "زما لاس پاک دی۔",
+     "title_ur": "میرا ہاتھ صاف ہے۔",
+     "title_roman": "",
+     "body_ps": "زما لاس پاک دی۔",
+     "body_roman": "",
+     "body_ur": "میرا ہاتھ صاف ہے۔",
+     "body_en": "My hand is clean.",
      "grammar": ""
     }
    ],
