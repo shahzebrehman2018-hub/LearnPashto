@@ -1,5 +1,5 @@
 {
- "version": 81,
+ "version": 82,
  "sections": [
   {
    "id": "grammar",
@@ -315140,7 +315140,217 @@
    "emoji": "🔤",
    "title_ur": "لغت",
    "title_ps": "لغت",
-   "items": [],
+   "items": [
+    {
+     "id": "d1",
+     "title_ps": "بام",
+     "title_roman": "",
+     "title_ur": "چھت",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "چھت",
+     "body_en": "1. roof",
+     "grammar": "اسم / نارينه"
+    },
+    {
+     "id": "d2",
+     "title_ps": "څراغ",
+     "title_roman": "",
+     "title_ur": "چراغ",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "چراغ",
+     "body_en": "1. lamp",
+     "grammar": "اسم / نارينه"
+    },
+    {
+     "id": "d3",
+     "title_ps": "پکی",
+     "title_roman": "",
+     "title_ur": "پنکھا",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "پنکھا",
+     "body_en": "1. fan",
+     "grammar": "اسم / نارينه"
+    },
+    {
+     "id": "d4",
+     "title_ps": "کمپلۍ",
+     "title_roman": "",
+     "title_ur": "تتلی",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "تتلی",
+     "body_en": "1. butterfly",
+     "grammar": "اسم / ښځينه"
+    },
+    {
+     "id": "d5",
+     "title_ps": "چونګښه",
+     "title_roman": "",
+     "title_ur": "مینڈک",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "مینڈک",
+     "body_en": "1. frog",
+     "grammar": "اسم / ښځينه"
+    },
+    {
+     "id": "d6",
+     "title_ps": "سمندر",
+     "title_roman": "",
+     "title_ur": "سمندر",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "سمندر",
+     "body_en": "1. sea",
+     "grammar": "اسم / نارينه"
+    },
+    {
+     "id": "d7",
+     "title_ps": "ځنګل",
+     "title_roman": "",
+     "title_ur": "جنگل",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "جنگل",
+     "body_en": "1. forest",
+     "grammar": "اسم / نارينه"
+    },
+    {
+     "id": "d8",
+     "title_ps": "اسمان",
+     "title_roman": "",
+     "title_ur": "آسمان",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "آسمان",
+     "body_en": "1. sky",
+     "grammar": "اسم / نارينه"
+    },
+    {
+     "id": "d9",
+     "title_ps": "اور",
+     "title_roman": "",
+     "title_ur": "آگ",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "آگ",
+     "body_en": "1. fire",
+     "grammar": "اسم / نارينه"
+    },
+    {
+     "id": "d10",
+     "title_ps": "غوږ",
+     "title_roman": "",
+     "title_ur": "کان",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "کان",
+     "body_en": "1. ear",
+     "grammar": "اسم / نارينه"
+    },
+    {
+     "id": "d11",
+     "title_ps": "پښه",
+     "title_roman": "",
+     "title_ur": "پاؤں",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "پاؤں",
+     "body_en": "1. foot",
+     "grammar": "اسم / ښځينه"
+    },
+    {
+     "id": "d12",
+     "title_ps": "ښځه",
+     "title_roman": "",
+     "title_ur": "عورت",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "عورت",
+     "body_en": "1. woman",
+     "grammar": "اسم / ښځينه"
+    },
+    {
+     "id": "d13",
+     "title_ps": "نجلۍ",
+     "title_roman": "",
+     "title_ur": "لڑکی",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "لڑکی",
+     "body_en": "1. girl",
+     "grammar": "اسم / ښځينه"
+    },
+    {
+     "id": "d14",
+     "title_ps": "هلک",
+     "title_roman": "",
+     "title_ur": "لڑکا",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "لڑکا",
+     "body_en": "1. boy",
+     "grammar": "اسم / نارينه"
+    },
+    {
+     "id": "d15",
+     "title_ps": "ناروغ",
+     "title_roman": "",
+     "title_ur": "مریض",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "مریض",
+     "body_en": "1. patient",
+     "grammar": "اسم / نارينه"
+    },
+    {
+     "id": "d16",
+     "title_ps": "اس",
+     "title_roman": "",
+     "title_ur": "گھوڑا",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "گھوڑا",
+     "body_en": "1. horse",
+     "grammar": "اسم / نارينه"
+    },
+    {
+     "id": "d17",
+     "title_ps": "بایسکل",
+     "title_roman": "",
+     "title_ur": "سائیکل",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "سائیکل",
+     "body_en": "1. bicycle",
+     "grammar": "اسم / نارينه"
+    },
+    {
+     "id": "d18",
+     "title_ps": "ټلویزیون",
+     "title_roman": "",
+     "title_ur": "ٹیلی ویژن",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "ٹیلی ویژن",
+     "body_en": "1. television",
+     "grammar": "اسم / نارينه"
+    },
+    {
+     "id": "d19",
+     "title_ps": "سر",
+     "title_roman": "",
+     "title_ur": "سر",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "سر",
+     "body_en": "1. head",
+     "grammar": "اسم / نارينه"
+    }
+   ],
    "title_roman": "luğat",
    "page_size": 100
   },
