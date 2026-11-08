@@ -1,5 +1,5 @@
 {
- "version": 82,
+ "version": 83,
  "sections": [
   {
    "id": "grammar",
@@ -298470,39 +298470,127 @@
      "body_roman": "",
      "body_ur": "",
      "body_en": "to find, acquire, discover, get",
-     "grammar": "",
+     "grammar": "فعل، متعدی",
      "children": [
       {
        "id": "md2996-c1",
        "title_ps": "حال",
-       "title_ur": "حال",
-       "title_roman": "Present",
-       "body_ps": "زه موندم (میں پاتا ہوں — I find)\nته موندې (تو پاتا ہے — you find)\nهغه موندي (وہ پاتا ہے — he/she finds)\nمونږ موندو (ہم پاتے ہیں — we find)\nتاسې موندئ (تم پاتے ہو — you find)\nهغوی موندي (وہ سب پاتے ہیں — they find)",
+       "title_ur": "پاتا ہوں",
+       "title_roman": "",
+       "body_ps": "زه یې مومم (میں پاتا / پاتی ہوں — I find it)\nته یې مومې (تم پاتے / پاتی ہو — you find it)\nهغه یې مومي (وہ پاتا / پاتی ہے — he/she finds it)\nموږ یې مومو (ہم پاتے / پاتی ہیں — we find it)\nتاسو یې مومئ (آپ پاتے / پاتی ہیں — you find it)\nهغوی یې مومي (وہ پاتے / پاتی ہیں — they find it)\nدوی یې مومي (وہ پاتے / پاتی ہیں — they find it)",
        "body_roman": "",
        "body_ur": "",
-       "body_en": "",
+       "body_en": "Present",
        "grammar": ""
       },
       {
        "id": "md2996-c2",
-       "title_ps": "مستقبل",
-       "title_ur": "مستقبل",
-       "title_roman": "Future",
-       "body_ps": "زه به موندم (میں پاوں گا — I will find)\nته به موندې (تو پاے گا — you will find)\nهغه به موندي (وہ پاے گا — he/she will find)\nمونږ به موندو (ہم پایں گے — we will find)\nتاسې به موندئ (تم پاو گے — you will find)\nهغوی به موندي (وہ سب پایں گے — they will find)",
+       "title_ps": "ماضی مطلق",
+       "title_ur": "پایا",
+       "title_roman": "",
+       "body_ps": "ما وموند / وموندلو (میں نے پایا / میں نے پا لیا — I found it / I got it (m.))\nما ومونده / وموندله (میں نے پائی / میں نے پا لی — I found it / I got it (f.))\nتا وموند / وموندلو (تم نے پایا / تم نے پا لیا — you found it / you got it (m.))\nتا ومونده / وموندله (تم نے پائی / تم نے پا لی — you found it / you got it (f.))\nهغه وموند / وموندلو (اس نے پایا / اُس نے پا لیا — he found it / he got it (m.))\nهغې ومونده / وموندله (اس نے پائی / اُس نے پا لی — she found it / she got it (f.))\nموږ وموندل (ہم نے پائے — we found them / we got them (m.))\nموږ وموندې / وموندلې (ہم نے پائیں / ہم نے پا لیں — we found them / we got them (f.))\nتاسو وموندل (آپ نے پائے — you found them / you got them (m.))\nتاسو وموندې / وموندلې (آپ نے پائیں / آپ نے پا لیں — you found them / you got them (f.))\nهغوی وموندل (انہوں نے پائے — they found them / they got them (m.))\nهغوی وموندې / وموندلې (انہوں نے پائیں / اُنہوں نے پا لیں — they found them / they got them (f.))\nدوی وموندل (انہوں نے پائے — they found them / they got them (m.))\nدوی وموندې / وموندلې (انہوں نے پائیں / اُنہوں نے پا لیں — they found them / they got them (f.))",
        "body_roman": "",
        "body_ur": "",
-       "body_en": "",
+       "body_en": "Simple past",
        "grammar": ""
       },
       {
        "id": "md2996-c3",
-       "title_ps": "امر",
-       "title_ur": "امر",
-       "title_roman": "Imperative",
-       "body_ps": "ته ومونده (تو پاو! — Find!)\nتاسې وموندئ (تم پائ! — Find!)",
+       "title_ps": "ماضی استمراری",
+       "title_ur": "پاتا تھا",
+       "title_roman": "",
+       "body_ps": "ما موندلو (میں پاتا تھا — I was finding it (m.))\nما موندله (میں پاتی تھی — I was finding it (f.))\nتا موندلو (تم پاتے تھے — you were finding it (m.))\nتا موندله (تم پاتی تھیں — you were finding it (f.))\nهغه موندلو (وہ پاتا تھا — he was finding it)\nهغې موندله (وہ پاتی تھی — she was finding it)\nموږ موندل (ہم پاتے تھے — we were finding it (m.))\nموږ موندلې (ہم پاتی تھیں — we were finding it (f.))\nتاسو موندل (آپ پاتے تھے — you were finding it (m.))\nتاسو موندلې (آپ پاتی تھیں — you were finding it (f.))\nهغوی موندل (وہ پاتے تھے — they were finding it (m.))\nهغوی موندلې (وہ پاتی تھیں — they were finding it (f.))\nدوی موندل (وہ پاتے تھے — they were finding it (m.))\nدوی موندلې (وہ پاتی تھیں — they were finding it (f.))",
        "body_roman": "",
        "body_ur": "",
-       "body_en": "",
+       "body_en": "Past continuous",
+       "grammar": ""
+      },
+      {
+       "id": "md2996-c4",
+       "title_ps": "حال مکمل / ماضی قریب",
+       "title_ur": "پایا ہے",
+       "title_roman": "",
+       "body_ps": "ما موندلی دی (میں نے پایا ہے — I have found it (m.))\nما موندلې ده (میں نے پائی ہے — I have found it (f.))\nتا موندلی دی (تم نے پایا ہے — you have found it (m.))\nتا موندلې ده (تم نے پائی ہے — you have found it (f.))\nهغه موندلی دی (اس نے پایا ہے — he has found it (m.))\nهغې موندلې ده (اس نے پائی ہے — she has found it (f.))\nموږ موندلي دي (ہم نے پائے ہیں — we have found them (m.))\nموږ موندلې دي (ہم نے پائی ہیں — we have found them (f.))\nتاسو موندلي دي (آپ نے پائے ہیں — you have found them (m.))\nتاسو موندلې دي (آپ نے پائی ہیں — you have found them (f.))\nهغوی موندلي دي (انہوں نے پائے ہیں — they have found them (m.))\nهغوی موندلې دي (انہوں نے پائی ہیں — they have found them (f.))\nدوی موندلي دي (انہوں نے پائے ہیں — they have found them (m.))\nدوی موندلې دي (انہوں نے پائی ہیں — they have found them (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Present perfect",
+       "grammar": ""
+      },
+      {
+       "id": "md2996-c5",
+       "title_ps": "ماضی بعيد",
+       "title_ur": "پایا تھا",
+       "title_roman": "",
+       "body_ps": "ما موندلی و (میں نے پایا تھا — I had found it (m.))\nما موندلې وه (میں نے پائی تھی — I had found it (f.))\nتا موندلی و (تم نے پایا تھا — you had found it (m.))\nتا موندلې وه (تم نے پائی تھی — you had found it (f.))\nهغه موندلی و (اس نے پایا تھا — he had found it (m.))\nهغې موندلې وه (اس نے پائی تھی — she had found it (f.))\nموږ موندلي وو (ہم نے پائے تھے — we had found them (m.))\nموږ موندلې وې (ہم نے پائی تھیں — we had found them (f.))\nتاسو موندلي وو (آپ نے پائے تھے — you had found them (m.))\nتاسو موندلې وې (آپ نے پائی تھیں — you had found them (f.))\nهغوی موندلي وو (انہوں نے پائے تھے — they had found them (m.))\nهغوی موندلې وې (انہوں نے پائی تھیں — they had found them (f.))\nدوی موندلي وو (انہوں نے پائے تھے — they had found them (m.))\nدوی موندلې وې (انہوں نے پائی تھیں — they had found them (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Past perfect",
+       "grammar": ""
+      },
+      {
+       "id": "md2996-c6",
+       "title_ps": "ماضی احتمالی",
+       "title_ur": "پایا ہوگا",
+       "title_roman": "",
+       "body_ps": "ما به موندلی و (میں نے پایا ہو گا — I must have found it (m.))\nما به موندلې وه (میں نے پائی ہو گی — I must have found it (f.))\nتا به موندلی و (تم نے پایا ہو گا — you must have found it (m.))\nتا به موندلې وه (تم نے پائی ہو گی — you must have found it (f.))\nهغه به موندلی و (اس نے پایا ہو گا — he must have found it (m.))\nهغې به موندلې وه (اس نے پائی ہو گی — she must have found it (f.))\nموږ به موندلي وو (ہم نے پائے ہوں گے — we must have found them (m.))\nموږ به موندلې وې (ہم نے پائی ہوں گی — we must have found them (f.))\nتاسو به موندلي وو (آپ نے پائے ہوں گے — you must have found them (m.))\nتاسو به موندلې وې (آپ نے پائی ہوں گی — you must have found them (f.))\nهغوی به موندلي وو (انہوں نے پائے ہوں گے — they must have found them (m.))\nهغوی به موندلې وې (انہوں نے پائی ہوں گی — they must have found them (f.))\nدوی به موندلي وو (انہوں نے پائے ہوں گے — they must have found them (m.))\nدوی به موندلې وې (انہوں نے پائی ہوں گی — they must have found them (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Presumptive past",
+       "grammar": ""
+      },
+      {
+       "id": "md2996-c7",
+       "title_ps": "مستقبل سادہ",
+       "title_ur": "پاؤں گا",
+       "title_roman": "",
+       "body_ps": "زه به یې مومم (میں پاؤں گا / پاؤں گی — I will find it)\nته به یې مومې (تم پاؤ گے / پاؤ گی — you will find it)\nهغه به یې مومي (وہ پائے گا / پائے گی — he/she will find it)\nموږ به یې مومو (ہم پائیں گے / پائیں گی — we will find it)\nتاسو به یې مومئ (آپ پائیں گے / پائیں گی — you will find it)\nهغوی به یې مومي (وہ پائیں گے / پائیں گی — they will find it)\nدوی به یې مومي (وہ پائیں گے / پائیں گی — they will find it)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Simple future",
+       "grammar": ""
+      },
+      {
+       "id": "md2996-c8",
+       "title_ps": "ارادی مستقبل",
+       "title_ur": "پا لوں گا",
+       "title_roman": "",
+       "body_ps": "زه به یې ومومم (میں پا لوں گا / پا لوں گی — I will find it)\nته به یې ومومې (تم پا لو گے / پا لو گی — you will find it)\nهغه به یې ومومي (وہ پا لے گا / پا لے گی — he/she will find it)\nموږ به یې ومومو (ہم پا لیں گے / پا لیں گی — we will find it)\nتاسو به یې ومومئ (آپ پا لیں گے / پا لیں گی — you will find it)\nهغوی به یې ومومي (وہ پا لیں گے / پا لیں گی — they will find it)\nدوی به یې ومومي (وہ پا لیں گے / پا لیں گی — they will find it)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Resolutive future",
+       "grammar": ""
+      },
+      {
+       "id": "md2996-c9",
+       "title_ps": "مضارع",
+       "title_ur": "پاؤں",
+       "title_roman": "",
+       "body_ps": "زه یې ومومم (میں پاؤں — that I find it)\nته یې ومومې (تم پاؤ — that you find it)\nهغه یې ومومي (وہ پائے — that he/she finds it)\nموږ یې ومومو (ہم پائیں — that we find it)\nتاسو یې ومومئ (آپ پائیں — that you find it)\nهغوی یې ومومي (وہ پائیں — that they find it)\nدوی یې ومومي (وہ پائیں — that they find it)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Subjunctive",
+       "grammar": ""
+      },
+      {
+       "id": "md2996-c10",
+       "title_ps": "امر",
+       "title_ur": "حکم",
+       "title_roman": "",
+       "body_ps": "ويې مومه (پاؤ — Find it!)\nويې مومئ (پائیں / پائیے — Find it! (pl./formal))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Imperative",
+       "grammar": ""
+      },
+      {
+       "id": "md2996-c11",
+       "title_ps": "نہی",
+       "title_ur": "منع",
+       "title_roman": "",
+       "body_ps": "مه یې مومه (مت پاؤ — Don't find it!)\nمه یې مومئ (مت پائیں / مت پائیے — Don't find it! (pl./formal))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Prohibitive",
        "grammar": ""
       }
      ]
