@@ -1,5 +1,5 @@
 {
- "version": 84,
+ "version": 85,
  "sections": [
   {
    "id": "grammar",
@@ -417860,6 +417860,14 @@
      "grammar": ""
     }
    ]
+  },
+  {
+   "id": "quran_hadith",
+   "emoji": "🕌",
+   "title_ur": "قرآن و حدیث",
+   "title_ps": "قرآن او حدیث",
+   "title_roman": "",
+   "items": []
   }
  ]
 }
