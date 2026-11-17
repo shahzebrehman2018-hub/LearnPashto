@@ -1,5 +1,5 @@
 {
- "version": 87,
+ "version": 88,
  "sections": [
   {
    "id": "grammar",
@@ -163732,6 +163732,18 @@
      ]
     },
     {
+     "id": "md3395",
+     "title_ps": "ارامېدل",
+     "title_ur": "آرام کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to rest",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md54",
      "title_ps": "ارام کول",
      "title_ur": "آرام کرنا، سستانا",
@@ -168972,6 +168984,30 @@
      ]
     },
     {
+     "id": "md3415",
+     "title_ps": "انځور جوړول",
+     "title_ur": "تصویر بنانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to draw a picture",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3432",
+     "title_ps": "انځور کتل",
+     "title_ur": "تصویر دیکھنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to look at a picture",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md152",
      "title_ps": "اندازه لګول",
      "title_ur": "اندازہ لگانا",
@@ -169200,6 +169236,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3438",
+     "title_ps": "انګور خوړل",
+     "title_ur": "انگور کھانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to eat grapes",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md159",
@@ -169486,6 +169534,42 @@
      "body_roman": "",
      "body_ur": "",
      "body_en": "to irrigate",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3418",
+     "title_ps": "اوبه اچول",
+     "title_ur": "پانی ڈالنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to pour water",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3489",
+     "title_ps": "اوبه جوشول",
+     "title_ur": "پانی ابالنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to boil water",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3402",
+     "title_ps": "اوبه څښل",
+     "title_ur": "پانی پینا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to drink water",
      "grammar": "",
      "children": []
     },
@@ -169902,6 +169986,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3374",
+     "title_ps": "اودېدل",
+     "title_ur": "سونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to sleep",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md172",
@@ -170542,6 +170638,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3393",
+     "title_ps": "اوږه ښورول",
+     "title_ur": "کندھے اچکانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to shrug",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md175",
@@ -176122,6 +176230,18 @@
      ]
     },
     {
+     "id": "md3482",
+     "title_ps": "بکس خلاصول",
+     "title_ur": "بکس کھولنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to open a box",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md358",
      "title_ps": "بکول",
      "title_ur": "جھکانا، کبڑا کرنا",
@@ -177364,6 +177484,30 @@
      ]
     },
     {
+     "id": "md3457",
+     "title_ps": "بوټان اغوستل",
+     "title_ur": "جوتے پہننا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to wear shoes",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3475",
+     "title_ps": "بوټان پاکول",
+     "title_ur": "جوتے صاف کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to clean shoes",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md335",
      "title_ps": "بوڅول",
      "title_ur": "غصہ دلانا، توہین کرنا",
@@ -177592,6 +177736,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3476",
+     "title_ps": "بوره اچول",
+     "title_ur": "چینی ڈالنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to add sugar",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md331",
@@ -178006,6 +178162,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3375",
+     "title_ps": "بوی کول",
+     "title_ur": "سونگھنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to smell",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md324",
@@ -185234,6 +185402,18 @@
      ]
     },
     {
+     "id": "md3391",
+     "title_ps": "پښې نیول",
+     "title_ur": "پاؤں پکڑنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to hold feet",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md602",
      "title_ps": "پښې ویستل",
      "title_ur": "بھاگنا، نکل جانا",
@@ -185278,6 +185458,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3467",
+     "title_ps": "پښې وينځل",
+     "title_ur": "پاؤں دھونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to wash feet",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md605",
@@ -189780,6 +189972,42 @@
      ]
     },
     {
+     "id": "md3425",
+     "title_ps": "پیسې اخیستل",
+     "title_ur": "پیسے لینا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to take money",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3423",
+     "title_ps": "پیسې ګټل",
+     "title_ur": "پیسے کمانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to earn money",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3424",
+     "title_ps": "پیسې ورکول",
+     "title_ur": "پیسے دینا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to give money",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md611",
      "title_ps": "پیشاړې کول",
      "title_ur": "مذاق اڑانا، ہنسی اڑانا",
@@ -194012,6 +194240,18 @@
      ]
     },
     {
+     "id": "md3421",
+     "title_ps": "تخم کرل",
+     "title_ur": "بیج بونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to sow seed",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md701",
      "title_ps": "تخنول",
      "title_ur": "گدگدی کرنا",
@@ -195438,6 +195678,18 @@
      ]
     },
     {
+     "id": "md3380",
+     "title_ps": "ترشېدل",
+     "title_ur": "کھٹا ہونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to become sour",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md732",
      "title_ps": "ترغیب ورکول",
      "title_ur": "ترغیب دینا، آمادہ کرنا",
@@ -196186,6 +196438,18 @@
      ]
     },
     {
+     "id": "md3381",
+     "title_ps": "تریخېدل",
+     "title_ur": "کڑوا ہونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to become bitter",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md714",
      "title_ps": "تر چمبه لاندې کول",
      "title_ur": "قابو پانا، مغلوب کرنا",
@@ -196598,6 +196862,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3435",
+     "title_ps": "تړلېدل",
+     "title_ur": "بند ہونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to be closed",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md757",
@@ -200366,6 +200642,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3430",
+     "title_ps": "تلویزیون کتل",
+     "title_ur": "ٹیلی ویژن دیکھنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to watch television",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md822",
@@ -205612,6 +205900,18 @@
      ]
     },
     {
+     "id": "md3456",
+     "title_ps": "ټوپۍ اغوستل",
+     "title_ur": "ٹوپی پہننا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to wear a cap",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md963",
      "title_ps": "ټوپ اچول",
      "title_ur": "کودنا",
@@ -207958,6 +208258,18 @@
      ]
     },
     {
+     "id": "md3472",
+     "title_ps": "جامې پاکول",
+     "title_ur": "کپڑے صاف کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to clean clothes",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1058",
      "title_ps": "جانجېدل",
      "title_ur": "کمزور ہونا، سست ہونا",
@@ -208646,6 +208958,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3459",
+     "title_ps": "جرابې اغوستل",
+     "title_ur": "جرابیں پہننا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to wear socks",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md1074",
@@ -210484,6 +210808,18 @@
      ]
     },
     {
+     "id": "md3444",
+     "title_ps": "جوس څښل",
+     "title_ur": "جوس پینا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to drink juice",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1105",
      "title_ps": "جوشول",
      "title_ur": "ابلا ہوا پانی ڈالنا، جھلسانا",
@@ -211588,6 +211924,30 @@
      ]
     },
     {
+     "id": "md3417",
+     "title_ps": "چای پخول",
+     "title_ur": "چائے بنانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to make tea",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3400",
+     "title_ps": "چای څښل",
+     "title_ur": "چائے پینا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to drink tea",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1182",
      "title_ps": "چپاوول",
      "title_ur": "چھاپہ مارنا، لوٹنا",
@@ -211724,6 +212084,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3458",
+     "title_ps": "چپلې اغوستل",
+     "title_ur": "چپل پہننا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to wear slippers",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md1185",
@@ -215130,6 +215502,18 @@
      ]
     },
     {
+     "id": "md3460",
+     "title_ps": "څپلۍ اغوستل",
+     "title_ur": "چپل پہننا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to wear sandals",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1028",
      "title_ps": "څپېدل",
      "title_ur": "موجیں اٹھنا، لہریں مارنا",
@@ -218162,6 +218546,18 @@
      ]
     },
     {
+     "id": "md3422",
+     "title_ps": "ځمکه کرل",
+     "title_ur": "زمین میں کاشت کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to plough the land",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1232",
      "title_ps": "ځمل",
      "title_ur": "پلک جھپکنا، بھینگا دیکھنا؛ چمکنا، جھلملانا، پلک جھپکنا، آنکھ مارنا، جھلکنا",
@@ -220554,6 +220950,18 @@
      ]
     },
     {
+     "id": "md3397",
+     "title_ps": "حمام کول",
+     "title_ur": "نہانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to bathe",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1285",
      "title_ps": "حمایه کول",
      "title_ur": "حمایت کرنا، مدد کرنا، حفاظت کرنا، پشت پناہی کرنا",
@@ -221566,6 +221974,18 @@
      ]
     },
     {
+     "id": "md3429",
+     "title_ps": "خبرونه اورېدل",
+     "title_ur": "خبریں سننا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to listen to the news",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1316",
      "title_ps": "خبرېدل",
      "title_ur": "مطلع ہونا، معلوم ہونا",
@@ -221656,6 +222076,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3426",
+     "title_ps": "خبرې اورېدل",
+     "title_ur": "باتیں سننا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to listen to talk",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md1315",
@@ -223876,6 +224308,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3414",
+     "title_ps": "خط لیکل",
+     "title_ur": "خط لکھنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to write a letter",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md1352",
@@ -226952,6 +227396,42 @@
      ]
     },
     {
+     "id": "md3385",
+     "title_ps": "خوله پټول",
+     "title_ur": "منہ بند کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to close mouth",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3488",
+     "title_ps": "خوله تړل",
+     "title_ur": "منہ بند کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to close mouth",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3387",
+     "title_ps": "خوله خلاصول",
+     "title_ur": "منہ کھولنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to open mouth",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1396",
      "title_ps": "خولېدل",
      "title_ur": "دبانا، نچوڑنا",
@@ -228700,6 +229180,18 @@
      ]
     },
     {
+     "id": "md3412",
+     "title_ps": "درس لوستل",
+     "title_ur": "سبق پڑھنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to study a lesson",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1470",
      "title_ps": "درغېدل",
      "title_ur": "رینگنا، پھسلنا، پھسلتے جانا",
@@ -229022,6 +229514,30 @@
      ]
     },
     {
+     "id": "md3484",
+     "title_ps": "دروازه تړل",
+     "title_ur": "دروازہ بند کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to close a door",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3480",
+     "title_ps": "دروازه خلاصول",
+     "title_ur": "دروازہ کھولنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to open a door",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1476",
      "title_ps": "دروغ جوړول",
      "title_ur": "جھوٹ بولنا، گھڑنا، مبالغہ کرنا",
@@ -229250,6 +229766,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3382",
+     "title_ps": "دروندېدل",
+     "title_ur": "بھاری ہونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to become heavy",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md1484",
@@ -229706,6 +230234,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3464",
+     "title_ps": "دستکشې اغوستل",
+     "title_ur": "دستانے پہننا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to wear gloves",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md1487",
@@ -233296,6 +233836,30 @@
      ]
     },
     {
+     "id": "md3450",
+     "title_ps": "ډوډۍ جوړول",
+     "title_ur": "روٹی بنانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to make bread",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3401",
+     "title_ps": "ډوډۍ خوړل",
+     "title_ur": "روٹی کھانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to eat bread",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1803",
      "title_ps": "ډوغل جوړول",
      "title_ur": "کھودنا، کندہ کرنا",
@@ -234716,6 +235280,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3428",
+     "title_ps": "راډیو اورېدل",
+     "title_ur": "ریڈیو سننا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to listen to the radio",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md1582",
@@ -237944,6 +238520,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3446",
+     "title_ps": "رساله لوستل",
+     "title_ur": "رسالہ پڑھنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to read a magazine",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md1611",
@@ -242542,6 +243130,18 @@
      ]
     },
     {
+     "id": "md3389",
+     "title_ps": "زړه ورکول",
+     "title_ur": "دل دینا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to give heart",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1732",
      "title_ps": "زړه ورول",
      "title_ur": "بہادری دکھانا، حوصلہ بڑھانا، حوصلہ دینا",
@@ -244670,6 +245270,18 @@
      ]
     },
     {
+     "id": "md3398",
+     "title_ps": "ژړا کول",
+     "title_ur": "رونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to cry",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1764",
      "title_ps": "ژړل",
      "title_ur": "رونا",
@@ -245048,6 +245660,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3394",
+     "title_ps": "ږغېدل",
+     "title_ur": "بجنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to ring",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md1818",
@@ -245786,6 +246410,30 @@
      ]
     },
     {
+     "id": "md3453",
+     "title_ps": "سبزي پخول",
+     "title_ur": "سبزی پکانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to cook vegetables",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3441",
+     "title_ps": "سبزي خوړل",
+     "title_ur": "سبزی کھانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to eat vegetables",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1873",
      "title_ps": "سبق ښودل",
      "title_ur": "پڑھانا، سبق دینا",
@@ -245830,6 +246478,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3413",
+     "title_ps": "سبق لوستل",
+     "title_ur": "سبق پڑھنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to read a lesson",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md1871",
@@ -246430,6 +247090,18 @@
      ]
     },
     {
+     "id": "md3383",
+     "title_ps": "سپکېدل",
+     "title_ur": "ہلکا ہونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to become light",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md2000",
      "title_ps": "سپکې سپورې ویل",
      "title_ur": "گالیاں دینا، برا بھلا کہنا",
@@ -246856,6 +247528,18 @@
      ]
     },
     {
+     "id": "md3377",
+     "title_ps": "ستاینه کول",
+     "title_ur": "تعریف کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to praise",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1878",
      "title_ps": "سترګک وهل",
      "title_ur": "آنکھ مارنا",
@@ -246946,6 +247630,42 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3379",
+     "title_ps": "سترګې پټول",
+     "title_ur": "آنکھیں بند کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to close eyes",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3487",
+     "title_ps": "سترګې تړل",
+     "title_ur": "آنکھیں بند کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to close eyes",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3386",
+     "title_ps": "سترګې خلاصول",
+     "title_ur": "آنکھیں کھولنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to open eyes",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md1879",
@@ -248696,6 +249416,18 @@
      ]
     },
     {
+     "id": "md3392",
+     "title_ps": "سر ښورول",
+     "title_ur": "سر ہلانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to shake head",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1904",
      "title_ps": "سر قلم کول",
      "title_ur": "پھانسی دینا، سزائے موت دینا",
@@ -250444,6 +251176,18 @@
      ]
     },
     {
+     "id": "md3427",
+     "title_ps": "سندرې اورېدل",
+     "title_ur": "گانے سننا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to listen to songs",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1943",
      "title_ps": "سندرې ویل",
      "title_ur": "گانا",
@@ -251420,6 +252164,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3396",
+     "title_ps": "سوړېدل",
+     "title_ur": "ٹھنڈا ہونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to become cold",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md1964",
@@ -252722,6 +253478,18 @@
      ]
     },
     {
+     "id": "md3461",
+     "title_ps": "شال اغوستل",
+     "title_ur": "شال اوڑھنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to wear a shawl",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md2024",
      "title_ps": "شاملول",
      "title_ur": "شامل کرنا، ملانا",
@@ -253042,6 +253810,30 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3449",
+     "title_ps": "شربت جوړول",
+     "title_ur": "شربت بنانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to make sherbet",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3443",
+     "title_ps": "شربت څښل",
+     "title_ur": "شربت پینا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to drink sherbet",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md2032",
@@ -256044,6 +256836,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3403",
+     "title_ps": "شیدې څښل",
+     "title_ur": "دودھ پینا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to drink milk",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md2099",
@@ -260612,6 +261416,18 @@
      ]
     },
     {
+     "id": "md3410",
+     "title_ps": "غاښونه برس کول",
+     "title_ur": "دانت برش کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to brush teeth",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md2158",
      "title_ps": "غالب کېدل",
      "title_ur": "غالب آنا، فتح پانا، جیتنا",
@@ -264384,6 +265200,18 @@
      ]
     },
     {
+     "id": "md3477",
+     "title_ps": "غوړي اچول",
+     "title_ur": "تیل ڈالنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to add oil",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md2235",
      "title_ps": "غوړېدل",
      "title_ur": "پھیلا ہونا، کھلا ہونا؛ چکنایا جانا، تیل لگایا جانا",
@@ -264796,6 +265624,30 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3451",
+     "title_ps": "غوښه پخول",
+     "title_ur": "گوشت پکانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to cook meat",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3436",
+     "title_ps": "غوښه خوړل",
+     "title_ur": "گوشت کھانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to eat meat",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md2241",
@@ -266728,6 +267580,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3431",
+     "title_ps": "فلم کتل",
+     "title_ur": "فلم دیکھنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to watch a film",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md2298",
@@ -269134,6 +269998,18 @@
      ]
     },
     {
+     "id": "md3448",
+     "title_ps": "قهوه جوړول",
+     "title_ur": "قہوہ بنانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to make coffee",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md2351",
      "title_ps": "قیادت کول",
      "title_ur": "قیادت کرنا، رہنمائی کرنا",
@@ -270238,6 +271114,42 @@
      ]
     },
     {
+     "id": "md3442",
+     "title_ps": "کباب خوړل",
+     "title_ur": "کباب کھانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to eat kebab",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3465",
+     "title_ps": "کپړې اغوستل",
+     "title_ur": "کپڑے پہننا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to wear clothes",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3407",
+     "title_ps": "کپړې وينځل",
+     "title_ur": "کپڑے دھونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to wash clothes",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md2477",
      "title_ps": "کپلې وهل",
      "title_ur": "نگلنا، نیچے چبانا، کے ساتھ جوش کھانا",
@@ -270328,6 +271240,66 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3479",
+     "title_ps": "کتاب اخیستل",
+     "title_ur": "کتاب لینا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to take a book",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3486",
+     "title_ps": "کتاب تړل",
+     "title_ur": "کتاب بند کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to close a book",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3483",
+     "title_ps": "کتاب خلاصول",
+     "title_ur": "کتاب کھولنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to open a book",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3434",
+     "title_ps": "کتاب کتل",
+     "title_ur": "کتاب دیکھنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to look at a book",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3404",
+     "title_ps": "کتاب لوستل",
+     "title_ur": "کتاب پڑھنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to read a book",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md2376",
@@ -271708,6 +272680,30 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3485",
+     "title_ps": "کړکۍ تړل",
+     "title_ur": "کھڑکی بند کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to close a window",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3481",
+     "title_ps": "کړکۍ خلاصول",
+     "title_ur": "کھڑکی کھولنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to open a window",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md2482",
@@ -273914,6 +274910,18 @@
      ]
     },
     {
+     "id": "md3455",
+     "title_ps": "کمیس اغوستل",
+     "title_ur": "کمیض پہننا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to wear a shirt",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md2419",
      "title_ps": "کمېدل",
      "title_ur": "کم کرنا، چھوٹا ہونا، کم ہونا",
@@ -274834,6 +275842,30 @@
      ]
     },
     {
+     "id": "md3471",
+     "title_ps": "کوټه پاکول",
+     "title_ur": "کمرہ صاف کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to clean a room",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3462",
+     "title_ps": "کوټ اغوستل",
+     "title_ur": "کوٹ پہننا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to wear a coat",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md2455",
      "title_ps": "کوټ ایستل",
      "title_ur": "سیدھ میں کرنا",
@@ -275108,6 +276140,30 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3470",
+     "title_ps": "کور پاکول",
+     "title_ur": "گھر صاف کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to clean a house",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3416",
+     "title_ps": "کور جوړول",
+     "title_ur": "گھر بنانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to build a house",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md2460",
@@ -276440,6 +277496,18 @@
      ]
     },
     {
+     "id": "md3406",
+     "title_ps": "کیسه لوستل",
+     "title_ur": "کہانی پڑھنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to read a story",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md2507",
      "title_ps": "کیسه ویل",
      "title_ur": "کہانی سنانا",
@@ -276484,6 +277552,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3399",
+     "title_ps": "کیسې کول",
+     "title_ur": "کہانیاں سنانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to tell stories",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md2509",
@@ -279246,6 +280326,18 @@
      ]
     },
     {
+     "id": "md3478",
+     "title_ps": "ګل اچول",
+     "title_ur": "پھول ڈالنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to put a flower",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md2551",
      "title_ps": "ګل سپړل",
      "title_ur": "کھلنا",
@@ -279290,6 +280382,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3419",
+     "title_ps": "ګل کرل",
+     "title_ur": "پھول لگانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to plant a flower",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md2552",
@@ -279980,6 +281084,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3384",
+     "title_ps": "ګڼېدل",
+     "title_ur": "گاڑھا ہونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to become thick",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md2570",
@@ -281408,6 +282524,30 @@
      ]
     },
     {
+     "id": "md3466",
+     "title_ps": "لاسونه وينځل",
+     "title_ur": "ہاتھ دھونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to wash hands",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3378",
+     "title_ps": "لاس اچول",
+     "title_ur": "ہاتھ لگانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to touch / handle",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md2618",
      "title_ps": "لاس او ګرېوان کېدل",
      "title_ur": "لڑنا، سامنا کرنا",
@@ -281868,6 +283008,18 @@
      ]
     },
     {
+     "id": "md3388",
+     "title_ps": "لاس نیول",
+     "title_ur": "ہاتھ پکڑنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to hold hands",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md2624",
      "title_ps": "لاس ورکول",
      "title_ur": "مدد کرنا، باہر مدد کرنا",
@@ -282004,6 +283156,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3408",
+     "title_ps": "لاس وينځل",
+     "title_ur": "ہاتھ دھونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to wash hands",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md2634",
@@ -284732,6 +285896,18 @@
      ]
     },
     {
+     "id": "md3433",
+     "title_ps": "لوبه کتل",
+     "title_ur": "کھیل دیکھنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to watch a game",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md2685",
      "title_ps": "لوبه کول",
      "title_ur": "کھیلنا",
@@ -285428,6 +286604,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3473",
+     "title_ps": "لوښی پاکول",
+     "title_ur": "برتن صاف کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to clean utensils",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md2693",
@@ -286130,6 +287318,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3405",
+     "title_ps": "لیک لیکل",
+     "title_ur": "خط لکھنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to write a letter",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md2727",
@@ -290768,6 +291968,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3409",
+     "title_ps": "مخ وينځل",
+     "title_ur": "منہ دھونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to wash face",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md2822",
@@ -298740,6 +299952,18 @@
      ]
     },
     {
+     "id": "md3474",
+     "title_ps": "موټر پاکول",
+     "title_ur": "گاڑی صاف کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to clean a car",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md2999",
      "title_ps": "موټر چلول",
      "title_ur": "گاڑی چلانا",
@@ -298784,6 +300008,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3469",
+     "title_ps": "موټر وينځل",
+     "title_ur": "گاڑی دھونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to wash a car",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md3000",
@@ -300300,6 +301536,18 @@
      ]
     },
     {
+     "id": "md3390",
+     "title_ps": "مینه ناکېدل",
+     "title_ur": "محبت کرنے لگنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to become loving",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md3033",
      "title_ps": "مینېدل",
      "title_ur": "عاشق ہونا",
@@ -300620,6 +301868,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3437",
+     "title_ps": "مېوه خوړل",
+     "title_ur": "پھل کھانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to eat fruit",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md3038",
@@ -305682,6 +306942,18 @@
      ]
     },
     {
+     "id": "md3447",
+     "title_ps": "نوم لیکل",
+     "title_ur": "نام لکھنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to write a name",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md3134",
      "title_ps": "نوی کول",
      "title_ur": "تجدید کرنا، نیا بنانا",
@@ -307242,6 +308514,18 @@
      ]
     },
     {
+     "id": "md3463",
+     "title_ps": "واسکټ اغوستل",
+     "title_ur": "واسکٹ پہننا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to wear a waistcoat",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md3179",
      "title_ps": "واقع کېدل",
      "title_ur": "ہونا، ظاہر ہونا",
@@ -308484,6 +309768,18 @@
      ]
     },
     {
+     "id": "md3445",
+     "title_ps": "ورځپاڼه لوستل",
+     "title_ur": "اخبار پڑھنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to read a newspaper",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md3206",
      "title_ps": "ورزش کول",
      "title_ur": "ورزش کرنا",
@@ -308842,6 +310138,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3376",
+     "title_ps": "ورسېدل",
+     "title_ur": "پہنچنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to arrive",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md3216",
@@ -309436,6 +310744,30 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3452",
+     "title_ps": "وریژې پخول",
+     "title_ur": "چاول پکانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to cook rice",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3440",
+     "title_ps": "وریژې خوړل",
+     "title_ur": "چاول کھانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to eat rice",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "ms13",
@@ -310860,6 +312192,18 @@
      ]
     },
     {
+     "id": "md3420",
+     "title_ps": "ونه کرل",
+     "title_ur": "درخت لگانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to plant a tree",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md3239",
      "title_ps": "ووټ اچول",
      "title_ur": "ووٹ دینا",
@@ -311544,6 +312888,30 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3411",
+     "title_ps": "ویښتان کنګ کول",
+     "title_ur": "بال کنگھی کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to comb hair",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3468",
+     "title_ps": "ویښتان وينځل",
+     "title_ur": "بال دھونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to wash hair",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md3274",
@@ -313828,6 +315196,30 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3454",
+     "title_ps": "هګۍ پخول",
+     "title_ur": "انڈے پکانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to cook an egg",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3439",
+     "title_ps": "هګۍ خوړل",
+     "title_ur": "انڈے کھانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to eat an egg",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md3318",
