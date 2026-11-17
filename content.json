@@ -1,5 +1,5 @@
 {
- "version": 89,
+ "version": 90,
  "sections": [
   {
    "id": "grammar",
@@ -163732,6 +163732,18 @@
      ]
     },
     {
+     "id": "md3496",
+     "title_ps": "اراده لرل",
+     "title_ur": "ارادہ رکھنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to intend",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md3395",
      "title_ps": "ارامېدل",
      "title_ur": "آرام کرنا",
@@ -165122,6 +165134,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3507",
+     "title_ps": "استازیتوب کول",
+     "title_ur": "نمائندگی کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to represent",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md75",
@@ -168982,6 +169006,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3502",
+     "title_ps": "انځور اخیستل",
+     "title_ur": "تصویر لینا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to photograph",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md3415",
@@ -179050,6 +179086,18 @@
      ]
     },
     {
+     "id": "md3511",
+     "title_ps": "بېرته جوړول",
+     "title_ur": "دوبارہ بنانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to restore",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md389",
      "title_ps": "بېرول",
      "title_ur": "ڈرانا",
@@ -188500,6 +188548,18 @@
      ]
     },
     {
+     "id": "md3515",
+     "title_ps": "په زوره تړل",
+     "title_ur": "زور سے بند کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to slam",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md535",
      "title_ps": "په سد کېدل",
      "title_ur": "ہوش میں آنا",
@@ -188776,6 +188836,18 @@
      ]
     },
     {
+     "id": "md3494",
+     "title_ps": "په غور کتل",
+     "title_ur": "غور سے دیکھنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to gaze",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md541",
      "title_ps": "په غېږ اخیستل",
      "title_ur": "گلے لگانا، اپنانا",
@@ -188912,6 +188984,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3493",
+     "title_ps": "په کار ګمارل",
+     "title_ur": "ملازم رکھنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to employ",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md553",
@@ -192444,6 +192528,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3517",
+     "title_ps": "تبادله کول",
+     "title_ur": "تبادلہ کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to swap",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md667",
@@ -199406,6 +199502,18 @@
      ]
     },
     {
+     "id": "md3512",
+     "title_ps": "تقاعد کېدل",
+     "title_ur": "ریٹائر ہونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to retire",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md808",
      "title_ps": "تقبیح کول",
      "title_ur": "مذمت کرنا، تنقید کرنا، سرزنش کرنا",
@@ -201116,6 +201224,18 @@
      ]
     },
     {
+     "id": "md3506",
+     "title_ps": "تمرین کول",
+     "title_ur": "مشق کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to rehearse",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md837",
      "title_ps": "تمول",
      "title_ur": "روکنا، قابو کرنا، روک دینا",
@@ -202080,6 +202200,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3491",
+     "title_ps": "توپیر لرل",
+     "title_ur": "فرق ہونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to differ",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md858",
@@ -205300,6 +205432,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3490",
+     "title_ps": "ټکر کول",
+     "title_ur": "ٹکرانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to crash",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md976",
@@ -217534,6 +217678,18 @@
      ]
     },
     {
+     "id": "md3509",
+     "title_ps": "ځانګړی کول",
+     "title_ur": "مخصوص کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to reserve",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1214",
      "title_ps": "ځان بچ کول",
      "title_ur": "بچنا، اجتناب کرنا، دور رکھنا، حفاظت کرنا",
@@ -219706,6 +219862,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3501",
+     "title_ps": "حذف کول",
+     "title_ur": "حذف کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to omit",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md1262",
@@ -222456,6 +222624,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3500",
+     "title_ps": "خپه کول",
+     "title_ur": "ناراض کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to offend",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md3365",
@@ -242440,6 +242620,18 @@
      ]
     },
     {
+     "id": "md3492",
+     "title_ps": "زده کړه ورکول",
+     "title_ur": "تعلیم دینا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to educate",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1697",
      "title_ps": "زده کول",
      "title_ur": "سیکھنا، سکھانا",
@@ -245602,6 +245794,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3516",
+     "title_ps": "ژوندی پاتې کېدل",
+     "title_ur": "زندہ رہنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to survive",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md3362",
@@ -250256,6 +250460,18 @@
      ]
     },
     {
+     "id": "md3514",
+     "title_ps": "سکي کول",
+     "title_ur": "اسکی کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to ski",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md2011",
      "title_ps": "سګرېټ سکل",
      "title_ur": "سگریٹ پینا",
@@ -250346,6 +250562,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3513",
+     "title_ps": "سلامي ورکول",
+     "title_ur": "سلام کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to salute",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md1926",
@@ -261566,6 +261794,18 @@
      ]
     },
     {
+     "id": "md3505",
+     "title_ps": "غبرګون ښودل",
+     "title_ur": "رد عمل ظاہر کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to react",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md2165",
      "title_ps": "غبن کول",
      "title_ur": "دھوکہ دینا، فریب دینا",
@@ -270698,6 +270938,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3504",
+     "title_ps": "کار پرېښودل",
+     "title_ur": "کام چھوڑ دینا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to quit",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md2362",
@@ -282340,6 +282592,18 @@
      ]
     },
     {
+     "id": "md3495",
+     "title_ps": "لارښوونه کول",
+     "title_ur": "ہدایت دینا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to instruct",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md2645",
      "title_ps": "لاړې تېرول",
      "title_ur": "تھوکنا",
@@ -287168,6 +287432,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3497",
+     "title_ps": "لیبل لګول",
+     "title_ur": "لیبل لگانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to label",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md2726",
@@ -296810,6 +297086,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3510",
+     "title_ps": "مقاومت کول",
+     "title_ur": "مزاحمت کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to resist",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md2920",
@@ -306896,6 +307184,18 @@
      ]
     },
     {
+     "id": "md3499",
+     "title_ps": "نومول",
+     "title_ur": "نام رکھنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to name",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md3126",
      "title_ps": "نومېدل",
      "title_ur": "کہلانا، نام رکھا جانا",
@@ -307228,6 +307528,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3498",
+     "title_ps": "نه لرل",
+     "title_ur": "کمی ہونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to lack",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md3159",
@@ -309722,6 +310034,18 @@
      ]
     },
     {
+     "id": "md3508",
+     "title_ps": "ورته کېدل",
+     "title_ur": "مشابہ ہونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to resemble",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md3213",
      "title_ps": "ورټولېدل",
      "title_ur": "جمع ہونا، مرکوز ہونا",
@@ -310948,6 +311272,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3503",
+     "title_ps": "وړاندیز کول",
+     "title_ur": "تجویز پیش کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to propose",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md3244",
