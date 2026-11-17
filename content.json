@@ -1,5 +1,5 @@
 {
- "version": 92,
+ "version": 93,
  "sections": [
   {
    "id": "grammar",
@@ -199150,6 +199150,18 @@
      "children": []
     },
     {
+     "id": "md3519",
+     "title_ps": "تړل کېدل",
+     "title_ur": "بند ہونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to be closed",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md757",
      "title_ps": "تزنېدل",
      "title_ur": "پریشان ہونا، غمگین ہونا",
@@ -315402,6 +315414,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3518",
+     "title_ps": "ویښتان ږمنځ کول",
+     "title_ur": "بال کنگھی کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to comb hair",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md3411",
