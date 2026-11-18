@@ -1,5 +1,5 @@
 {
- "version": 94,
+ "version": 95,
  "sections": [
   {
    "id": "grammar",
@@ -177215,6 +177215,18 @@
      ]
     },
     {
+     "id": "md3525",
+     "title_ps": "بخارېدل",
+     "title_ur": "بخار بننا، بخارات بن کر اڑنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to evaporate",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md243",
      "title_ps": "بختور کول",
      "title_ur": "برکت دینا",
@@ -203925,6 +203937,18 @@
      ]
     },
     {
+     "id": "md3524",
+     "title_ps": "تقطير کول",
+     "title_ur": "تقطیر کرنا، عرق نکالنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to distill",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md813",
      "title_ps": "تقلید کول",
      "title_ur": "نقل کرنا، تقلید کرنا؛ پیروی کرنا",
@@ -209855,6 +209879,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3526",
+     "title_ps": "ټک ټک خبرې کول",
+     "title_ur": "اٹک اٹک کر بولنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to stammer",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md974",
@@ -218677,6 +218713,18 @@
      ]
     },
     {
+     "id": "md3527",
+     "title_ps": "چوشل",
+     "title_ur": "چوسنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to suck",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1161",
      "title_ps": "چوف کول",
      "title_ur": "پھونکنا",
@@ -226047,6 +226095,18 @@
      ]
     },
     {
+     "id": "md3528",
+     "title_ps": "خارښ کول",
+     "title_ur": "کھجانا، خراش کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to scratch",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1300",
      "title_ps": "خار وهل",
      "title_ur": "نیزہ مارنا، چپکانا، نقصان پہنچانا، زخمی کرنا، روکنا",
@@ -229141,6 +229201,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3523",
+     "title_ps": "خميرېدل",
+     "title_ur": "خمیر ہونا، خمیر اٹھنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to ferment",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md1360",
@@ -268149,6 +268221,18 @@
      ]
     },
     {
+     "id": "md3522",
+     "title_ps": "غلې پاکول",
+     "title_ur": "غلہ صاف کرنا، پھٹکنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to winnow",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md2187",
      "title_ps": "غمجنول",
      "title_ur": "غم کرنا، افسردہ کرنا",
@@ -302949,6 +303033,18 @@
      ]
     },
     {
+     "id": "md3521",
+     "title_ps": "منځ لرې کول",
+     "title_ur": "درمیانی حصہ نکالنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to core",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md2950",
      "title_ps": "منحرفول",
      "title_ur": "توجہ ہٹانا، موڑنا، ہٹنا بنانا، گمراہ کرنا، بگاڑنا",
@@ -315741,6 +315837,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3520",
+     "title_ps": "وړه کول",
+     "title_ur": "باریک کرنا، قیمہ کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to mince",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md3251",
