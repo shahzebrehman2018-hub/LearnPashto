@@ -1,5 +1,5 @@
 {
- "version": 97,
+ "version": 98,
  "sections": [
   {
    "id": "grammar",
@@ -216988,7 +216988,7 @@
     },
     {
      "id": "md3570",
-     "title_ps": "چټکېدل",
+     "title_ps": "چټک کېدل",
      "title_ur": "تیز ہونا",
      "title_roman": "",
      "body_ps": "",
@@ -261459,6 +261459,18 @@
      ]
     },
     {
+     "id": "md3614",
+     "title_ps": "شورکېدل",
+     "title_ur": "شور ہونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to become noisy",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md2065",
      "title_ps": "شورېدل",
      "title_ur": "چھلکنا، بہنا",
@@ -273151,18 +273163,6 @@
      ]
     },
     {
-     "id": "md3368",
-     "title_ps": "کښت کول",
-     "title_ur": "کاشت کرنا",
-     "title_roman": "",
-     "body_ps": "",
-     "body_roman": "",
-     "body_ur": "",
-     "body_en": "to cultivate",
-     "grammar": "",
-     "children": []
-    },
-    {
      "id": "md2306",
      "title_ps": "قابو کول",
      "title_ur": "قریب لانا، قابو میں لانا",
@@ -279141,6 +279141,18 @@
      ]
     },
     {
+     "id": "md3368",
+     "title_ps": "کښت کول",
+     "title_ur": "کاشت کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to cultivate",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md2497",
      "title_ps": "کښل",
      "title_ur": "گھسیٹنا، کھینچنا، نکالنا، ہونا",
@@ -284313,6 +284325,52 @@
      ]
     },
     {
+     "id": "md2529",
+     "title_ps": "ګرانېدل",
+     "title_ur": "مشکل ہونا، پیچیدہ ہونا، مہنگا ہونا",
+     "title_roman": "graan kedúl",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to become difficult, complicated, expensive",
+     "grammar": "",
+     "children": [
+      {
+       "id": "md2529-c1",
+       "title_ps": "حال",
+       "title_ur": "حال",
+       "title_roman": "Present",
+       "body_ps": "زه ګران کېږم (میں مشکل ہوتا ہوں — I become)\nته ګران کېږې (تو مشکل ہوتا ہے — you become)\nهغه ګران کېږي (وہ مشکل ہوتا ہے — he/she becomes)\nمونږ ګران کېږو (ہم مشکل ہوتے ہیں — we become)\nتاسې ګران کېږئ (تم مشکل ہوتے ہو — you become)\nهغوی ګران کېږي (وہ سب مشکل ہوتے ہیں — they become)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "",
+       "grammar": ""
+      },
+      {
+       "id": "md2529-c2",
+       "title_ps": "مستقبل",
+       "title_ur": "مستقبل",
+       "title_roman": "Future",
+       "body_ps": "زه به ګران کېږم (میں مشکل ہووں گا — I will become)\nته به ګران کېږې (تو مشکل ہوے گا — you will become)\nهغه به ګران کېږي (وہ مشکل ہوے گا — he/she will become)\nمونږ به ګران کېږو (ہم مشکل ہویں گے — we will become)\nتاسې به ګران کېږئ (تم مشکل ہوو گے — you will become)\nهغوی به ګران کېږي (وہ سب مشکل ہویں گے — they will become)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "",
+       "grammar": ""
+      },
+      {
+       "id": "md2529-c3",
+       "title_ps": "امر",
+       "title_ur": "امر",
+       "title_roman": "Imperative",
+       "body_ps": "ته ګران کېږه (تو مشکل ہوو! — Become!)\nتاسې ګران کېږئ (تم مشکل ہوئ! — Become!)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "",
+       "grammar": ""
+      }
+     ]
+    },
+    {
      "id": "md2528",
      "title_ps": "ګران کول",
      "title_ur": "مشکل کرنا، پیچیدہ کرنا، مہنگا کرنا",
@@ -284351,52 +284409,6 @@
        "title_ur": "امر",
        "title_roman": "Imperative",
        "body_ps": "ته وګران کوه (تو مشکل کرو! — Make!)\nتاسې وګران کوئ (تم مشکل کرئ! — Make!)",
-       "body_roman": "",
-       "body_ur": "",
-       "body_en": "",
-       "grammar": ""
-      }
-     ]
-    },
-    {
-     "id": "md2529",
-     "title_ps": "ګران کېدل",
-     "title_ur": "مشکل ہونا، پیچیدہ ہونا، مہنگا ہونا",
-     "title_roman": "graan kedúl",
-     "body_ps": "",
-     "body_roman": "",
-     "body_ur": "",
-     "body_en": "to become difficult, complicated, expensive",
-     "grammar": "",
-     "children": [
-      {
-       "id": "md2529-c1",
-       "title_ps": "حال",
-       "title_ur": "حال",
-       "title_roman": "Present",
-       "body_ps": "زه ګران کېږم (میں مشکل ہوتا ہوں — I become)\nته ګران کېږې (تو مشکل ہوتا ہے — you become)\nهغه ګران کېږي (وہ مشکل ہوتا ہے — he/she becomes)\nمونږ ګران کېږو (ہم مشکل ہوتے ہیں — we become)\nتاسې ګران کېږئ (تم مشکل ہوتے ہو — you become)\nهغوی ګران کېږي (وہ سب مشکل ہوتے ہیں — they become)",
-       "body_roman": "",
-       "body_ur": "",
-       "body_en": "",
-       "grammar": ""
-      },
-      {
-       "id": "md2529-c2",
-       "title_ps": "مستقبل",
-       "title_ur": "مستقبل",
-       "title_roman": "Future",
-       "body_ps": "زه به ګران کېږم (میں مشکل ہووں گا — I will become)\nته به ګران کېږې (تو مشکل ہوے گا — you will become)\nهغه به ګران کېږي (وہ مشکل ہوے گا — he/she will become)\nمونږ به ګران کېږو (ہم مشکل ہویں گے — we will become)\nتاسې به ګران کېږئ (تم مشکل ہوو گے — you will become)\nهغوی به ګران کېږي (وہ سب مشکل ہویں گے — they will become)",
-       "body_roman": "",
-       "body_ur": "",
-       "body_en": "",
-       "grammar": ""
-      },
-      {
-       "id": "md2529-c3",
-       "title_ps": "امر",
-       "title_ur": "امر",
-       "title_roman": "Imperative",
-       "body_ps": "ته ګران کېږه (تو مشکل ہوو! — Become!)\nتاسې ګران کېږئ (تم مشکل ہوئ! — Become!)",
        "body_roman": "",
        "body_ur": "",
        "body_en": "",
