@@ -1,5 +1,5 @@
 {
- "version": 99,
+ "version": 100,
  "sections": [
   {
    "id": "grammar",
@@ -272812,39 +272812,127 @@
      "body_roman": "",
      "body_ur": "",
      "body_en": "to want, to request",
-     "grammar": "",
+     "grammar": "فعل، متعدی",
      "children": [
       {
        "id": "md2240-c1",
        "title_ps": "حال",
-       "title_ur": "حال",
-       "title_roman": "Present",
-       "body_ps": "زه غوښتم (میں چاہتا ہوں — I want)\nته غوښتې (تو چاہتا ہے — you want)\nهغه غوښتي (وہ چاہتا ہے — he/she wants)\nمونږ غوښتو (ہم چاہتے ہیں — we want)\nتاسې غوښتئ (تم چاہتے ہو — you want)\nهغوی غوښتي (وہ سب چاہتے ہیں — they want)",
+       "title_ur": "چاہتا ہوں",
+       "title_roman": "",
+       "body_ps": "زه یې غواړم (میں چاہتا / چاہتی ہوں — I want it)\nته یې غواړې (تم چاہتے / چاہتی ہو — you want it)\nهغه یې غواړي (وہ چاہتا / چاہتی ہے — he/she wants it)\nموږ یې غواړو (ہم چاہتے / چاہتی ہیں — we want it)\nتاسو یې غواړئ (آپ چاہتے / چاہتی ہیں — you want it)\nهغوی یې غواړي (وہ چاہتے / چاہتی ہیں — they want it)\nدوی یې غواړي (وہ چاہتے / چاہتی ہیں — they want it)",
        "body_roman": "",
        "body_ur": "",
-       "body_en": "",
+       "body_en": "Present",
        "grammar": ""
       },
       {
        "id": "md2240-c2",
-       "title_ps": "مستقبل",
-       "title_ur": "مستقبل",
-       "title_roman": "Future",
-       "body_ps": "زه به غوښتم (میں چاہوں گا — I will want)\nته به غوښتې (تو چاہے گا — you will want)\nهغه به غوښتي (وہ چاہے گا — he/she will want)\nمونږ به غوښتو (ہم چاہیں گے — we will want)\nتاسې به غوښتئ (تم چاہو گے — you will want)\nهغوی به غوښتي (وہ سب چاہیں گے — they will want)",
+       "title_ps": "ماضی مطلق",
+       "title_ur": "چاہا",
+       "title_roman": "",
+       "body_ps": "ما وغوښت (میں نے چاہا — I wanted it (m.))\nما وغوښته (میں نے چاہی — I wanted it (f.))\nتا وغوښت (تم نے چاہا — you wanted it (m.))\nتا وغوښته (تم نے چاہی — you wanted it (f.))\nهغه وغوښت (اس نے چاہا — he wanted it (m.))\nهغې وغوښته (اس نے چاہی — she wanted it (f.))\nموږ وغوښتل (ہم نے چاہے — we wanted them (m.))\nموږ وغوښتلې (ہم نے چاہیں — we wanted them (f.))\nتاسو وغوښتل (آپ نے چاہے — you wanted them (m.))\nتاسو وغوښتلې (آپ نے چاہیں — you wanted them (f.))\nهغوی وغوښتل (انہوں نے چاہے — they wanted them (m.))\nهغوی وغوښتلې (انہوں نے چاہیں — they wanted them (f.))\nدوی وغوښتل (انہوں نے چاہے — they wanted them (m.))\nدوی وغوښتلې (انہوں نے چاہیں — they wanted them (f.))",
        "body_roman": "",
        "body_ur": "",
-       "body_en": "",
+       "body_en": "Simple past",
        "grammar": ""
       },
       {
        "id": "md2240-c3",
-       "title_ps": "امر",
-       "title_ur": "امر",
-       "title_roman": "Imperative",
-       "body_ps": "ته وغوښته (تو چاہو! — Want!)\nتاسې وغوښتئ (تم چاہئ! — Want!)",
+       "title_ps": "ماضی استمراری",
+       "title_ur": "چاہتا تھا",
+       "title_roman": "",
+       "body_ps": "ما غوښتلو (میں چاہتا تھا — I was wanting it (m.))\nما غوښتله (میں چاہتی تھی — I was wanting it (f.))\nتا غوښتلو (تم چاہتے تھے — you were wanting it (m.))\nتا غوښتله (تم چاہتی تھیں — you were wanting it (f.))\nهغه غوښتلو (وہ چاہتا تھا — he was wanting it)\nهغې غوښتله (وہ چاہتی تھی — she was wanting it)\nموږ غوښتل (ہم چاہتے تھے — we were wanting it (m.))\nموږ غوښتلې (ہم چاہتی تھیں — we were wanting it (f.))\nتاسو غوښتل (آپ چاہتے تھے — you were wanting it (m.))\nتاسو غوښتلې (آپ چاہتی تھیں — you were wanting it (f.))\nهغوی غوښتل (وہ چاہتے تھے — they were wanting it (m.))\nهغوی غوښتلې (وہ چاہتی تھیں — they were wanting it (f.))\nدوی غوښتل (وہ چاہتے تھے — they were wanting it (m.))\nدوی غوښتلې (وہ چاہتی تھیں — they were wanting it (f.))",
        "body_roman": "",
        "body_ur": "",
-       "body_en": "",
+       "body_en": "Past continuous",
+       "grammar": ""
+      },
+      {
+       "id": "md2240-c4",
+       "title_ps": "حال مکمل / ماضی قریب",
+       "title_ur": "چاہا ہے",
+       "title_roman": "",
+       "body_ps": "ما غوښتی دی (میں نےچاہا ہے — I have wanted it (m.))\nما غوښتې ده (میں نے چاہی ہے — I have wanted it (f.))\nتا غوښتی دی (تم نے چاہا ہے — you have wanted it (m.))\nتا غوښتې ده (تم نے چاہی ہے — you have wanted it (f.))\nهغه غوښتی دی (اس نے چاہا ہے — he has wanted it (m.))\nهغې غوښتې ده (اس نے چاہی ہے — she has wanted it (f.))\nموږ غوښتي دي (ہم نے چاہے ہیں — we have wanted them (m.))\nموږ غوښتې دي (ہم نے چاہی ہیں — we have wanted them (f.))\nتاسو غوښتي دي (آپ نے چاہے ہیں — you have wanted them (m.))\nتاسو غوښتې دي (آپ نے چاہی ہیں — you have wanted them (f.))\nهغوی غوښتي دي (انہوں نے چاہے ہیں — they have wanted them (m.))\nهغوی غوښتې دي (انہوں نے چاہی ہیں — they have wanted them (f.))\nدوی غوښتي دي (انہوں نے چاہے ہیں — they have wanted them (m.))\nدوی غوښتې دي (انہوں نے چاہی ہیں — they have wanted them (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Present perfect",
+       "grammar": ""
+      },
+      {
+       "id": "md2240-c5",
+       "title_ps": "ماضی بعيد",
+       "title_ur": "چاہا تھا",
+       "title_roman": "",
+       "body_ps": "ما غوښتی و (میں نے چاہا تھا — I had wanted it (m.))\nما غوښتې وه (میں نے چاہی تھی — I had wanted it (f.))\nتا غوښتی و (تم نے چاہا تھا — you had wanted it (m.))\nتا غوښتې وه (تم نے چاہی تھی — you had wanted it (f.))\nهغه غوښتی و (اس نے چاہا تھا — he had wanted it (m.))\nهغې غوښتې وه (اس نے چاہی تھی — she had wanted it (f.))\nموږ غوښتي وو (ہم نے چاہے تھے — we had wanted them (m.))\nموږ غوښتې وې (ہم نے چاہی تھیں — we had wanted them (f.))\nتاسو غوښتي وو (آپ نے چاہے تھے — you had wanted them (m.))\nتاسو غوښتې وې (آپ نے چاہی تھیں — you had wanted them (f.))\nهغوی غوښتي وو (انہوں نے چاہے تھے — they had wanted them (m.))\nهغوی غوښتې وې (انہوں نے چاہی تھیں — they had wanted them (f.))\nدوی غوښتي وو (انہوں نے چاہے تھے — they had wanted them (m.))\nدوی غوښتې وې (انہوں نے چاہی تھیں — they had wanted them (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Past perfect",
+       "grammar": ""
+      },
+      {
+       "id": "md2240-c6",
+       "title_ps": "ماضی احتمالی",
+       "title_ur": "چاہا ہوگا",
+       "title_roman": "",
+       "body_ps": "ما به غوښتی و (میں نے چاہا ہو گا — I must have wanted it (m.))\nما به غوښتې وه (میں نے چاہی ہو گی — I must have wanted it (f.))\nتا به غوښتی و (تم نے چاہا ہو گا — you must have wanted it (m.))\nتا به غوښتې وه (تم نے چاہی ہو گی — you must have wanted it (f.))\nهغه به غوښتی و (اس نے چاہا ہو گا — he must have wanted it (m.))\nهغې به غوښتې وه (اس نے چاہی ہو گی — she must have wanted it (f.))\nموږ به غوښتي وو (ہم نے چاہے ہوں گے — we must have wanted them (m.))\nموږ به غوښتې وې (ہم نے چاہی ہوں گی — we must have wanted them (f.))\nتاسو به غوښتي وو (آپ نے چاہے ہوں گے — you must have wanted them (m.))\nتاسو به غوښتې وې (آپ نے چاہی ہوں گی — you must have wanted them (f.))\nهغوی به غوښتي وو (انہوں نے چاہے ہوں گے — they must have wanted them (m.))\nهغوی به غوښتې وې (انہوں نے چاہی ہوں گی — they must have wanted them (f.))\nدوی به غوښتي وو (انہوں نے چاہے ہوں گے — they must have wanted them (m.))\nدوی به غوښتې وې (انہوں نے چاہی ہوں گی — they must have wanted them (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Presumptive past",
+       "grammar": ""
+      },
+      {
+       "id": "md2240-c7",
+       "title_ps": "مستقبل سادہ",
+       "title_ur": "چاہوں گا",
+       "title_roman": "",
+       "body_ps": "زه به یې غواړم (میں چاہوں گا / چاہوں گی — I will want it)\nته به یې غواړې (تم چاہو گے / چاہو گی — you will want it)\nهغه به یې غواړي (وہ چاہے گا / چاہے گی — he/she will want it)\nموږ به یې غواړو (ہم چاہیں گے / چاہیں گی — we will want it)\nتاسو به یې غواړئ (آپ چاہیں گے / چاہیں گی — you will want it)\nهغوی به یې غواړي (وہ چاہیں گے / چاہیں گی — they will want it)\nدوی به یې غواړي (وہ چاہیں گے / چاہیں گی — they will want it)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Simple future",
+       "grammar": ""
+      },
+      {
+       "id": "md2240-c8",
+       "title_ps": "ارادی مستقبل",
+       "title_ur": "چاہ لوں گا",
+       "title_roman": "",
+       "body_ps": "زه به یې وغواړم (میں چاہوں گا / چاہوں گی — I will want it)\nته به یې وغواړې (تم چاہو گے / چاہو گی — you will want it)\nهغه به یې وغواړي (وہ چاہے گا / چاہے گی — he/she will want it)\nموږ به یې وغواړو (ہم چاہیں گے / چاہیں گی — we will want it)\nتاسو به یې وغواړئ (آپ چاہیں گے / چاہیں گی — you will want it)\nهغوی به یې وغواړي (وہ چاہیں گے / چاہیں گی — they will want it)\nدوی به یې وغواړي (وہ چاہیں گے / چاہیں گی — they will want it)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Resolutive future",
+       "grammar": ""
+      },
+      {
+       "id": "md2240-c9",
+       "title_ps": "مضارع",
+       "title_ur": "چاہوں",
+       "title_roman": "",
+       "body_ps": "زه یې وغواړم (میں چاہوں — that I want it)\nته یې وغواړې (تم چاہو — that you want it)\nهغه یې وغواړي (وہ چاہے — that he/she want it)\nموږ یې وغواړو (ہم چاہیں — that we want it)\nتاسو یې وغواړئ (آپ چاہیں — that you want it)\nهغوی یې وغواړي (وہ چاہیں — that they want it)\nدوی یې وغواړي (وہ چاہیں — that they want it)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Subjunctive",
+       "grammar": ""
+      },
+      {
+       "id": "md2240-c10",
+       "title_ps": "امر",
+       "title_ur": "حکم",
+       "title_roman": "",
+       "body_ps": "ويې غواړه (چاہو — want it!)\nويې غواړئ (چاہیں / چاہیے — want it! (pl./formal))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Imperative",
+       "grammar": ""
+      },
+      {
+       "id": "md2240-c11",
+       "title_ps": "نہی",
+       "title_ur": "منع",
+       "title_roman": "",
+       "body_ps": "مه یې غواړه (مت چاہو — don't want it!)\nمه یې غواړئ (مت چاہیں / مت چاہیے — don't want it! (pl./formal))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Prohibitive",
        "grammar": ""
       }
      ]
