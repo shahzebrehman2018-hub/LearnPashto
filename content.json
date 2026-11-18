@@ -1,5 +1,5 @@
 {
- "version": 96,
+ "version": 97,
  "sections": [
   {
    "id": "grammar",
@@ -194417,6 +194417,18 @@
      "children": []
     },
     {
+     "id": "md3607",
+     "title_ps": "پیسې خرڅ کول",
+     "title_ur": "پیسے خرچ کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to spend money",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md3423",
      "title_ps": "پیسې ګټل",
      "title_ur": "پیسے کمانا",
@@ -210511,6 +210523,18 @@
      ]
     },
     {
+     "id": "md3605",
+     "title_ps": "ټوپ کول",
+     "title_ur": "کودنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to jump",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md964",
      "title_ps": "ټوپ وهل",
      "title_ur": "کودنا",
@@ -210647,6 +210671,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3601",
+     "title_ps": "ټوټه کول",
+     "title_ur": "ٹکڑے کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to cut into pieces",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md960",
@@ -220955,6 +220991,18 @@
      ]
     },
     {
+     "id": "md3599",
+     "title_ps": "څرل",
+     "title_ur": "چرانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to graze",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1011",
      "title_ps": "څرول",
      "title_ur": "چرانا",
@@ -226589,6 +226637,18 @@
      ]
     },
     {
+     "id": "md3613",
+     "title_ps": "خاموش کېدل",
+     "title_ur": "خاموش ہونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to become silent",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md1312",
      "title_ps": "خبرول",
      "title_ur": "اطلاع دینا، رابطہ کرنا، ظاہر کرنا، مطلع کرنا",
@@ -232183,6 +232243,30 @@
      "body_roman": "",
      "body_ur": "",
      "body_en": "to put on a cap; to put on a hat",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3609",
+     "title_ps": "خوندور کېدل",
+     "title_ur": "مزے دار ہونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to become delicious",
+     "grammar": "",
+     "children": []
+    },
+    {
+     "id": "md3603",
+     "title_ps": "خوندي کول",
+     "title_ur": "محفوظ کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to keep safe, to protect",
      "grammar": "",
      "children": []
     },
@@ -240717,6 +240801,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3600",
+     "title_ps": "راکاږل",
+     "title_ur": "گھسیٹنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to drag, to pull",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md1588",
@@ -265815,6 +265911,18 @@
      ]
     },
     {
+     "id": "md3602",
+     "title_ps": "عکس اخیستل",
+     "title_ur": "تصویر لینا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to take a photo",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md2150",
      "title_ps": "علاجول",
      "title_ur": "علاج کرنا، سبق سکھانا",
@@ -270693,6 +270801,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3604",
+     "title_ps": "غوښتنه کول",
+     "title_ur": "مانگنا / درخواست کرنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to ask for, to request",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md3451",
@@ -276463,6 +276583,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3598",
+     "title_ps": "کتنه کول",
+     "title_ur": "دیکھنے جانا / ملنے جانا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to visit, to go to see",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md2377",
@@ -285423,6 +285555,18 @@
      ]
     },
     {
+     "id": "md3611",
+     "title_ps": "ګلابي کېدل",
+     "title_ur": "گلابی ہونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to become pink",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md2555",
      "title_ps": "ګلکاري کول",
      "title_ur": "کڑھائی کرنا",
@@ -293883,6 +294027,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3610",
+     "title_ps": "مالګینېدل",
+     "title_ur": "نمکین ہونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to become salty",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md2753",
@@ -304135,6 +304291,18 @@
      ]
     },
     {
+     "id": "md3606",
+     "title_ps": "منډه وھل",
+     "title_ur": "دوڑنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to run",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md2981",
      "title_ps": "منډې وهل",
      "title_ur": "دوڑنا",
@@ -309643,6 +309811,18 @@
      ]
     },
     {
+     "id": "md3612",
+     "title_ps": "نسواري کېدل",
+     "title_ur": "بھورا ہونا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to become brown",
+     "grammar": "",
+     "children": []
+    },
+    {
      "id": "md3548",
      "title_ps": "نس درد کول",
      "title_ur": "پیٹ میں درد ہونا",
@@ -314527,6 +314707,18 @@
        "grammar": ""
       }
      ]
+    },
+    {
+     "id": "md3608",
+     "title_ps": "وخت تېرول",
+     "title_ur": "وقت گزارنا",
+     "title_roman": "",
+     "body_ps": "",
+     "body_roman": "",
+     "body_ur": "",
+     "body_en": "to spend time",
+     "grammar": "",
+     "children": []
     },
     {
      "id": "md3194",
