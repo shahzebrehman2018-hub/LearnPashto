@@ -1,5 +1,5 @@
 {
- "version": 108,
+ "version": 109,
  "sections": [
   {
    "id": "grammar",
@@ -256963,39 +256963,127 @@
      "body_roman": "",
      "body_ur": "",
      "body_en": "to cry",
-     "grammar": "",
+     "grammar": "فعل، لازم",
      "children": [
       {
        "id": "md1764-c1",
        "title_ps": "حال",
-       "title_ur": "حال",
-       "title_roman": "Present",
-       "body_ps": "زه ژړم (میں روتا ہوں — I cry)\nته ژړې (تو روتا ہے — you cry)\nهغه ژړي (وہ روتا ہے — he/she cries)\nمونږ ژړو (ہم روتے ہیں — we cry)\nتاسې ژړئ (تم روتے ہو — you cry)\nهغوی ژړي (وہ سب روتے ہیں — they cry)",
+       "title_ur": "روتا ہوں",
+       "title_roman": "",
+       "body_ps": "زه ژاړم (میں روتا / روتی ہوں — I cry)\nته ژاړې (تم روتے / روتی ہو — you cry)\nهغه ژاړي (وہ روتا / روتی ہے — he/she cries)\nموږ ژاړو (ہم روتے / روتی ہیں — we cry)\nتاسو ژاړئ (آپ روتے / روتی ہیں — you cry)\nهغوی ژاړي (وہ روتے / روتی ہیں — they cry)\nدوی ژاړي (وہ روتے / روتی ہیں — they cry)",
        "body_roman": "",
        "body_ur": "",
-       "body_en": "",
+       "body_en": "Present",
        "grammar": ""
       },
       {
        "id": "md1764-c2",
-       "title_ps": "مستقبل",
-       "title_ur": "مستقبل",
-       "title_roman": "Future",
-       "body_ps": "زه به ژړم (میں رووں گا — I will cry)\nته به ژړې (تو روے گا — you will cry)\nهغه به ژړي (وہ روے گا — he/she will cry)\nمونږ به ژړو (ہم رویں گے — we will cry)\nتاسې به ژړئ (تم روو گے — you will cry)\nهغوی به ژړي (وہ سب رویں گے — they will cry)",
+       "title_ps": "ماضی مطلق",
+       "title_ur": "رویا",
+       "title_roman": "",
+       "body_ps": "ما وژړل (میں رویا — I cried)\nتا وژړل (تم روئے — you cried)\nهغه وژړل (وہ رویا — he cried)\nهغې وژړل (وہ روئی — she cried)\nموږ وژړل (ہم روئے — we cried)\nتاسو وژړل (آپ روئے / روئیں — you cried)\nهغوی وژړل (وہ روئے — they cried)\nدوی وژړل (وہ روئے — they cried)",
        "body_roman": "",
        "body_ur": "",
-       "body_en": "",
+       "body_en": "Simple past",
        "grammar": ""
       },
       {
        "id": "md1764-c3",
-       "title_ps": "امر",
-       "title_ur": "امر",
-       "title_roman": "Imperative",
-       "body_ps": "ته وژړه (تو روو! — Cry!)\nتاسې وژړئ (تم روئ! — Cry!)",
+       "title_ps": "ماضی استمراری",
+       "title_ur": "روتا تھا",
+       "title_roman": "",
+       "body_ps": "ما ژړل (میں روتا تھا — I was crying)\nتا ژړل (تم روتے تھے / روتی تھیں — you were crying)\nهغه ژړل (وہ روتا تھا — he was crying)\nهغې ژړل (وہ روتی تھی — she was crying)\nموږ ژړل (ہم روتے تھے — we were crying)\nتاسو ژړل (آپ روتے تھے / روتی تھیں — you were crying)\nهغوی ژړل (وہ روتے تھے — they were crying)\nدوی ژړل (وہ روتے تھے — they were crying)",
        "body_roman": "",
        "body_ur": "",
-       "body_en": "",
+       "body_en": "Past continuous",
+       "grammar": ""
+      },
+      {
+       "id": "md1764-c4",
+       "title_ps": "حال مکمل / ماضی قریب",
+       "title_ur": "رویا ہے",
+       "title_roman": "",
+       "body_ps": "ما ژړلي دي (میں رویا ہوں — I have cried)\nتا ژړلي دي (تم روئے ہو — you have cried)\nهغه ژړلي دي (وہ رویا ہے — he has cried)\nهغې ژړلي دي (وہ روئی ہے — she has cried)\nموږ ژړلي دي (ہم روئے ہیں — we have cried)\nتاسو ژړلي دي (آپ روئے ہیں — you have cried)\nهغوی ژړلي دي (وہ روئے ہیں — they have cried)\nدوی ژړلي دي (وہ روئے ہیں — they have cried)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Present perfect",
+       "grammar": ""
+      },
+      {
+       "id": "md1764-c5",
+       "title_ps": "ماضی بعيد",
+       "title_ur": "رویا تھا",
+       "title_roman": "",
+       "body_ps": "ما ژړلي وو (میں رویا تھا — I had cried)\nتا ژړلي وو (تم روئے تھے — you had cried)\nهغه ژړلي وو (وہ رویا تھا — he had cried)\nهغې ژړلي وو (وہ روئی تھی — she had cried)\nموږ ژړلي وو (ہم روئے تھے — we had cried)\nتاسو ژړلي وو (آپ روئے تھے — you had cried)\nهغوی ژړلي وو (وہ روئے تھے — they had cried)\nدوی ژړلي وو (وہ روئے تھے — they had cried)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Past perfect",
+       "grammar": ""
+      },
+      {
+       "id": "md1764-c6",
+       "title_ps": "ماضی احتمالی",
+       "title_ur": "رویا ہو گا",
+       "title_roman": "",
+       "body_ps": "ما به ژړلي وو (میں رویا ہو گا — I must have cried)\nتا به ژړلي وو (تم روئے ہو گے — you must have cried)\nهغه به ژړلي وو (وہ رویا ہو گا — he must have cried)\nهغې به ژړلي وو (وہ روئی ہو گی — she must have cried)\nموږ به ژړلي وو (ہم روئے ہوں گے — we must have cried)\nتاسو به ژړلي وو (آپ روئے ہوں گے — you must have cried)\nهغوی به ژړلي وو (وہ روئے ہوں گے — they must have cried)\nدوی به ژړلي وو (وہ روئے ہوں گے — they must have cried)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Presumptive past",
+       "grammar": ""
+      },
+      {
+       "id": "md1764-c7",
+       "title_ps": "مستقبل سادہ",
+       "title_ur": "روؤں گا",
+       "title_roman": "",
+       "body_ps": "زه به ژاړم (میں روؤں گا / روؤں گی — I will cry)\nته به ژاړې (تم روؤ گے / روؤ گی — you will cry)\nهغه به ژاړي (وہ روئے گا / روئے گی — he/she will cry)\nموږ به ژاړو (ہم روئیں گے / روئیں گی — we will cry)\nتاسو به ژاړئ (آپ روئیں گے / روئیں گی — you will cry)\nهغوی به ژاړي (وہ روئیں گے / روئیں گی — they will cry)\nدوی به ژاړي (وہ روئیں گے / روئیں گی — they will cry)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Simple future",
+       "grammar": ""
+      },
+      {
+       "id": "md1764-c8",
+       "title_ps": "ارادی مستقبل",
+       "title_ur": "رو لوں گا",
+       "title_roman": "",
+       "body_ps": "زه به وژاړم (میں رو لوں گا / رو لوں گی — I will cry)\nته به وژاړې (تم رو لو گے / رو لو گی — you will cry)\nهغه به وژاړي (وہ رو لے گا / رو لے گی — he/she will cry)\nموږ به وژاړو (ہم رو لیں گے / رو لیں گی — we will cry)\nتاسو به وژاړئ (آپ رو لیں گے / رو لیں گی — you will cry)\nهغوی به وژاړي (وہ رو لیں گے / رو لیں گی — they will cry)\nدوی به وژاړي (وہ رو لیں گے / رو لیں گی — they will cry)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Resolutive future",
+       "grammar": ""
+      },
+      {
+       "id": "md1764-c9",
+       "title_ps": "مضارع",
+       "title_ur": "روؤں",
+       "title_roman": "",
+       "body_ps": "زه وژاړم (میں روؤں — that I cry)\nته وژاړې (تم روؤ — that you cry)\nهغه وژاړي (وہ روئے — that he/she cry)\nموږ وژاړو (ہم روئیں — that we cry)\nتاسو وژاړئ (آپ روئیں — that you cry)\nهغوی وژاړي (وہ روئیں — that they cry)\nدوی وژاړي (وہ روئیں — that they cry)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Subjunctive",
+       "grammar": ""
+      },
+      {
+       "id": "md1764-c10",
+       "title_ps": "امر",
+       "title_ur": "حکم",
+       "title_roman": "",
+       "body_ps": "وژاړه (رو — cry!)\nوژاړئ (روئیں / روئیے — cry! (pl./formal))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Imperative",
+       "grammar": ""
+      },
+      {
+       "id": "md1764-c11",
+       "title_ps": "نہی",
+       "title_ur": "منع",
+       "title_roman": "",
+       "body_ps": "مه ژاړه (مت رو — don't cry!)\nمه ژاړئ (مت روئیں / مت روئیے — don't cry! (pl./formal))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Prohibitive",
        "grammar": ""
       }
      ]
