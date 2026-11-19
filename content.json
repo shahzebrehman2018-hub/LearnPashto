@@ -1,5 +1,5 @@
 {
- "version": 106,
+ "version": 107,
  "sections": [
   {
    "id": "grammar",
@@ -192985,39 +192985,127 @@
      "body_roman": "",
      "body_ur": "",
      "body_en": "to cook, prepare, to cause to ripen, mature",
-     "grammar": "",
+     "grammar": "فعل، متعدی",
      "children": [
       {
        "id": "md440-c1",
        "title_ps": "حال",
-       "title_ur": "حال",
-       "title_roman": "Present",
-       "body_ps": "زه پخوم (میں پکاتا ہوں — I cook)\nته پخوې (تو پکاتا ہے — you cook)\nهغه پخوي (وہ پکاتا ہے — he/she cooks)\nمونږ پخوو (ہم پکاتے ہیں — we cook)\nتاسې پخوئ (تم پکاتے ہو — you cook)\nهغوی پخوي (وہ سب پکاتے ہیں — they cook)",
+       "title_ur": "پکاتا ہوں",
+       "title_roman": "",
+       "body_ps": "زه یې پخوم (میں پکاتا / پکاتی ہوں — I cook it)\nته یې پخوې (تم پکاتے / پکاتی ہو — you cook it)\nهغه یې پخوي (وہ پکاتا / پکاتی ہے — he/she cooks it)\nموږ یې پخوو (ہم پکاتے / پکاتی ہیں — we cook it)\nتاسو یې پخوئ (آپ پکاتے / پکاتی ہیں — you cook it)\nهغوی یې پخوي (وہ پکاتے / پکاتی ہیں — they cook it)\nدوی یې پخوي (وہ پکاتے / پکاتی ہیں — they cook it)",
        "body_roman": "",
        "body_ur": "",
-       "body_en": "",
+       "body_en": "Present",
        "grammar": ""
       },
       {
        "id": "md440-c2",
-       "title_ps": "مستقبل",
-       "title_ur": "مستقبل",
-       "title_roman": "Future",
-       "body_ps": "زه به پخوم (میں پکاوں گا — I will cook)\nته به پخوې (تو پکاے گا — you will cook)\nهغه به پخوي (وہ پکاے گا — he/she will cook)\nمونږ به پخوو (ہم پکایں گے — we will cook)\nتاسې به پخوئ (تم پکاو گے — you will cook)\nهغوی به پخوي (وہ سب پکایں گے — they will cook)",
+       "title_ps": "ماضی مطلق",
+       "title_ur": "پکایا",
+       "title_roman": "",
+       "body_ps": "ما پوخ کړ (میں نے پکایا — I cooked it (m.))\nما پخه کړه (میں نے پکائی — I cooked it (f.))\nتا پوخ کړ (تم نے پکایا — you cooked it (m.))\nتا پخه کړه (تم نے پکائی — you cooked it (f.))\nهغه پوخ کړ (اس نے پکایا — he cooked it (m.))\nهغې پخه کړه (اس نے پکائی — she cooked it (f.))\nموږ پاخه کړل (ہم نے پکائے — we cooked them (m.))\nموږ پخې کړې (ہم نے پکائیں — we cooked them (f.))\nتاسو پاخه کړل (آپ نے پکائے — you cooked them (m.))\nتاسو پخې کړې (آپ نے پکائیں — you cooked them (f.))\nهغوی پاخه کړل (انہوں نے پکائے — they cooked them (m.))\nهغوی پخې کړې (انہوں نے پکائیں — they cooked them (f.))\nدوی پاخه کړل (انہوں نے پکائے — they cooked them (m.))\nدوی پخې کړې (انہوں نے پکائیں — they cooked them (f.))",
        "body_roman": "",
        "body_ur": "",
-       "body_en": "",
+       "body_en": "Simple past",
        "grammar": ""
       },
       {
        "id": "md440-c3",
-       "title_ps": "امر",
-       "title_ur": "امر",
-       "title_roman": "Imperative",
-       "body_ps": "ته وپخوه (تو پکاو! — Cook!)\nتاسې وپخوئ (تم پکائ! — Cook!)",
+       "title_ps": "ماضی استمراری",
+       "title_ur": "پکاتا تھا",
+       "title_roman": "",
+       "body_ps": "ما پخولو (میں پکاتا تھا — I was cooking it (m.))\nما پخوله (میں پکاتی تھی — I was cooking it (f.))\nتا پخولو (تم پکاتے تھے — you were cooking it (m.))\nتا پخوله (تم پکاتی تھیں — you were cooking it (f.))\nهغه پخولو (وہ پکاتا تھا — he was cooking it)\nهغې پخوله (وہ پکاتی تھی — she was cooking it)\nموږ پخول (ہم پکاتے تھے — we were cooking it (m.))\nموږ پخولې (ہم پکاتی تھیں — we were cooking it (f.))\nتاسو پخول (آپ پکاتے تھے — you were cooking it (m.))\nتاسو پخولې (آپ پکاتی تھیں — you were cooking it (f.))\nهغوی پخول (وہ پکاتے تھے — they were cooking it (m.))\nهغوی پخولې (وہ پکاتی تھیں — they were cooking it (f.))\nدوی پخول (وہ پکاتے تھے — they were cooking it (m.))\nدوی پخولې (وہ پکاتی تھیں — they were cooking it (f.))",
        "body_roman": "",
        "body_ur": "",
-       "body_en": "",
+       "body_en": "Past continuous",
+       "grammar": ""
+      },
+      {
+       "id": "md440-c4",
+       "title_ps": "حال مکمل / ماضی قریب",
+       "title_ur": "پکایا ہے",
+       "title_roman": "",
+       "body_ps": "ما پوخ کړی دی (میں نے پکایا ہے / پکا چکا ہُوں — I have cooked it (m.))\nما پخه کړې ده (میں نے پکائی ہے / پکا چکی ہوں — I have cooked it (f.))\nتا پوخ کړی دی (تم نے پکایا ہے / پکا چکے ہو — you have cooked it (m.))\nتا پخه کړې ده (تم نے پکائی ہے / پکا چکی ہو — you have cooked it (f.))\nهغه پوخ کړی دی (اس نے پکایا ہے / پکا چکا ہے — he has cooked it (m.))\nهغې پخه کړې ده (اس نے پکائی ہے / پکا چکی ہے — she has cooked it (f.))\nموږ پاخه کړي دي (ہم نے پکائے ہیں / پکا چکے ہیں — we have cooked them (m.))\nموږ پخې کړې دي (ہم نے پکائی ہیں / پکا چکی ہیں — we have cooked them (f.))\nتاسو پاخه کړي دي (آپ نے پکائے ہیں / پکا چکے ہیں — you have cooked them (m.))\nتاسو پخې کړې دي (آپ نے پکائی ہیں / پکا چکی ہیں — you have cooked them (f.))\nهغوی پاخه کړي دي (انہوں نے پکائے ہیں / پکا چکے ہیں — they have cooked them (m.))\nهغوی پخې کړې دي (انہوں نے پکائی ہیں / پکا چکی ہیں — they have cooked them (f.))\nدوی پاخه کړي دي (انہوں نے پکائے ہیں / پکا چکے ہیں — they have cooked them (m.))\nدوی پخې کړې دي (انہوں نے پکائی ہیں / پکا چکی ہیں — they have cooked them (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Present perfect",
+       "grammar": ""
+      },
+      {
+       "id": "md440-c5",
+       "title_ps": "ماضی بعيد",
+       "title_ur": "پکایا تھا",
+       "title_roman": "",
+       "body_ps": "ما پوخ کړی و (میں نے پکایا تھا / پکا چکا تھا — I had cooked it (m.))\nما پخه کړې وه (میں نے پکائی تھی / پکا چکی تھی — I had cooked it (f.))\nتا پوخ کړی و (تم نے پکایا تھا / پکا چکا تھا — you had cooked it (m.))\nتا پخه کړې وه (تم نے پکائی تھی / پکا چکی تھی — you had cooked it (f.))\nهغه پوخ کړی و (اس نے پکایا تھا / پکا چکا تھا — he had cooked it (m.))\nهغې پخه کړې وه (اس نے پکائی تھی / پکا چکی تھی — she had cooked it (f.))\nموږ پاخه کړي وو (ہم نے پکائے تھے / پکا چکے تھے — we had cooked them (m.))\nموږ پخې کړې وې (ہم نے پکائی تھیں / پکا چکی تھیں — we had cooked them (f.))\nتاسو پاخه کړي وو (آپ نے پکائے تھے / پکا چکے تھے — you had cooked them (m.))\nتاسو پخې کړې وې (آپ نے پکائی تھیں / پکا چکی تھیں — you had cooked them (f.))\nهغوی پاخه کړي وو (انہوں نے پکائے تھے / پکا چکے تھے — they had cooked them (m.))\nهغوی پخې کړې وې (انہوں نے پکائی تھیں / پکا چکی تھیں — they had cooked them (f.))\nدوی پاخه کړي وو (انہوں نے پکائے تھے / پکا چکے تھے — they had cooked them (m.))\nدوی پخې کړې وې (انہوں نے پکائی تھیں / پکا چکی تھیں — they had cooked them (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Past perfect",
+       "grammar": ""
+      },
+      {
+       "id": "md440-c6",
+       "title_ps": "ماضی احتمالی",
+       "title_ur": "پکایا ہوگا",
+       "title_roman": "",
+       "body_ps": "ما به پوخ کړی و (میں نے پکایا ہو گا — I must have cooked it (m.))\nما به پخه کړې وه (میں نے پکائی ہو گی — I must have cooked it (f.))\nتا به پوخ کړی و (تم نے پکایا ہو گا — you must have cooked it (m.))\nتا به پخه کړې وه (تم نے پکائی ہو گی — you must have cooked it (f.))\nهغه به پوخ کړی و (اس نے پکایا ہو گا — he must have cooked it (m.))\nهغې به پخه کړې وه (اس نے پکائی ہو گی — she must have cooked it (f.))\nموږ به پاخه کړي وو (ہم نے پکائے ہوں گے — we must have cooked them (m.))\nموږ به پخې کړې وې (ہم نے پکائی ہوں گی — we must have cooked them (f.))\nتاسو به پاخه کړي وو (آپ نے پکائے ہوں گے — you must have cooked them (m.))\nتاسو به پخې کړې وې (آپ نے پکائی ہوں گی — you must have cooked them (f.))\nهغوی به پاخه کړي وو (انہوں نے پکائے ہوں گے — they must have cooked them (m.))\nهغوی به پخې کړې وې (انہوں نے پکائی ہوں گی — they must have cooked them (f.))\nدوی به پاخه کړي وو (انہوں نے پکائے ہوں گے — they must have cooked them (m.))\nدوی به پخې کړې وې (انہوں نے پکائی ہوں گی — they must have cooked them (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Presumptive past",
+       "grammar": ""
+      },
+      {
+       "id": "md440-c7",
+       "title_ps": "مستقبل سادہ",
+       "title_ur": "پکاؤں گا",
+       "title_roman": "",
+       "body_ps": "زه به یې پخوم (میں پکاؤں گا / پکاؤں گی — I will cook it)\nته به یې پخوې (تم پکاؤ گے / پکاؤ گی — you will cook it)\nهغه به یې پخوي (وہ پکائے گا / پکائے گی — he/she will cook it)\nموږ به یې پخوو (ہم پکائیں گے / پکائیں گی — we will cook it)\nتاسو به یې پخوئ (آپ پکائیں گے / پکائیں گی — you will cook it)\nهغوی به یې پخوي (وہ پکائیں گے / پکائیں گی — they will cook it)\nدوی به یې پخوي (وہ پکائیں گے / پکائیں گی — they will cook it)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Simple future",
+       "grammar": ""
+      },
+      {
+       "id": "md440-c8",
+       "title_ps": "ارادی مستقبل",
+       "title_ur": "پکا لوں گا",
+       "title_roman": "",
+       "body_ps": "زه به یې پوخ کړم (میں پکا لوں گا / پکا لوں گی — I will cook it)\nته به یې پوخ کړې (تم پکا لو گے / پکا لو گی — you will cook it)\nهغه به یې پوخ کړي (وہ پکا لے گا / پکا لے گی — he/she will cook it)\nموږ به یې پوخ کړو (ہم پکا لیں گے / پکا لیں گی — we will cook it)\nتاسو به یې پوخ کړئ (آپ پکا لیں گے / پکا لیں گی — you will cook it)\nهغوی به یې پوخ کړي (وہ پکا لیں گے / پکا لیں گی — they will cook it)\nدوی به یې پوخ کړي (وہ پکا لیں گے / پکا لیں گی — they will cook it)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Resolutive future",
+       "grammar": ""
+      },
+      {
+       "id": "md440-c9",
+       "title_ps": "مضارع",
+       "title_ur": "پکاؤں",
+       "title_roman": "",
+       "body_ps": "زه یې پوخ کړم (میں پکاؤں — that I cook it)\nته یې پوخ کړې (تم پکاؤ — that you cook it)\nهغه یې پوخ کړي (وہ پکائے — that he/she cook it)\nموږ یې پوخ کړو (ہم پکائیں — that we cook it)\nتاسو یې پوخ کړئ (آپ پکائیں — that you cook it)\nهغوی یې پوخ کړي (وہ پکائیں — that they cook it)\nدوی یې پوخ کړي (وہ پکائیں — that they cook it)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Subjunctive",
+       "grammar": ""
+      },
+      {
+       "id": "md440-c10",
+       "title_ps": "امر",
+       "title_ur": "حکم",
+       "title_roman": "",
+       "body_ps": "پوخ يې کړه (پکاؤ — cook it!)\nپوخ يې کړئ (پکائیں / پکائیے — cook it! (pl./formal))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Imperative",
+       "grammar": ""
+      },
+      {
+       "id": "md440-c11",
+       "title_ps": "نہی",
+       "title_ur": "منع",
+       "title_roman": "",
+       "body_ps": "مه یې پخوه (مت پکاؤ — don't cook it!)\nمه یې پخوئ (مت پکائیں / مت پکائیے — don't cook it! (pl./formal))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Prohibitive",
        "grammar": ""
       }
      ]
