@@ -1,5 +1,5 @@
 {
- "version": 107,
+ "version": 108,
  "sections": [
   {
    "id": "grammar",
@@ -323687,39 +323687,127 @@
      "body_roman": "",
      "body_ur": "",
      "body_en": "to take, carry, bear, move (by physically carrying); to win, earn (subjunctive یوسي - yósee or ویسي - wéesee, simple past یو یې وړلو - yo ye wRulo)",
-     "grammar": "",
+     "grammar": "فعل، متعدی",
      "children": [
       {
        "id": "md3246-c1",
        "title_ps": "حال",
-       "title_ur": "حال",
-       "title_roman": "Present",
-       "body_ps": "زه وړم (میں لیتا ہوں — I take)\nته وړې (تو لیتا ہے — you take)\nهغه وړي (وہ لیتا ہے — he/she takes)\nمونږ وړو (ہم لیتے ہیں — we take)\nتاسې وړئ (تم لیتے ہو — you take)\nهغوی وړي (وہ سب لیتے ہیں — they take)",
+       "title_ur": "لے جاتا ہوں",
+       "title_roman": "",
+       "body_ps": "زه یې وړم (میں لے جاتا / لے جاتی ہوں — I take it away)\nته یې وړې (تم لے جاتے / لے جاتی ہو — you take it away)\nهغه یې وړي (وہ لے جاتا / لے جاتی ہے — he/she takes it away)\nموږ یې وړو (ہم لے جاتے / لے جاتی ہیں — we take it away)\nتاسو یې وړئ (آپ لے جاتے / لے جاتی ہیں — you take it away)\nهغوی یې وړي (وہ لے جاتے / لے جاتی ہیں — they take it away)\nدوی یې وړي (وہ لے جاتے / لے جاتی ہیں — they take it away)",
        "body_roman": "",
        "body_ur": "",
-       "body_en": "",
+       "body_en": "Present",
        "grammar": ""
       },
       {
        "id": "md3246-c2",
-       "title_ps": "مستقبل",
-       "title_ur": "مستقبل",
-       "title_roman": "Future",
-       "body_ps": "زه به وړم (میں لیوں گا — I will take)\nته به وړې (تو لیے گا — you will take)\nهغه به وړي (وہ لیے گا — he/she will take)\nمونږ به وړو (ہم لییں گے — we will take)\nتاسې به وړئ (تم لیو گے — you will take)\nهغوی به وړي (وہ سب لییں گے — they will take)",
+       "title_ps": "ماضی مطلق",
+       "title_ur": "لے گیا",
+       "title_roman": "",
+       "body_ps": "ما یووړ (میں لے گیا — I took it away (m.))\nما یووړه (میں لے گئی — I took it away (f.))\nتا یووړ (تم لے گئے — you took it away (m.))\nتا یووړه (تم لے گئیں — you took it away (f.))\nهغه یووړ (وہ لے گیا — he took it away (m.))\nهغې یووړه (وہ لے گئی — she took it away (f.))\nموږ یووړل (ہم لے گئے — we took them away (m.))\nموږ یووړې (ہم لے گئیں — we took them away (f.))\nتاسو یووړل (آپ لے گئے — you took them away (m.))\nتاسو یووړې (آپ لے گئیں — you took them away (f.))\nهغوی یووړل (وہ لے گئے — they took them away (m.))\nهغوی یووړې (وہ لے گئیں — they took them away (f.))\nدوی یووړل (وہ لے گئے — they took them away (m.))\nدوی یووړې (وہ لے گئیں — they took them away (f.))",
        "body_roman": "",
        "body_ur": "",
-       "body_en": "",
+       "body_en": "Simple past",
        "grammar": ""
       },
       {
        "id": "md3246-c3",
-       "title_ps": "امر",
-       "title_ur": "امر",
-       "title_roman": "Imperative",
-       "body_ps": "ته ووړه (تو لیو! — Take!)\nتاسې ووړئ (تم لیئ! — Take!)",
+       "title_ps": "ماضی استمراری",
+       "title_ur": "لے جاتا تھا",
+       "title_roman": "",
+       "body_ps": "ما وړلو (میں لے جاتا تھا — I was taking it away (m.))\nما وړله (میں لے جاتی تھی — I was taking it away (f.))\nتا وړلو (تم لے جاتے تھے — you were taking it away (m.))\nتا وړله (تم لے جاتی تھیں — you were taking it away (f.))\nهغه وړلو (وہ لے جاتا تھا — he was taking it away)\nهغې وړله (وہ لے جاتی تھی — she was taking it away)\nموږ وړل (ہم لے جاتے تھے — we were taking it away (m.))\nموږ وړلې (ہم لے جاتی تھیں — we were taking it away (f.))\nتاسو وړل (آپ لے جاتے تھے — you were taking it away (m.))\nتاسو وړلې (آپ لے جاتی تھیں — you were taking it away (f.))\nهغوی وړل (وہ لے جاتے تھے — they were taking it away (m.))\nهغوی وړلې (وہ لے جاتی تھیں — they were taking it away (f.))\nدوی وړل (وہ لے جاتے تھے — they were taking it away (m.))\nدوی وړلې (وہ لے جاتی تھیں — they were taking it away (f.))",
        "body_roman": "",
        "body_ur": "",
-       "body_en": "",
+       "body_en": "Past continuous",
+       "grammar": ""
+      },
+      {
+       "id": "md3246-c4",
+       "title_ps": "حال مکمل / ماضی قریب",
+       "title_ur": "لے گیا ہوں",
+       "title_roman": "",
+       "body_ps": "ما وړی دی (میں لے گیا ہوں — I have taken it away (m.))\nما وړې ده (میں لے گئی ہوں — I have taken it away (f.))\nتا وړی دی (تم لے گئے ہو — you have taken it away (m.))\nتا وړې ده (تم لے گئی ہو — you have taken it away (f.))\nهغه وړی دی (وہ لے گیا ہے — he has taken it away (m.))\nهغې وړې ده (وہ لے گئی ہے — she has taken it away (f.))\nموږ وړي دي (ہم لے گئے ہیں — we have taken them away (m.))\nموږ وړې دي (ہم لے گئی ہیں — we have taken them away (f.))\nتاسو وړي دي (آپ لے گئے ہیں — you have taken them away (m.))\nتاسو وړې دي (آپ لے گئی ہیں — you have taken them away (f.))\nهغوی وړي دي (وہ لے گئے ہیں — they have taken them away (m.))\nهغوی وړې دي (وہ لے گئی ہیں — they have taken them away (f.))\nدوی وړي دي (وہ لے گئے ہیں — they have taken them away (m.))\nدوی وړې دي (وہ لے گئی ہیں — they have taken them away (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Present perfect",
+       "grammar": ""
+      },
+      {
+       "id": "md3246-c5",
+       "title_ps": "ماضی بعيد",
+       "title_ur": "لے گیا تھا",
+       "title_roman": "",
+       "body_ps": "ما وړی و (میں لے گیا تھا — I had taken it away (m.))\nما وړې وه (میں لے گئی تھی — I had taken it away (f.))\nتا وړی و (تم لے گئے تھے — you had taken it away (m.))\nتا وړې وه (تم لے گئی تھی — you had taken it away (f.))\nهغه وړی و (وہ لے گیا تھا — he had taken it away (m.))\nهغې وړې وه (وہ لے گئی تھی — she had taken it away (f.))\nموږ وړي وو (ہم لے گئے تھے — we had taken them away (m.))\nموږ وړې وې (ہم لے گئی تھیں — we had taken them away (f.))\nتاسو وړي وو (آپ لے گئے تھے — you had taken them away (m.))\nتاسو وړې وې (آپ لے گئی تھیں — you had taken them away (f.))\nهغوی وړي وو (وہ لے گئے تھے — they had taken them away (m.))\nهغوی وړې وې (وہ لے گئی تھیں — they had taken them away (f.))\nدوی وړي وو (وہ لے گئے تھے — they had taken them away (m.))\nدوی وړې وې (وہ لے گئی تھیں — they had taken them away (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Past perfect",
+       "grammar": ""
+      },
+      {
+       "id": "md3246-c6",
+       "title_ps": "ماضی احتمالی",
+       "title_ur": "لے گیا ہوں گا",
+       "title_roman": "",
+       "body_ps": "ما به وړی و (میں لے گیا ہوں گا — I must have taken it away (m.))\nما به وړې وه (میں لے گئی ہوں گی — I must have taken it away (f.))\nتا به وړی و (تم لے گئے ہو گے — you must have taken it away (m.))\nتا به وړې وه (تم لے گئی ہو گی — you must have taken it away (f.))\nهغه به وړی و (وہ لے گیا ہو گا — he must have taken it away (m.))\nهغې به وړې وه (وہ لے گئی ہو گی — she must have taken it away (f.))\nموږ به وړي وو (ہم لے گئے ہوں گے — we must have taken them away (m.))\nموږ به وړې وې (ہم لے گئی ہوں گی — we must have taken them away (f.))\nتاسو به وړي وو (آپ لے گئے ہوں گے — you must have taken them away (m.))\nتاسو به وړې وې (آپ لے گئی ہوں گی — you must have taken them away (f.))\nهغوی به وړي وو (وہ لے گئے ہوں گے — they must have taken them away (m.))\nهغوی به وړې وې (وہ لے گئی ہوں گی — they must have taken them away (f.))\nدوی به وړي وو (وہ لے گئے ہوں گے — they must have taken them away (m.))\nدوی به وړې وې (وہ لے گئی ہوں گی — they must have taken them away (f.))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Presumptive past",
+       "grammar": ""
+      },
+      {
+       "id": "md3246-c7",
+       "title_ps": "مستقبل سادہ",
+       "title_ur": "لے جاؤں گا",
+       "title_roman": "",
+       "body_ps": "زه به یې وړم (میں لے جاؤں گا / لے جاؤں گی — I will take it away)\nته به یې وړې (تم لے جاؤ گے / لے جاؤ گی — you will take it away)\nهغه به یې وړي (وہ لے جائے گا / لے جائے گی — he/she will take it away)\nموږ به یې وړو (ہم لے جائیں گے / لے جائیں گی — we will take it away)\nتاسو به یې وړئ (آپ لے جائیں گے / لے جائیں گی — you will take it away)\nهغوی به یې وړي (وہ لے جائیں گے / لے جائیں گی — they will take it away)\nدوی به یې وړي (وہ لے جائیں گے / لے جائیں گی — they will take it away)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Simple future",
+       "grammar": ""
+      },
+      {
+       "id": "md3246-c8",
+       "title_ps": "ارادی مستقبل",
+       "title_ur": "لے جاؤں گا",
+       "title_roman": "",
+       "body_ps": "زه به یې یوسم (میں لے جاؤں گا / لے جاؤں گی — I will take it away)\nته به یې یوسې (تم لے جاؤ گے / لے جاؤ گی — you will take it away)\nهغه به یې یوسي (وہ لے جائے گا / لے جائے گی — he/she will take it away)\nموږ به یې یوسو (ہم لے جائیں گے / لے جائیں گی — we will take it away)\nتاسو به یې یوسئ (آپ لے جائیں گے / لے جائیں گی — you will take it away)\nهغوی به یې یوسي (وہ لے جائیں گے / لے جائیں گی — they will take it away)\nدوی به یې یوسي (وہ لے جائیں گے / لے جائیں گی — they will take it away)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Resolutive future",
+       "grammar": ""
+      },
+      {
+       "id": "md3246-c9",
+       "title_ps": "مضارع",
+       "title_ur": "لے جاؤں",
+       "title_roman": "",
+       "body_ps": "زه یې یوسم (میں لے جاؤں — that I take it away)\nته یې یوسې (تم لے جاؤ — that you take it away)\nهغه یې یوسي (وہ لے جائے — that he/she take it away)\nموږ یې یوسو (ہم لے جائیں — that we take it away)\nتاسو یې یوسئ (آپ لے جائیں — that you take it away)\nهغوی یې یوسي (وہ لے جائیں — that they take it away)\nدوی یې یوسي (وہ لے جائیں — that they take it away)",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Subjunctive",
+       "grammar": ""
+      },
+      {
+       "id": "md3246-c10",
+       "title_ps": "امر",
+       "title_ur": "حکم",
+       "title_roman": "",
+       "body_ps": "یو يې سه (لے جاؤ — take it away!)\nیو يې سئ (لے جائیں / لے جائیے — take it away! (pl./formal))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Imperative",
+       "grammar": ""
+      },
+      {
+       "id": "md3246-c11",
+       "title_ps": "نہی",
+       "title_ur": "منع",
+       "title_roman": "",
+       "body_ps": "مه یې وړه (مت لے جاؤ — don't take it away!)\nمه یې وړئ (مت لے جائیں / مت لے جائیے — don't take it away! (pl./formal))",
+       "body_roman": "",
+       "body_ur": "",
+       "body_en": "Prohibitive",
        "grammar": ""
       }
      ]
